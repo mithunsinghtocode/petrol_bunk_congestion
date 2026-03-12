@@ -4,6 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
   <meta name="theme-color" content="#1e3a5f">
+  <meta name="mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="description" content="Find nearest petrol bunks with low congestion during the fuel crisis. Real-time crowdsourced reports and traffic-based estimation for India.">
@@ -29,8 +30,8 @@
     </div>
   </header>
 
-  <!-- Offline Banner -->
-  <div id="offline-banner">You're offline — showing cached station data</div>
+  <!-- Offline Banner (hidden — app silently falls back to cached data) -->
+  <div id="offline-banner" style="display:none"></div>
 
   <!-- Map Container -->
   <div id="map"></div>

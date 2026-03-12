@@ -10,6 +10,12 @@ const Stations = {
   _cachedRoads: null,
   _fetching: false,
 
+  // Overpass API mirrors for failover
+  OVERPASS_MIRRORS: [
+    'https://overpass-api.de/api/interpreter',
+    'https://overpass.kumi.systems/api/interpreter',
+  ],
+
   async fetchNearby(lat, lng, radiusMeters) {
     // Prevent concurrent requests
     if (this._fetching) return this.loadCached(lat, lng);
@@ -17,68 +23,93 @@ const Stations = {
 
     // Single combined Overpass query: fuel stations + major roads (limited to 2km for roads to avoid timeouts)
     const roadRadius = Math.min(radiusMeters, 2000);
-    const query = `[out:json][timeout:25];(node["amenity"="fuel"](around:${radiusMeters},${lat},${lng});way["amenity"="fuel"](around:${radiusMeters},${lat},${lng});way["highway"~"^(trunk|trunk_link|primary|primary_link|secondary|tertiary|motorway)$"](around:${roadRadius},${lat},${lng}););out center body;`;
-    const url = 'https://overpass-api.de/api/interpreter?data=' + encodeURIComponent(query);
+    const query = `[out:json][timeout:30];(node["amenity"="fuel"](around:${radiusMeters},${lat},${lng});way["amenity"="fuel"](around:${radiusMeters},${lat},${lng});way["highway"~"^(trunk|trunk_link|primary|primary_link|secondary|tertiary|motorway)$"](around:${roadRadius},${lat},${lng}););out center body;`;
 
-    try {
-      const res = await fetch(url);
-      if (!res.ok) throw new Error('Overpass API error: ' + res.status);
-      const data = await res.json();
-
-      // Separate fuel stations from roads
-      const fuelElements = [];
-      const roadElements = [];
-      (data.elements || []).forEach(el => {
-        const tags = el.tags || {};
-        if (tags.amenity === 'fuel') {
-          fuelElements.push(el);
-        } else if (tags.highway) {
-          roadElements.push(el);
-        }
-      });
-
-      // Cache stations for offline use
+    // Try each mirror
+    let lastErr = null;
+    for (const mirror of this.OVERPASS_MIRRORS) {
+      const url = mirror + '?data=' + encodeURIComponent(query);
       try {
-        localStorage.setItem(this.CACHE_KEY, JSON.stringify({
-          timestamp: Date.now(), lat, lng, radius: radiusMeters, data: fuelElements
-        }));
-      } catch { /* storage full */ }
+        const res = await fetch(url);
+        if (!res.ok) throw new Error('Overpass API error: ' + res.status);
+        const data = await res.json();
 
-      // Cache roads
-      this._cachedRoads = roadElements.map(el => ({
-        lat: el.center ? el.center.lat : el.lat,
-        lng: el.center ? el.center.lon : el.lon,
-        highway: el.tags ? el.tags.highway : 'unknown',
-        lanes: parseInt(el.tags?.lanes) || 0
-      })).filter(r => r.lat && r.lng);
+        // Separate fuel stations from roads
+        const fuelElements = [];
+        const roadElements = [];
+        (data.elements || []).forEach(el => {
+          const tags = el.tags || {};
+          if (tags.amenity === 'fuel') {
+            fuelElements.push(el);
+          } else if (tags.highway) {
+            roadElements.push(el);
+          }
+        });
 
-      try {
-        localStorage.setItem(this.ROADS_CACHE_KEY, JSON.stringify(this._cachedRoads));
-      } catch {}
+        // Cache stations for offline use
+        try {
+          localStorage.setItem(this.CACHE_KEY, JSON.stringify({
+            timestamp: Date.now(), lat, lng, radius: radiusMeters, data: fuelElements
+          }));
+        } catch { /* storage full */ }
 
-      this.lastQueryCenter = { lat, lng };
-      this._fetching = false;
-      return this.processResults(fuelElements, lat, lng);
-    } catch (err) {
-      this._fetching = false;
-      console.warn('Overpass fetch failed, trying cache:', err);
-      // Load cached roads too
-      try {
-        this._cachedRoads = JSON.parse(localStorage.getItem(this.ROADS_CACHE_KEY)) || [];
-      } catch { this._cachedRoads = []; }
-      return this.loadCached(lat, lng);
+        // Cache roads
+        this._cachedRoads = roadElements.map(el => ({
+          lat: el.center ? el.center.lat : el.lat,
+          lng: el.center ? el.center.lon : el.lon,
+          highway: el.tags ? el.tags.highway : 'unknown',
+          lanes: parseInt(el.tags?.lanes) || 0
+        })).filter(r => r.lat && r.lng);
+
+        try {
+          localStorage.setItem(this.ROADS_CACHE_KEY, JSON.stringify(this._cachedRoads));
+        } catch {}
+
+        this.lastQueryCenter = { lat, lng };
+        this._fetching = false;
+        return this.processResults(fuelElements, lat, lng);
+      } catch (err) {
+        lastErr = err;
+        console.warn(`Overpass mirror ${mirror} failed:`, err.message);
+      }
     }
+
+    // All mirrors failed
+    this._fetching = false;
+    console.warn('All Overpass mirrors failed, trying cache:', lastErr);
+    try {
+      this._cachedRoads = JSON.parse(localStorage.getItem(this.ROADS_CACHE_KEY)) || [];
+    } catch { this._cachedRoads = []; }
+    return this.loadCached(lat, lng);
   },
 
-  loadCached(userLat, userLng) {
+  async loadCached(userLat, userLng) {
+    // Try localStorage first
     try {
       const cached = JSON.parse(localStorage.getItem(this.CACHE_KEY));
       if (cached && cached.data) {
-        UI.showToast('Showing cached station data', 'info');
-        document.getElementById('offline-banner').classList.add('show');
         return this.processResults(cached.data, userLat, userLng);
       }
     } catch {}
+
+    // Fallback: load from bundled stations_cache.json (for first-time users when Overpass is down)
+    try {
+      const res = await fetch('data/stations_cache.json');
+      if (res.ok) {
+        const cache = await res.json();
+        if (cache.stations && cache.stations.length > 0) {
+          // Convert to Overpass-like elements for processResults
+          const elements = cache.stations.map(s => ({
+            id: s.id,
+            lat: s.lat,
+            lon: s.lng,
+            tags: { amenity: 'fuel', name: s.name, brand: s.brand || '' }
+          }));
+          return this.processResults(elements, userLat, userLng);
+        }
+      }
+    } catch {}
+
     return [];
   },
 

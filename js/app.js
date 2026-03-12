@@ -91,12 +91,8 @@ const App = {
       }
     });
 
-    // Offline detection
-    window.addEventListener('offline', () => {
-      document.getElementById('offline-banner').classList.add('show');
-    });
+    // Refresh when coming back online
     window.addEventListener('online', () => {
-      document.getElementById('offline-banner').classList.remove('show');
       this.refreshStations();
     });
   },
