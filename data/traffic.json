@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-03-12T21:52:47.797129+00:00",
-  "stationCount": 58,
+  "timestamp": "2026-03-12T22:13:24.276308+00:00",
+  "stationCount": 62,
   "totalStations": 251,
   "batchUpdated": 5,
   "errors": 0,
-  "dailyRequestsUsed": 35,
-  "schedule": "batch=5 at 03:22 IST",
+  "dailyRequestsUsed": 40,
+  "schedule": "batch=5 at 03:43 IST",
   "stations": {
     "12460941246": {
       "name": "Bharat Petroleum",
@@ -612,9 +612,53 @@
       "lat": 13.0127799,
       "lng": 80.2222772,
       "priority": "high",
-      "updatedAt": "2026-03-12T21:52:47.797129+00:00",
+      "updatedAt": "2026-03-12T22:13:24.276308+00:00",
       "currentSpeed": 38,
       "freeFlowSpeed": 38,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "368158965": {
+      "name": "BP",
+      "lat": 13.0112743,
+      "lng": 80.2229232,
+      "priority": "high",
+      "updatedAt": "2026-03-12T22:13:24.276308+00:00",
+      "currentSpeed": 32,
+      "freeFlowSpeed": 32,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "370972600": {
+      "name": "Indainoil",
+      "lat": 13.0259345,
+      "lng": 80.1753026,
+      "priority": "medium",
+      "updatedAt": "2026-03-12T22:13:24.276308+00:00",
+      "currentSpeed": 29,
+      "freeFlowSpeed": 29,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "370972606": {
+      "name": "Shell",
+      "lat": 13.0310451,
+      "lng": 80.1651264,
+      "priority": "high",
+      "updatedAt": "2026-03-12T22:13:24.276308+00:00",
+      "currentSpeed": 31,
+      "freeFlowSpeed": 31,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "370977751": {
+      "name": "HP",
+      "lat": 13.0465921,
+      "lng": 80.1197732,
+      "priority": "high",
+      "updatedAt": "2026-03-12T22:13:24.276308+00:00",
+      "currentSpeed": 33,
+      "freeFlowSpeed": 33,
       "congestion": "low",
       "confidence": 1
     }
