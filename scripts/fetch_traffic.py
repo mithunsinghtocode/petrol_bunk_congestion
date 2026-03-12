@@ -48,14 +48,15 @@ CHENNAI_BBOX = "12.85,80.05,13.25,80.35"
 IST = timezone(timedelta(hours=5, minutes=30))
 
 # Schedule: (start_hour_ist, end_hour_ist, batch_size, run_every_n_minutes)
+# GitHub Actions fires every 10 min. Batch sizes doubled vs 5-min schedule.
 SCHEDULE = [
-    (7,  10, 16, 5),   # Peak AM
-    (10, 13, 12, 5),   # Mid-day
-    (13, 17, 10, 5),   # Afternoon
-    (17, 21, 16, 5),   # Peak PM
-    (21, 23,  8, 10),  # Evening
-    (23, 24,  5, 15),  # Night (23-00)
-    (0,   7,  5, 15),  # Night (00-07)
+    (7,  10, 30, 10),  # Peak AM — aggressive refresh
+    (10, 13, 22, 10),  # Mid-day
+    (13, 17, 18, 10),  # Afternoon
+    (17, 21, 30, 10),  # Peak PM — aggressive refresh
+    (21, 23, 10, 10),  # Evening
+    (23, 24,  5, 20),  # Night (23-00)
+    (0,   7,  5, 20),  # Night (00-07)
 ]
 
 # Priority weights for rotation list

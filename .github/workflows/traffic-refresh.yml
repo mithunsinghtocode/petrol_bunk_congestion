@@ -2,7 +2,7 @@ name: Refresh Traffic Data
 
 on:
   schedule:
-    - cron: '*/5 * * * *'   # Every 5 minutes (GitHub's practical minimum)
+    - cron: '*/10 * * * *'  # Every 10 minutes (GitHub throttles */5 on free repos)
   workflow_dispatch:          # Allow manual trigger
 
 jobs:
