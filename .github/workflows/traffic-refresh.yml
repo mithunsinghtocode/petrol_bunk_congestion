@@ -1,0 +1,31 @@
+name: Refresh Traffic Data
+
+on:
+  schedule:
+    - cron: '*/5 * * * *'   # Every 5 minutes (GitHub's practical minimum)
+  workflow_dispatch:          # Allow manual trigger
+
+jobs:
+  fetch-traffic:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Fetch traffic data from TomTom
+        env:
+          TOMTOM_API_KEY: ${{ secrets.TOMTOM_API_KEY }}
+        run: python scripts/fetch_traffic.py
+
+      - name: Commit updated traffic data
+        run: |
+          git config user.name "FuelFinder Bot"
+          git config user.email "bot@fuelfinder.app"
+          git add data/traffic.json data/rotation_state.json data/stations_cache.json
+          git diff --staged --quiet || git commit -m "traffic: $(date -u +%H:%M) UTC"
+          git push
