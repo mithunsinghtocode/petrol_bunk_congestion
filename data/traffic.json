@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-03-13T14:30:31.250944+00:00",
+  "timestamp": "2026-03-13T14:35:16.634601+00:00",
   "stationCount": 251,
   "totalStations": 251,
   "batchUpdated": 16,
   "errors": 0,
-  "dailyRequestsUsed": 2217,
-  "schedule": "batch=16 at 20:00 IST",
+  "dailyRequestsUsed": 2233,
+  "schedule": "batch=16 at 20:05 IST",
   "stations": {
     "610963138": {
       "name": "Fuel Station",
@@ -474,7 +474,7 @@
       "lat": 13.0466076,
       "lng": 80.1910336,
       "priority": "high",
-      "updatedAt": "2026-03-13T14:30:31.250944+00:00",
+      "updatedAt": "2026-03-13T14:35:16.634601+00:00",
       "currentSpeed": 21,
       "freeFlowSpeed": 26,
       "congestion": "low",
@@ -485,9 +485,9 @@
       "lat": 12.9211216,
       "lng": 80.1661043,
       "priority": "high",
-      "updatedAt": "2026-03-13T13:15:24.572979+00:00",
-      "currentSpeed": 22,
-      "freeFlowSpeed": 33,
+      "updatedAt": "2026-03-13T14:35:16.634601+00:00",
+      "currentSpeed": 24,
+      "freeFlowSpeed": 32,
       "congestion": "medium",
       "confidence": 1
     },
@@ -496,20 +496,20 @@
       "lat": 12.9439409,
       "lng": 80.1833049,
       "priority": "low",
-      "updatedAt": "2026-03-13T13:15:24.572979+00:00",
-      "currentSpeed": 19,
-      "freeFlowSpeed": 22,
+      "updatedAt": "2026-03-13T14:35:16.634601+00:00",
+      "currentSpeed": 23,
+      "freeFlowSpeed": 23,
       "congestion": "low",
-      "confidence": 0.99
+      "confidence": 1
     },
     "1885029649": {
       "name": "BP",
       "lat": 13.0421141,
       "lng": 80.259281,
       "priority": "high",
-      "updatedAt": "2026-03-13T13:15:24.572979+00:00",
-      "currentSpeed": 14,
-      "freeFlowSpeed": 23,
+      "updatedAt": "2026-03-13T14:35:16.634601+00:00",
+      "currentSpeed": 13,
+      "freeFlowSpeed": 24,
       "congestion": "medium",
       "confidence": 1.0
     },
@@ -518,10 +518,10 @@
       "lat": 12.9524776,
       "lng": 80.1702264,
       "priority": "high",
-      "updatedAt": "2026-03-13T13:15:24.572979+00:00",
-      "currentSpeed": 33,
+      "updatedAt": "2026-03-13T14:35:16.634601+00:00",
+      "currentSpeed": 34,
       "freeFlowSpeed": 42,
-      "congestion": "medium",
+      "congestion": "low",
       "confidence": 1
     },
     "2039504293": {
@@ -529,10 +529,10 @@
       "lat": 12.9489222,
       "lng": 80.1835848,
       "priority": "low",
-      "updatedAt": "2026-03-13T13:15:24.572979+00:00",
-      "currentSpeed": 29,
+      "updatedAt": "2026-03-13T14:35:16.634601+00:00",
+      "currentSpeed": 35,
       "freeFlowSpeed": 41,
-      "congestion": "medium",
+      "congestion": "low",
       "confidence": 1
     },
     "2039508061": {
@@ -540,10 +540,10 @@
       "lat": 12.9509065,
       "lng": 80.1741602,
       "priority": "low",
-      "updatedAt": "2026-03-13T13:15:24.572979+00:00",
-      "currentSpeed": 29,
+      "updatedAt": "2026-03-13T14:35:16.634601+00:00",
+      "currentSpeed": 35,
       "freeFlowSpeed": 41,
-      "congestion": "medium",
+      "congestion": "low",
       "confidence": 1
     },
     "2211543181": {
@@ -551,19 +551,19 @@
       "lat": 12.8761596,
       "lng": 80.2273012,
       "priority": "high",
-      "updatedAt": "2026-03-13T13:20:23.151020+00:00",
-      "currentSpeed": 20,
+      "updatedAt": "2026-03-13T14:35:16.634601+00:00",
+      "currentSpeed": 17,
       "freeFlowSpeed": 20,
       "congestion": "low",
-      "confidence": 1
+      "confidence": 0.9
     },
     "2878263802": {
       "name": "HP",
       "lat": 12.9949579,
       "lng": 80.1879445,
       "priority": "high",
-      "updatedAt": "2026-03-13T13:20:23.151020+00:00",
-      "currentSpeed": 25,
+      "updatedAt": "2026-03-13T14:35:16.634601+00:00",
+      "currentSpeed": 24,
       "freeFlowSpeed": 38,
       "congestion": "medium",
       "confidence": 1
@@ -573,10 +573,10 @@
       "lat": 12.9130277,
       "lng": 80.142989,
       "priority": "high",
-      "updatedAt": "2026-03-13T13:20:23.151020+00:00",
-      "currentSpeed": 23,
+      "updatedAt": "2026-03-13T14:35:16.634601+00:00",
+      "currentSpeed": 25,
       "freeFlowSpeed": 31,
-      "congestion": "medium",
+      "congestion": "low",
       "confidence": 1
     },
     "3014098792": {
@@ -584,8 +584,8 @@
       "lat": 12.9223527,
       "lng": 80.1512781,
       "priority": "high",
-      "updatedAt": "2026-03-13T13:20:23.151020+00:00",
-      "currentSpeed": 23,
+      "updatedAt": "2026-03-13T14:35:16.634601+00:00",
+      "currentSpeed": 24,
       "freeFlowSpeed": 32,
       "congestion": "medium",
       "confidence": 1
@@ -595,7 +595,7 @@
       "lat": 12.9229082,
       "lng": 80.1508778,
       "priority": "high",
-      "updatedAt": "2026-03-13T13:20:23.151020+00:00",
+      "updatedAt": "2026-03-13T14:35:16.634601+00:00",
       "currentSpeed": 25,
       "freeFlowSpeed": 33,
       "congestion": "medium",
@@ -606,8 +606,8 @@
       "lat": 12.9225671,
       "lng": 80.197052,
       "priority": "high",
-      "updatedAt": "2026-03-13T13:20:23.151020+00:00",
-      "currentSpeed": 22,
+      "updatedAt": "2026-03-13T14:35:16.634601+00:00",
+      "currentSpeed": 25,
       "freeFlowSpeed": 33,
       "congestion": "medium",
       "confidence": 1
@@ -617,7 +617,7 @@
       "lat": 12.9674951,
       "lng": 80.2485479,
       "priority": "low",
-      "updatedAt": "2026-03-13T13:20:23.151020+00:00",
+      "updatedAt": "2026-03-13T14:35:16.634601+00:00",
       "currentSpeed": 23,
       "freeFlowSpeed": 23,
       "congestion": "low",
@@ -628,22 +628,22 @@
       "lat": 13.0409717,
       "lng": 80.2373739,
       "priority": "medium",
-      "updatedAt": "2026-03-13T13:20:23.151020+00:00",
+      "updatedAt": "2026-03-13T14:35:16.634601+00:00",
       "currentSpeed": 14,
       "freeFlowSpeed": 20,
       "congestion": "medium",
-      "confidence": 0.93
+      "confidence": 0.92
     },
     "3685008256": {
       "name": "Fuel Station",
       "lat": 13.0452801,
       "lng": 80.2182725,
       "priority": "low",
-      "updatedAt": "2026-03-13T13:20:23.151020+00:00",
-      "currentSpeed": 16,
+      "updatedAt": "2026-03-13T14:35:16.634601+00:00",
+      "currentSpeed": 18,
       "freeFlowSpeed": 26,
       "congestion": "medium",
-      "confidence": 0.94
+      "confidence": 0.97
     },
     "3685280058": {
       "name": "HP",
