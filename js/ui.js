@@ -9,12 +9,13 @@ const UI = {
   // --- Bottom Sheet Drag ---
   initBottomSheet() {
     const sheet = document.getElementById('bottom-sheet');
-    const handle = sheet.querySelector('.handle');
-    let startY = 0, startTranslate = 0, isDragging = false;
+    const dragArea = document.getElementById('sheet-drag-area');
+    let startY = 0, isDragging = false, moved = false;
 
     if (Utils.isMobile()) {
-      handle.addEventListener('touchstart', e => {
+      dragArea.addEventListener('touchstart', e => {
         isDragging = true;
+        moved = false;
         startY = e.touches[0].clientY;
         sheet.style.transition = 'none';
       }, { passive: true });
@@ -22,6 +23,7 @@ const UI = {
       document.addEventListener('touchmove', e => {
         if (!isDragging) return;
         const dy = e.touches[0].clientY - startY;
+        if (Math.abs(dy) > 3) moved = true;
         const currentY = this._getSheetTranslate();
         const newY = Math.max(0, currentY + dy);
         sheet.style.transform = `translateY(${newY}px)`;
@@ -40,12 +42,26 @@ const UI = {
         else if (ratio > 0.3) this.setSheetState('half');
         else this.setSheetState('full');
       });
+
+      // Tap on drag area (not a drag) => cycle states
+      dragArea.addEventListener('click', e => {
+        if (moved) return; // was a drag, not a tap
+        if (e.target.closest('.tab-btn')) return; // let tab clicks pass through
+        const states = ['peek', 'half', 'full'];
+        const idx = states.indexOf(this.sheetState);
+        const next = states[(idx + 1) % states.length];
+        this.setSheetState(next);
+      });
     }
 
     // Tab switching
     sheet.querySelectorAll('.tab-btn').forEach(btn => {
       btn.addEventListener('click', () => {
         this.switchTab(btn.dataset.tab);
+        // Auto-expand to half if in peek
+        if (Utils.isMobile() && this.sheetState === 'peek') {
+          this.setSheetState('half');
+        }
       });
     });
   },

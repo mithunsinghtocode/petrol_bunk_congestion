@@ -283,11 +283,17 @@ input, select { font: inherit; }
   display: flex;
   flex-direction: column;
 }
+#bottom-sheet .sheet-drag-area {
+  flex-shrink: 0;
+  cursor: grab;
+  touch-action: none;
+}
+#bottom-sheet .sheet-drag-area:active { cursor: grabbing; }
 #bottom-sheet .handle {
-  width: 36px; height: 4px;
+  width: 40px; height: 5px;
   background: var(--border);
-  border-radius: 2px;
-  margin: 10px auto 6px;
+  border-radius: 3px;
+  margin: 10px auto 4px;
   flex-shrink: 0;
 }
 #bottom-sheet .tabs {
