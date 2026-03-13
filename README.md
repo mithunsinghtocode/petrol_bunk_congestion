@@ -2,7 +2,12 @@
 
 > Free, open-source web app to find the nearest open petrol bunk with the least congestion in Chennai during the fuel crisis.
 
-![FuelFinder Screenshot](assets/screenshot.png)
+<p align="center">
+  <img src="assets/screenshot.png" alt="FuelFinder Desktop" width="720">
+</p>
+<p align="center">
+  <img src="assets/screenshot-mobile.png" alt="FuelFinder Mobile" width="240">
+</p>
 
 ## Features
 
