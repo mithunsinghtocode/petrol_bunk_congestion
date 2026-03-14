@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-03-14T00:15:19.907468+00:00",
-  "stationCount": 5,
+  "timestamp": "2026-03-14T00:30:28.730152+00:00",
+  "stationCount": 10,
   "totalStations": 251,
   "batchUpdated": 5,
   "errors": 0,
-  "dailyRequestsUsed": 5,
-  "schedule": "batch=5 at 05:45 IST",
+  "dailyRequestsUsed": 10,
+  "schedule": "batch=5 at 06:00 IST",
   "stations": {
     "3685280058": {
       "name": "HP",
@@ -59,6 +59,61 @@
       "updatedAt": "2026-03-14T00:15:19.907468+00:00",
       "currentSpeed": 32,
       "freeFlowSpeed": 32,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "3685567878": {
+      "name": "Fuel Station",
+      "lat": 13.0453689,
+      "lng": 80.2404265,
+      "priority": "low",
+      "updatedAt": "2026-03-14T00:30:28.730152+00:00",
+      "currentSpeed": 32,
+      "freeFlowSpeed": 32,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "3685652294": {
+      "name": "Fuel Station",
+      "lat": 13.0536069,
+      "lng": 80.2263575,
+      "priority": "low",
+      "updatedAt": "2026-03-14T00:30:28.730152+00:00",
+      "currentSpeed": 24,
+      "freeFlowSpeed": 25,
+      "congestion": "low",
+      "confidence": 0.96
+    },
+    "3685653044": {
+      "name": "Fuel Station",
+      "lat": 13.0539215,
+      "lng": 80.234525,
+      "priority": "low",
+      "updatedAt": "2026-03-14T00:30:28.730152+00:00",
+      "currentSpeed": 28,
+      "freeFlowSpeed": 28,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "3725563305": {
+      "name": "Bharat Petroleum",
+      "lat": 12.9083732,
+      "lng": 80.2287564,
+      "priority": "high",
+      "updatedAt": "2026-03-14T00:30:28.730152+00:00",
+      "currentSpeed": 15,
+      "freeFlowSpeed": 15,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "3829225725": {
+      "name": "Bharat Petroleum",
+      "lat": 12.9247788,
+      "lng": 80.2303371,
+      "priority": "high",
+      "updatedAt": "2026-03-14T00:30:28.730152+00:00",
+      "currentSpeed": 20,
+      "freeFlowSpeed": 20,
       "congestion": "low",
       "confidence": 1
     }
