@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-03-16T07:30:32.500979+00:00",
+  "timestamp": "2026-03-16T07:35:18.044296+00:00",
   "stationCount": 251,
   "totalStations": 251,
   "batchUpdated": 10,
   "errors": 0,
-  "dailyRequestsUsed": 1084,
-  "schedule": "batch=10 at 13:00 IST",
+  "dailyRequestsUsed": 1094,
+  "schedule": "batch=10 at 13:05 IST",
   "stations": {
     "11824312757": {
       "name": "Bharat Petroleum",
@@ -221,10 +221,10 @@
       "lat": 13.1363453,
       "lng": 80.230635,
       "priority": "high",
-      "updatedAt": "2026-03-16T07:30:32.500979+00:00",
+      "updatedAt": "2026-03-16T07:35:18.044296+00:00",
       "currentSpeed": 26,
-      "freeFlowSpeed": 32,
-      "congestion": "low",
+      "freeFlowSpeed": 33,
+      "congestion": "medium",
       "confidence": 0.99
     },
     "12581554807": {
@@ -232,20 +232,20 @@
       "lat": 13.130475,
       "lng": 80.2389268,
       "priority": "high",
-      "updatedAt": "2026-03-16T05:45:20.841832+00:00",
-      "currentSpeed": 27,
-      "freeFlowSpeed": 27,
-      "congestion": "low",
-      "confidence": 1
+      "updatedAt": "2026-03-16T07:35:18.044296+00:00",
+      "currentSpeed": 20,
+      "freeFlowSpeed": 26,
+      "congestion": "medium",
+      "confidence": 0.99
     },
     "12582227793": {
       "name": "Indian Oil",
       "lat": 13.1430126,
       "lng": 80.2229114,
       "priority": "high",
-      "updatedAt": "2026-03-16T05:45:20.841832+00:00",
-      "currentSpeed": 25,
-      "freeFlowSpeed": 32,
+      "updatedAt": "2026-03-16T07:35:18.044296+00:00",
+      "currentSpeed": 23,
+      "freeFlowSpeed": 31,
       "congestion": "medium",
       "confidence": 1
     },
@@ -254,10 +254,10 @@
       "lat": 13.1461725,
       "lng": 80.2972888,
       "priority": "low",
-      "updatedAt": "2026-03-16T05:45:20.841832+00:00",
-      "currentSpeed": 16,
-      "freeFlowSpeed": 23,
-      "congestion": "medium",
+      "updatedAt": "2026-03-16T07:35:18.044296+00:00",
+      "currentSpeed": 18,
+      "freeFlowSpeed": 22,
+      "congestion": "low",
       "confidence": 0.99
     },
     "13434024649": {
@@ -265,8 +265,8 @@
       "lat": 13.2326035,
       "lng": 80.1596128,
       "priority": "high",
-      "updatedAt": "2026-03-16T05:50:21.455526+00:00",
-      "currentSpeed": 47,
+      "updatedAt": "2026-03-16T07:35:18.044296+00:00",
+      "currentSpeed": 52,
       "freeFlowSpeed": 52,
       "congestion": "low",
       "confidence": 1
@@ -276,18 +276,18 @@
       "lat": 13.072892,
       "lng": 80.1822637,
       "priority": "low",
-      "updatedAt": "2026-03-16T05:50:21.455526+00:00",
-      "currentSpeed": 22,
+      "updatedAt": "2026-03-16T07:35:18.044296+00:00",
+      "currentSpeed": 18,
       "freeFlowSpeed": 22,
       "congestion": "low",
-      "confidence": 1
+      "confidence": 1.0
     },
     "13638977909": {
       "name": "K. R. Fuels",
       "lat": 12.9699504,
       "lng": 80.218018,
       "priority": "medium",
-      "updatedAt": "2026-03-16T05:50:21.455526+00:00",
+      "updatedAt": "2026-03-16T07:35:18.044296+00:00",
       "currentSpeed": 40,
       "freeFlowSpeed": 40,
       "congestion": "low",
@@ -298,18 +298,18 @@
       "lat": 13.039191,
       "lng": 80.2573429,
       "priority": "low",
-      "updatedAt": "2026-03-16T05:50:21.455526+00:00",
+      "updatedAt": "2026-03-16T07:35:18.044296+00:00",
       "currentSpeed": 18,
       "freeFlowSpeed": 25,
       "congestion": "medium",
-      "confidence": 0.94
+      "confidence": 0.95
     },
     "205878146": {
       "name": "IOC",
       "lat": 12.9898779,
       "lng": 80.2211746,
       "priority": "medium",
-      "updatedAt": "2026-03-16T05:50:21.455526+00:00",
+      "updatedAt": "2026-03-16T07:35:18.044296+00:00",
       "currentSpeed": 33,
       "freeFlowSpeed": 33,
       "congestion": "low",
@@ -320,11 +320,11 @@
       "lat": 13.0210408,
       "lng": 80.2252242,
       "priority": "medium",
-      "updatedAt": "2026-03-16T05:50:21.455526+00:00",
-      "currentSpeed": 22,
+      "updatedAt": "2026-03-16T07:35:18.044296+00:00",
+      "currentSpeed": 24,
       "freeFlowSpeed": 35,
       "congestion": "medium",
-      "confidence": 0.99
+      "confidence": 0.98
     },
     "252713949": {
       "name": "IOCL",
