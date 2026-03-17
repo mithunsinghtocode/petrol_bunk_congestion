@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-03-17T01:00:39.130588+00:00",
-  "stationCount": 17,
+  "timestamp": "2026-03-17T01:15:21.300785+00:00",
+  "stationCount": 21,
   "totalStations": 251,
   "batchUpdated": 5,
   "errors": 0,
-  "dailyRequestsUsed": 20,
-  "schedule": "batch=5 at 06:30 IST",
+  "dailyRequestsUsed": 25,
+  "schedule": "batch=5 at 06:45 IST",
   "stations": {
     "4783866221": {
       "name": "Fuel Station",
@@ -188,9 +188,53 @@
       "lat": 13.0202778,
       "lng": 80.1300076,
       "priority": "high",
-      "updatedAt": "2026-03-17T01:00:39.130588+00:00",
+      "updatedAt": "2026-03-17T01:15:21.300785+00:00",
       "currentSpeed": 69,
       "freeFlowSpeed": 69,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "8096467026": {
+      "name": "Indian Oil",
+      "lat": 13.0472469,
+      "lng": 80.1995671,
+      "priority": "high",
+      "updatedAt": "2026-03-17T01:15:21.300785+00:00",
+      "currentSpeed": 25,
+      "freeFlowSpeed": 25,
+      "congestion": "low",
+      "confidence": 0.95
+    },
+    "8099976740": {
+      "name": "Indian Oil Petrol Bunk",
+      "lat": 13.0370179,
+      "lng": 80.201671,
+      "priority": "high",
+      "updatedAt": "2026-03-17T01:15:21.300785+00:00",
+      "currentSpeed": 34,
+      "freeFlowSpeed": 34,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "8246733476": {
+      "name": "Supergas AutoLPG",
+      "lat": 12.9496626,
+      "lng": 80.1855583,
+      "priority": "medium",
+      "updatedAt": "2026-03-17T01:15:21.300785+00:00",
+      "currentSpeed": 23,
+      "freeFlowSpeed": 23,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "8430613714": {
+      "name": "BP petrol",
+      "lat": 13.1268721,
+      "lng": 80.1537864,
+      "priority": "high",
+      "updatedAt": "2026-03-17T01:15:21.300785+00:00",
+      "currentSpeed": 30,
+      "freeFlowSpeed": 30,
       "congestion": "low",
       "confidence": 1
     }
