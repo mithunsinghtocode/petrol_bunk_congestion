@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-03-18T11:05:18.604186+00:00",
+  "timestamp": "2026-03-18T11:10:21.389629+00:00",
   "stationCount": 251,
   "totalStations": 251,
   "batchUpdated": 10,
   "errors": 0,
-  "dailyRequestsUsed": 1569,
-  "schedule": "batch=10 at 16:35 IST",
+  "dailyRequestsUsed": 1579,
+  "schedule": "batch=10 at 16:40 IST",
   "stations": {
     "10013621149": {
       "name": "Indian Oil",
@@ -2355,7 +2355,7 @@
       "lat": 13.0920509,
       "lng": 80.2512648,
       "priority": "low",
-      "updatedAt": "2026-03-18T09:00:44.758723+00:00",
+      "updatedAt": "2026-03-18T11:10:21.389629+00:00",
       "currentSpeed": 22,
       "freeFlowSpeed": 22,
       "congestion": "low",
@@ -2366,7 +2366,7 @@
       "lat": 13.1237034,
       "lng": 80.2215577,
       "priority": "low",
-      "updatedAt": "2026-03-18T09:00:44.758723+00:00",
+      "updatedAt": "2026-03-18T11:10:21.389629+00:00",
       "currentSpeed": 24,
       "freeFlowSpeed": 24,
       "congestion": "low",
@@ -2377,29 +2377,29 @@
       "lat": 13.0680837,
       "lng": 80.1280612,
       "priority": "low",
-      "updatedAt": "2026-03-18T09:05:15.678013+00:00",
-      "currentSpeed": 22,
-      "freeFlowSpeed": 22,
+      "updatedAt": "2026-03-18T11:10:21.389629+00:00",
+      "currentSpeed": 17,
+      "freeFlowSpeed": 21,
       "congestion": "low",
-      "confidence": 1
+      "confidence": 0.98
     },
     "4733590421": {
       "name": "Fuel Station",
       "lat": 13.0677903,
       "lng": 80.1306714,
       "priority": "low",
-      "updatedAt": "2026-03-18T09:05:15.678013+00:00",
-      "currentSpeed": 22,
-      "freeFlowSpeed": 22,
+      "updatedAt": "2026-03-18T11:10:21.389629+00:00",
+      "currentSpeed": 17,
+      "freeFlowSpeed": 21,
       "congestion": "low",
-      "confidence": 1
+      "confidence": 0.98
     },
     "4783866221": {
       "name": "Fuel Station",
       "lat": 12.9040344,
       "lng": 80.1425781,
       "priority": "low",
-      "updatedAt": "2026-03-18T09:05:15.678013+00:00",
+      "updatedAt": "2026-03-18T11:10:21.389629+00:00",
       "currentSpeed": 31,
       "freeFlowSpeed": 31,
       "congestion": "low",
@@ -2410,40 +2410,40 @@
       "lat": 13.1725095,
       "lng": 80.3055945,
       "priority": "low",
-      "updatedAt": "2026-03-18T09:05:15.678013+00:00",
-      "currentSpeed": 24,
+      "updatedAt": "2026-03-18T11:10:21.389629+00:00",
+      "currentSpeed": 20,
       "freeFlowSpeed": 24,
       "congestion": "low",
-      "confidence": 1
+      "confidence": 0.98
     },
     "4970195221": {
       "name": "Fuel Station",
       "lat": 13.1700151,
       "lng": 80.3045462,
       "priority": "low",
-      "updatedAt": "2026-03-18T09:05:15.678013+00:00",
-      "currentSpeed": 24,
+      "updatedAt": "2026-03-18T11:10:21.389629+00:00",
+      "currentSpeed": 21,
       "freeFlowSpeed": 24,
       "congestion": "low",
-      "confidence": 1
+      "confidence": 0.97
     },
     "5230370404": {
       "name": "Bharat Petroleum",
       "lat": 13.082056,
       "lng": 80.167735,
       "priority": "high",
-      "updatedAt": "2026-03-18T09:05:15.678013+00:00",
-      "currentSpeed": 20,
+      "updatedAt": "2026-03-18T11:10:21.389629+00:00",
+      "currentSpeed": 16,
       "freeFlowSpeed": 20,
       "congestion": "low",
-      "confidence": 1
+      "confidence": 0.99
     },
     "5367536435": {
       "name": "Bharat Petroleum",
       "lat": 13.0154656,
       "lng": 80.1840501,
       "priority": "high",
-      "updatedAt": "2026-03-18T09:05:15.678013+00:00",
+      "updatedAt": "2026-03-18T11:10:21.389629+00:00",
       "currentSpeed": 21,
       "freeFlowSpeed": 21,
       "congestion": "low",
@@ -2454,11 +2454,11 @@
       "lat": 13.0875618,
       "lng": 80.1947933,
       "priority": "high",
-      "updatedAt": "2026-03-18T09:05:15.678013+00:00",
+      "updatedAt": "2026-03-18T11:10:21.389629+00:00",
       "currentSpeed": 24,
-      "freeFlowSpeed": 32,
+      "freeFlowSpeed": 31,
       "congestion": "medium",
-      "confidence": 0.99
+      "confidence": 1.0
     },
     "5744866566": {
       "name": "HP",
