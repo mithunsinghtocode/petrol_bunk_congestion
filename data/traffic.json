@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-03-19T15:25:18.496444+00:00",
+  "timestamp": "2026-03-19T15:30:33.976265+00:00",
   "stationCount": 251,
   "totalStations": 251,
-  "batchUpdated": 16,
+  "batchUpdated": 8,
   "errors": 0,
-  "dailyRequestsUsed": 2446,
-  "schedule": "batch=16 at 20:55 IST",
+  "dailyRequestsUsed": 2454,
+  "schedule": "batch=8 at 21:00 IST",
   "stations": {
     "250261373": {
       "name": "IOC",
@@ -518,9 +518,9 @@
       "lat": 13.0459529,
       "lng": 80.2562406,
       "priority": "low",
-      "updatedAt": "2026-03-19T14:10:22.671086+00:00",
-      "currentSpeed": 19,
-      "freeFlowSpeed": 30,
+      "updatedAt": "2026-03-19T15:30:33.976265+00:00",
+      "currentSpeed": 22,
+      "freeFlowSpeed": 31,
       "congestion": "medium",
       "confidence": 1
     },
@@ -529,21 +529,21 @@
       "lat": 13.0260196,
       "lng": 80.2661174,
       "priority": "low",
-      "updatedAt": "2026-03-19T14:10:22.671086+00:00",
-      "currentSpeed": 19,
-      "freeFlowSpeed": 19,
+      "updatedAt": "2026-03-19T15:30:33.976265+00:00",
+      "currentSpeed": 16,
+      "freeFlowSpeed": 20,
       "congestion": "low",
-      "confidence": 0.94
+      "confidence": 0.92
     },
     "310830860": {
       "name": "Shanthi Petrol Station",
       "lat": 12.9935494,
       "lng": 80.1850866,
       "priority": "high",
-      "updatedAt": "2026-03-19T14:10:22.671086+00:00",
-      "currentSpeed": 27,
+      "updatedAt": "2026-03-19T15:30:33.976265+00:00",
+      "currentSpeed": 31,
       "freeFlowSpeed": 38,
-      "congestion": "medium",
+      "congestion": "low",
       "confidence": 1
     },
     "313135840": {
@@ -551,9 +551,9 @@
       "lat": 13.0534169,
       "lng": 80.252032,
       "priority": "high",
-      "updatedAt": "2026-03-19T14:10:22.671086+00:00",
+      "updatedAt": "2026-03-19T15:30:33.976265+00:00",
       "currentSpeed": 24,
-      "freeFlowSpeed": 32,
+      "freeFlowSpeed": 31,
       "congestion": "medium",
       "confidence": 1
     },
@@ -562,10 +562,10 @@
       "lat": 13.0540764,
       "lng": 80.2530457,
       "priority": "low",
-      "updatedAt": "2026-03-19T14:10:22.671086+00:00",
-      "currentSpeed": 25,
+      "updatedAt": "2026-03-19T15:30:33.976265+00:00",
+      "currentSpeed": 28,
       "freeFlowSpeed": 35,
-      "congestion": "medium",
+      "congestion": "low",
       "confidence": 0.99
     },
     "314688253": {
@@ -573,9 +573,9 @@
       "lat": 13.0427775,
       "lng": 80.2677547,
       "priority": "high",
-      "updatedAt": "2026-03-19T14:10:22.671086+00:00",
-      "currentSpeed": 19,
-      "freeFlowSpeed": 30,
+      "updatedAt": "2026-03-19T15:30:33.976265+00:00",
+      "currentSpeed": 22,
+      "freeFlowSpeed": 31,
       "congestion": "medium",
       "confidence": 1
     },
@@ -584,21 +584,21 @@
       "lat": 13.0184727,
       "lng": 80.2614032,
       "priority": "high",
-      "updatedAt": "2026-03-19T14:10:22.671086+00:00",
-      "currentSpeed": 24,
+      "updatedAt": "2026-03-19T15:30:33.976265+00:00",
+      "currentSpeed": 33,
       "freeFlowSpeed": 33,
-      "congestion": "medium",
-      "confidence": 1.0
+      "congestion": "low",
+      "confidence": 1
     },
     "319038955": {
       "name": "Indian Oil",
       "lat": 13.0421221,
       "lng": 80.2684202,
       "priority": "high",
-      "updatedAt": "2026-03-19T14:10:22.671086+00:00",
-      "currentSpeed": 18,
+      "updatedAt": "2026-03-19T15:30:33.976265+00:00",
+      "currentSpeed": 23,
       "freeFlowSpeed": 23,
-      "congestion": "medium",
+      "congestion": "low",
       "confidence": 1
     },
     "325787817": {
