@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-03-20T15:09:18.007321+00:00",
+  "timestamp": "2026-03-20T15:10:56.909091+00:00",
   "stationCount": 251,
   "totalStations": 251,
-  "batchUpdated": 16,
-  "errors": 0,
-  "dailyRequestsUsed": 2393,
-  "schedule": "batch=16 at 20:39 IST",
+  "batchUpdated": 5,
+  "errors": 11,
+  "dailyRequestsUsed": 2398,
+  "schedule": "batch=16 at 20:40 IST",
   "stations": {
     "370972600": {
       "name": "Indainoil",
@@ -45,19 +45,19 @@
       "lat": 13.0402991,
       "lng": 80.1304112,
       "priority": "high",
-      "updatedAt": "2026-03-20T13:55:17.853692+00:00",
-      "currentSpeed": 22,
-      "freeFlowSpeed": 28,
-      "congestion": "medium",
-      "confidence": 1
+      "updatedAt": "2026-03-20T15:10:56.909091+00:00",
+      "currentSpeed": 24,
+      "freeFlowSpeed": 29,
+      "congestion": "low",
+      "confidence": 1.0
     },
     "370977767": {
       "name": "Bharat Petroleum",
       "lat": 13.0386047,
       "lng": 80.1330017,
       "priority": "high",
-      "updatedAt": "2026-03-20T13:55:17.853692+00:00",
-      "currentSpeed": 22,
+      "updatedAt": "2026-03-20T15:10:56.909091+00:00",
+      "currentSpeed": 24,
       "freeFlowSpeed": 31,
       "congestion": "medium",
       "confidence": 1
@@ -2718,8 +2718,8 @@
       "lat": 13.0158863,
       "lng": 80.2048651,
       "priority": "high",
-      "updatedAt": "2026-03-20T13:52:08.256812+00:00",
-      "currentSpeed": 25,
+      "updatedAt": "2026-03-20T15:10:56.909091+00:00",
+      "currentSpeed": 28,
       "freeFlowSpeed": 38,
       "congestion": "medium",
       "confidence": 1
@@ -2729,8 +2729,8 @@
       "lat": 13.0347707,
       "lng": 80.2109563,
       "priority": "high",
-      "updatedAt": "2026-03-20T13:52:08.256812+00:00",
-      "currentSpeed": 23,
+      "updatedAt": "2026-03-20T15:10:56.909091+00:00",
+      "currentSpeed": 26,
       "freeFlowSpeed": 38,
       "congestion": "medium",
       "confidence": 1
@@ -2762,9 +2762,9 @@
       "lat": 13.0112743,
       "lng": 80.2229232,
       "priority": "high",
-      "updatedAt": "2026-03-20T13:55:17.853692+00:00",
-      "currentSpeed": 23,
-      "freeFlowSpeed": 32,
+      "updatedAt": "2026-03-20T15:10:56.909091+00:00",
+      "currentSpeed": 25,
+      "freeFlowSpeed": 33,
       "congestion": "medium",
       "confidence": 1
     }
