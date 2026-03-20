@@ -1,5 +1,5 @@
 {
-  "fetched_ts": 1773342824.113292,
+  "fetched_ts": 1773965723.3312595,
   "stations": [
     {
       "id": 248343706,
@@ -15,7 +15,7 @@
       "brand": "",
       "lat": 13.037841,
       "lng": 80.2562967,
-      "priority": "medium"
+      "priority": "high"
     },
     {
       "id": 248344281,
@@ -263,7 +263,7 @@
       "brand": "",
       "lat": 13.0259345,
       "lng": 80.1753026,
-      "priority": "medium"
+      "priority": "high"
     },
     {
       "id": 370972606,
@@ -1711,7 +1711,7 @@
       "brand": "IOC",
       "lat": 12.9898779,
       "lng": 80.2211746,
-      "priority": "medium"
+      "priority": "high"
     },
     {
       "id": 250261373,
@@ -1719,7 +1719,7 @@
       "brand": "Iyappa Agencies",
       "lat": 13.0210408,
       "lng": 80.2252242,
-      "priority": "medium"
+      "priority": "high"
     },
     {
       "id": 252713949,
@@ -1751,7 +1751,7 @@
       "brand": "",
       "lat": 13.0248046,
       "lng": 80.2286028,
-      "priority": "medium"
+      "priority": "high"
     },
     {
       "id": 348960966,
@@ -2012,9 +2012,9 @@
   ],
   "area": "chennai_metro",
   "bbox": [
-    12.85,
-    80.05,
-    13.25,
-    80.35
+    "12.85",
+    "80.05",
+    "13.25",
+    "80.35"
   ]
 }
