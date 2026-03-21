@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-03-21T07:25:16.063525+00:00",
+  "timestamp": "2026-03-21T07:30:31.123851+00:00",
   "stationCount": 251,
   "totalStations": 251,
-  "batchUpdated": 12,
+  "batchUpdated": 10,
   "errors": 0,
-  "dailyRequestsUsed": 1113,
-  "schedule": "batch=12 at 12:55 IST",
+  "dailyRequestsUsed": 1123,
+  "schedule": "batch=10 at 13:00 IST",
   "stations": {
     "375667931": {
       "name": "HP",
@@ -518,19 +518,19 @@
       "lat": 13.0401531,
       "lng": 80.2400751,
       "priority": "high",
-      "updatedAt": "2026-03-21T05:45:20.801209+00:00",
-      "currentSpeed": 26,
+      "updatedAt": "2026-03-21T07:30:31.123851+00:00",
+      "currentSpeed": 19,
       "freeFlowSpeed": 26,
-      "congestion": "low",
-      "confidence": 1
+      "congestion": "medium",
+      "confidence": 0.77
     },
     "3685381587": {
       "name": "Fuel Station",
       "lat": 13.040274,
       "lng": 80.2423014,
       "priority": "low",
-      "updatedAt": "2026-03-21T05:45:20.801209+00:00",
-      "currentSpeed": 14,
+      "updatedAt": "2026-03-21T07:30:31.123851+00:00",
+      "currentSpeed": 12,
       "freeFlowSpeed": 20,
       "congestion": "medium",
       "confidence": 0.92
@@ -540,21 +540,21 @@
       "lat": 13.0291289,
       "lng": 80.2538708,
       "priority": "low",
-      "updatedAt": "2026-03-21T05:45:20.801209+00:00",
-      "currentSpeed": 17,
+      "updatedAt": "2026-03-21T07:30:31.123851+00:00",
+      "currentSpeed": 22,
       "freeFlowSpeed": 22,
-      "congestion": "medium",
-      "confidence": 0.99
+      "congestion": "low",
+      "confidence": 1
     },
     "3685563463": {
       "name": "Fuel Station",
       "lat": 13.0338283,
       "lng": 80.2448209,
       "priority": "low",
-      "updatedAt": "2026-03-21T05:50:21.417970+00:00",
-      "currentSpeed": 28,
+      "updatedAt": "2026-03-21T07:30:31.123851+00:00",
+      "currentSpeed": 23,
       "freeFlowSpeed": 33,
-      "congestion": "low",
+      "congestion": "medium",
       "confidence": 0.97
     },
     "3685566217": {
@@ -562,8 +562,8 @@
       "lat": 13.0451808,
       "lng": 80.2400027,
       "priority": "low",
-      "updatedAt": "2026-03-21T05:50:21.417970+00:00",
-      "currentSpeed": 32,
+      "updatedAt": "2026-03-21T07:30:31.123851+00:00",
+      "currentSpeed": 27,
       "freeFlowSpeed": 32,
       "congestion": "low",
       "confidence": 1
@@ -573,8 +573,8 @@
       "lat": 13.0453689,
       "lng": 80.2404265,
       "priority": "low",
-      "updatedAt": "2026-03-21T05:50:21.417970+00:00",
-      "currentSpeed": 32,
+      "updatedAt": "2026-03-21T07:30:31.123851+00:00",
+      "currentSpeed": 27,
       "freeFlowSpeed": 32,
       "congestion": "low",
       "confidence": 1
@@ -584,8 +584,8 @@
       "lat": 13.0536069,
       "lng": 80.2263575,
       "priority": "low",
-      "updatedAt": "2026-03-21T05:50:21.417970+00:00",
-      "currentSpeed": 21,
+      "updatedAt": "2026-03-21T07:30:31.123851+00:00",
+      "currentSpeed": 23,
       "freeFlowSpeed": 25,
       "congestion": "low",
       "confidence": 0.97
@@ -595,7 +595,7 @@
       "lat": 13.0539215,
       "lng": 80.234525,
       "priority": "low",
-      "updatedAt": "2026-03-21T05:50:21.417970+00:00",
+      "updatedAt": "2026-03-21T07:30:31.123851+00:00",
       "currentSpeed": 21,
       "freeFlowSpeed": 28,
       "congestion": "medium",
@@ -606,7 +606,7 @@
       "lat": 12.9083732,
       "lng": 80.2287564,
       "priority": "high",
-      "updatedAt": "2026-03-21T05:50:21.417970+00:00",
+      "updatedAt": "2026-03-21T07:30:31.123851+00:00",
       "currentSpeed": 14,
       "freeFlowSpeed": 14,
       "congestion": "low",
@@ -617,11 +617,11 @@
       "lat": 12.9247788,
       "lng": 80.2303371,
       "priority": "high",
-      "updatedAt": "2026-03-21T05:50:21.417970+00:00",
-      "currentSpeed": 20,
+      "updatedAt": "2026-03-21T07:30:31.123851+00:00",
+      "currentSpeed": 18,
       "freeFlowSpeed": 20,
       "congestion": "low",
-      "confidence": 1
+      "confidence": 0.95
     },
     "4056703681": {
       "name": "Bharat Petroleum",
