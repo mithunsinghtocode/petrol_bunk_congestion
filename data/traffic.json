@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-03-21T00:30:29.712889+00:00",
-  "stationCount": 9,
+  "timestamp": "2026-03-21T00:45:20.788532+00:00",
+  "stationCount": 14,
   "totalStations": 251,
   "batchUpdated": 5,
   "errors": 0,
-  "dailyRequestsUsed": 10,
-  "schedule": "batch=5 at 06:00 IST",
+  "dailyRequestsUsed": 15,
+  "schedule": "batch=5 at 06:15 IST",
   "stations": {
     "375667931": {
       "name": "HP",
@@ -103,6 +103,61 @@
       "updatedAt": "2026-03-21T00:30:29.712889+00:00",
       "currentSpeed": 32,
       "freeFlowSpeed": 32,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "610963138": {
+      "name": "Fuel Station",
+      "lat": 13.0867504,
+      "lng": 80.2586838,
+      "priority": "low",
+      "updatedAt": "2026-03-21T00:45:20.788532+00:00",
+      "currentSpeed": 22,
+      "freeFlowSpeed": 22,
+      "congestion": "low",
+      "confidence": 0.9
+    },
+    "674685508": {
+      "name": "Fuel Station",
+      "lat": 13.1085927,
+      "lng": 80.2435965,
+      "priority": "low",
+      "updatedAt": "2026-03-21T00:45:20.788532+00:00",
+      "currentSpeed": 21,
+      "freeFlowSpeed": 21,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "687176659": {
+      "name": "HP",
+      "lat": 13.07286,
+      "lng": 80.1888928,
+      "priority": "high",
+      "updatedAt": "2026-03-21T00:45:20.788532+00:00",
+      "currentSpeed": 31,
+      "freeFlowSpeed": 31,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "687176660": {
+      "name": "Indian Oil",
+      "lat": 13.0718881,
+      "lng": 80.1879592,
+      "priority": "high",
+      "updatedAt": "2026-03-21T00:45:20.788532+00:00",
+      "currentSpeed": 32,
+      "freeFlowSpeed": 32,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "694035914": {
+      "name": "Essar Petrol station",
+      "lat": 12.9488925,
+      "lng": 80.1854622,
+      "priority": "medium",
+      "updatedAt": "2026-03-21T00:45:20.788532+00:00",
+      "currentSpeed": 23,
+      "freeFlowSpeed": 23,
       "congestion": "low",
       "confidence": 1
     }
