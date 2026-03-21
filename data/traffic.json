@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-03-21T10:05:16.239813+00:00",
+  "timestamp": "2026-03-21T10:10:26.461517+00:00",
   "stationCount": 251,
   "totalStations": 251,
   "batchUpdated": 10,
   "errors": 0,
-  "dailyRequestsUsed": 1473,
-  "schedule": "batch=10 at 15:35 IST",
+  "dailyRequestsUsed": 1483,
+  "schedule": "batch=10 at 15:40 IST",
   "stations": {
     "375667931": {
       "name": "HP",
@@ -1431,9 +1431,9 @@
       "lat": 13.0566431,
       "lng": 80.2644059,
       "priority": "high",
-      "updatedAt": "2026-03-21T10:05:16.239813+00:00",
+      "updatedAt": "2026-03-21T10:10:26.461517+00:00",
       "currentSpeed": 18,
-      "freeFlowSpeed": 20,
+      "freeFlowSpeed": 19,
       "congestion": "low",
       "confidence": 0.83
     },
@@ -1442,7 +1442,7 @@
       "lat": 13.0312675,
       "lng": 80.1645244,
       "priority": "high",
-      "updatedAt": "2026-03-21T08:10:21.454608+00:00",
+      "updatedAt": "2026-03-21T10:10:26.461517+00:00",
       "currentSpeed": 31,
       "freeFlowSpeed": 31,
       "congestion": "low",
@@ -1453,7 +1453,7 @@
       "lat": 12.9746968,
       "lng": 80.1920646,
       "priority": "high",
-      "updatedAt": "2026-03-21T08:10:21.454608+00:00",
+      "updatedAt": "2026-03-21T10:10:26.461517+00:00",
       "currentSpeed": 23,
       "freeFlowSpeed": 23,
       "congestion": "low",
@@ -1464,18 +1464,18 @@
       "lat": 13.0488261,
       "lng": 80.1661892,
       "priority": "high",
-      "updatedAt": "2026-03-21T08:10:21.454608+00:00",
-      "currentSpeed": 15,
+      "updatedAt": "2026-03-21T10:10:26.461517+00:00",
+      "currentSpeed": 16,
       "freeFlowSpeed": 25,
       "congestion": "medium",
-      "confidence": 1.0
+      "confidence": 0.99
     },
     "11659380992": {
       "name": "Nayara",
       "lat": 13.0474709,
       "lng": 80.0777345,
       "priority": "high",
-      "updatedAt": "2026-03-21T08:10:21.454608+00:00",
+      "updatedAt": "2026-03-21T10:10:26.461517+00:00",
       "currentSpeed": 19,
       "freeFlowSpeed": 19,
       "congestion": "low",
@@ -1486,19 +1486,19 @@
       "lat": 13.0464785,
       "lng": 80.0783307,
       "priority": "high",
-      "updatedAt": "2026-03-21T08:10:21.454608+00:00",
-      "currentSpeed": 29,
+      "updatedAt": "2026-03-21T10:10:26.461517+00:00",
+      "currentSpeed": 24,
       "freeFlowSpeed": 29,
       "congestion": "low",
-      "confidence": 1
+      "confidence": 0.7
     },
     "11659453638": {
       "name": "Bharat Petroleum",
       "lat": 13.0158497,
       "lng": 80.1031673,
       "priority": "high",
-      "updatedAt": "2026-03-21T08:10:21.454608+00:00",
-      "currentSpeed": 26,
+      "updatedAt": "2026-03-21T10:10:26.461517+00:00",
+      "currentSpeed": 30,
       "freeFlowSpeed": 30,
       "congestion": "low",
       "confidence": 1
@@ -1508,10 +1508,10 @@
       "lat": 12.9085119,
       "lng": 80.2501864,
       "priority": "high",
-      "updatedAt": "2026-03-21T08:10:21.454608+00:00",
-      "currentSpeed": 30,
+      "updatedAt": "2026-03-21T10:10:26.461517+00:00",
+      "currentSpeed": 33,
       "freeFlowSpeed": 40,
-      "congestion": "medium",
+      "congestion": "low",
       "confidence": 1
     },
     "11782112649": {
@@ -1519,8 +1519,8 @@
       "lat": 13.1276031,
       "lng": 80.2175373,
       "priority": "high",
-      "updatedAt": "2026-03-21T08:10:21.454608+00:00",
-      "currentSpeed": 20,
+      "updatedAt": "2026-03-21T10:10:26.461517+00:00",
+      "currentSpeed": 25,
       "freeFlowSpeed": 25,
       "congestion": "low",
       "confidence": 1
@@ -1530,11 +1530,11 @@
       "lat": 13.0540708,
       "lng": 80.2344005,
       "priority": "high",
-      "updatedAt": "2026-03-21T08:15:19.562070+00:00",
-      "currentSpeed": 21,
+      "updatedAt": "2026-03-21T10:10:26.461517+00:00",
+      "currentSpeed": 18,
       "freeFlowSpeed": 28,
       "congestion": "medium",
-      "confidence": 1.0
+      "confidence": 1
     },
     "11786631296": {
       "name": "Total",
