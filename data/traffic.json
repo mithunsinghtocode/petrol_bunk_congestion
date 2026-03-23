@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-03-23T00:15:21.175570+00:00",
-  "stationCount": 5,
+  "timestamp": "2026-03-23T00:30:30.884685+00:00",
+  "stationCount": 9,
   "totalStations": 251,
   "batchUpdated": 5,
   "errors": 0,
-  "dailyRequestsUsed": 5,
-  "schedule": "batch=5 at 05:45 IST",
+  "dailyRequestsUsed": 10,
+  "schedule": "batch=5 at 06:00 IST",
   "stations": {
     "275299871": {
       "name": "Indian Oil",
@@ -56,9 +56,53 @@
       "lat": 13.1169795,
       "lng": 80.1981804,
       "priority": "high",
-      "updatedAt": "2026-03-23T00:15:21.175570+00:00",
+      "updatedAt": "2026-03-23T00:30:30.884685+00:00",
       "currentSpeed": 39,
       "freeFlowSpeed": 39,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "354262438": {
+      "name": "Indian Oil",
+      "lat": 13.102781,
+      "lng": 80.1580847,
+      "priority": "high",
+      "updatedAt": "2026-03-23T00:30:30.884685+00:00",
+      "currentSpeed": 28,
+      "freeFlowSpeed": 28,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "354266030": {
+      "name": "HP",
+      "lat": 13.0887154,
+      "lng": 80.1744305,
+      "priority": "high",
+      "updatedAt": "2026-03-23T00:30:30.884685+00:00",
+      "currentSpeed": 20,
+      "freeFlowSpeed": 20,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "354302763": {
+      "name": "Fuel Station",
+      "lat": 13.1027332,
+      "lng": 80.208197,
+      "priority": "low",
+      "updatedAt": "2026-03-23T00:30:30.884685+00:00",
+      "currentSpeed": 28,
+      "freeFlowSpeed": 28,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "354539919": {
+      "name": "Essar fuel pump",
+      "lat": 12.9793198,
+      "lng": 80.2044069,
+      "priority": "medium",
+      "updatedAt": "2026-03-23T00:30:30.884685+00:00",
+      "currentSpeed": 33,
+      "freeFlowSpeed": 33,
       "congestion": "low",
       "confidence": 1
     }
