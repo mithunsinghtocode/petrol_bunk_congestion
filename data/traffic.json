@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-03-23T15:40:22.812740+00:00",
+  "timestamp": "2026-03-23T15:50:24.219652+00:00",
   "stationCount": 251,
   "totalStations": 251,
   "batchUpdated": 8,
   "errors": 0,
-  "dailyRequestsUsed": 2429,
-  "schedule": "batch=8 at 21:10 IST",
+  "dailyRequestsUsed": 2437,
+  "schedule": "batch=8 at 21:20 IST",
   "stations": {
     "275299871": {
       "name": "Indian Oil",
@@ -199,7 +199,7 @@
       "lat": 12.9642639,
       "lng": 80.2115008,
       "priority": "medium",
-      "updatedAt": "2026-03-23T15:40:22.812740+00:00",
+      "updatedAt": "2026-03-23T15:50:24.219652+00:00",
       "currentSpeed": 27,
       "freeFlowSpeed": 33,
       "congestion": "low",
@@ -210,10 +210,10 @@
       "lat": 12.9248368,
       "lng": 80.1106702,
       "priority": "high",
-      "updatedAt": "2026-03-23T14:19:26.318961+00:00",
-      "currentSpeed": 22,
+      "updatedAt": "2026-03-23T15:50:24.219652+00:00",
+      "currentSpeed": 23,
       "freeFlowSpeed": 28,
-      "congestion": "medium",
+      "congestion": "low",
       "confidence": 0.99
     },
     "596911777": {
@@ -221,21 +221,21 @@
       "lat": 12.9947388,
       "lng": 80.0708238,
       "priority": "high",
-      "updatedAt": "2026-03-23T14:19:26.318961+00:00",
-      "currentSpeed": 41,
+      "updatedAt": "2026-03-23T15:50:24.219652+00:00",
+      "currentSpeed": 50,
       "freeFlowSpeed": 50,
       "congestion": "low",
-      "confidence": 0.96
+      "confidence": 1
     },
     "835026378": {
       "name": "Shell",
       "lat": 13.1083432,
       "lng": 80.1764081,
       "priority": "high",
-      "updatedAt": "2026-03-23T14:19:26.318961+00:00",
-      "currentSpeed": 20,
+      "updatedAt": "2026-03-23T15:50:24.219652+00:00",
+      "currentSpeed": 28,
       "freeFlowSpeed": 28,
-      "congestion": "medium",
+      "congestion": "low",
       "confidence": 1
     },
     "835221421": {
@@ -243,7 +243,7 @@
       "lat": 12.9453157,
       "lng": 80.1067659,
       "priority": "high",
-      "updatedAt": "2026-03-23T14:19:26.318961+00:00",
+      "updatedAt": "2026-03-23T15:50:24.219652+00:00",
       "currentSpeed": 68,
       "freeFlowSpeed": 68,
       "congestion": "low",
@@ -254,31 +254,31 @@
       "lat": 13.0889411,
       "lng": 80.1701962,
       "priority": "high",
-      "updatedAt": "2026-03-23T14:19:26.318961+00:00",
-      "currentSpeed": 22,
-      "freeFlowSpeed": 31,
+      "updatedAt": "2026-03-23T15:50:24.219652+00:00",
+      "currentSpeed": 25,
+      "freeFlowSpeed": 32,
       "congestion": "medium",
-      "confidence": 1.0
+      "confidence": 0.99
     },
     "843855628": {
       "name": "GoGas LPG",
       "lat": 13.1174532,
       "lng": 80.1563543,
       "priority": "medium",
-      "updatedAt": "2026-03-23T14:19:26.318961+00:00",
-      "currentSpeed": 23,
-      "freeFlowSpeed": 31,
-      "congestion": "medium",
-      "confidence": 1.0
+      "updatedAt": "2026-03-23T15:50:24.219652+00:00",
+      "currentSpeed": 30,
+      "freeFlowSpeed": 30,
+      "congestion": "low",
+      "confidence": 1
     },
     "922383171": {
       "name": "Shell",
       "lat": 12.9641205,
       "lng": 80.187622,
       "priority": "high",
-      "updatedAt": "2026-03-23T14:19:26.318961+00:00",
-      "currentSpeed": 20,
-      "freeFlowSpeed": 22,
+      "updatedAt": "2026-03-23T15:50:24.219652+00:00",
+      "currentSpeed": 22,
+      "freeFlowSpeed": 24,
       "congestion": "low",
       "confidence": 0.99
     },
