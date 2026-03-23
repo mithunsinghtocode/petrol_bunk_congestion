@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-03-23T07:53:28.208413+00:00",
+  "timestamp": "2026-03-23T07:55:16.630306+00:00",
   "stationCount": 251,
   "totalStations": 251,
   "batchUpdated": 10,
   "errors": 0,
-  "dailyRequestsUsed": 1121,
-  "schedule": "batch=10 at 13:23 IST",
+  "dailyRequestsUsed": 1131,
+  "schedule": "batch=10 at 13:25 IST",
   "stations": {
     "275299871": {
       "name": "Indian Oil",
@@ -507,8 +507,8 @@
       "lat": 13.0311284,
       "lng": 80.2394414,
       "priority": "high",
-      "updatedAt": "2026-03-23T07:53:28.208413+00:00",
-      "currentSpeed": 24,
+      "updatedAt": "2026-03-23T07:55:16.630306+00:00",
+      "currentSpeed": 25,
       "freeFlowSpeed": 35,
       "congestion": "medium",
       "confidence": 0.99
@@ -518,19 +518,19 @@
       "lat": 13.0337218,
       "lng": 80.2382988,
       "priority": "low",
-      "updatedAt": "2026-03-23T06:00:39.093096+00:00",
-      "currentSpeed": 19,
+      "updatedAt": "2026-03-23T07:55:16.630306+00:00",
+      "currentSpeed": 17,
       "freeFlowSpeed": 19,
       "congestion": "low",
-      "confidence": 0.59
+      "confidence": 0.61
     },
     "308467150": {
       "name": "Fuel Station",
       "lat": 13.0459529,
       "lng": 80.2562406,
       "priority": "low",
-      "updatedAt": "2026-03-23T06:00:39.093096+00:00",
-      "currentSpeed": 24,
+      "updatedAt": "2026-03-23T07:55:16.630306+00:00",
+      "currentSpeed": 22,
       "freeFlowSpeed": 31,
       "congestion": "medium",
       "confidence": 1
@@ -540,19 +540,19 @@
       "lat": 13.0260196,
       "lng": 80.2661174,
       "priority": "low",
-      "updatedAt": "2026-03-23T06:00:39.093096+00:00",
+      "updatedAt": "2026-03-23T07:55:16.630306+00:00",
       "currentSpeed": 19,
       "freeFlowSpeed": 19,
       "congestion": "low",
-      "confidence": 0.93
+      "confidence": 0.9
     },
     "310830860": {
       "name": "Shanthi Petrol Station",
       "lat": 12.9935494,
       "lng": 80.1850866,
       "priority": "high",
-      "updatedAt": "2026-03-23T06:00:39.093096+00:00",
-      "currentSpeed": 32,
+      "updatedAt": "2026-03-23T07:55:16.630306+00:00",
+      "currentSpeed": 38,
       "freeFlowSpeed": 38,
       "congestion": "low",
       "confidence": 1
@@ -562,9 +562,9 @@
       "lat": 13.0534169,
       "lng": 80.252032,
       "priority": "high",
-      "updatedAt": "2026-03-23T06:05:17.479501+00:00",
+      "updatedAt": "2026-03-23T07:55:16.630306+00:00",
       "currentSpeed": 14,
-      "freeFlowSpeed": 31,
+      "freeFlowSpeed": 32,
       "congestion": "high",
       "confidence": 1
     },
@@ -573,8 +573,8 @@
       "lat": 13.0540764,
       "lng": 80.2530457,
       "priority": "low",
-      "updatedAt": "2026-03-23T06:05:17.479501+00:00",
-      "currentSpeed": 21,
+      "updatedAt": "2026-03-23T07:55:16.630306+00:00",
+      "currentSpeed": 25,
       "freeFlowSpeed": 35,
       "congestion": "medium",
       "confidence": 0.99
@@ -584,10 +584,10 @@
       "lat": 13.0427775,
       "lng": 80.2677547,
       "priority": "high",
-      "updatedAt": "2026-03-23T06:05:17.479501+00:00",
-      "currentSpeed": 32,
-      "freeFlowSpeed": 32,
-      "congestion": "low",
+      "updatedAt": "2026-03-23T07:55:16.630306+00:00",
+      "currentSpeed": 22,
+      "freeFlowSpeed": 31,
+      "congestion": "medium",
       "confidence": 1
     },
     "317821274": {
@@ -595,18 +595,18 @@
       "lat": 13.0184727,
       "lng": 80.2614032,
       "priority": "high",
-      "updatedAt": "2026-03-23T06:05:17.479501+00:00",
-      "currentSpeed": 33,
+      "updatedAt": "2026-03-23T07:55:16.630306+00:00",
+      "currentSpeed": 27,
       "freeFlowSpeed": 33,
       "congestion": "low",
-      "confidence": 1
+      "confidence": 0.99
     },
     "319038955": {
       "name": "Indian Oil",
       "lat": 13.0421221,
       "lng": 80.2684202,
       "priority": "high",
-      "updatedAt": "2026-03-23T06:05:17.479501+00:00",
+      "updatedAt": "2026-03-23T07:55:16.630306+00:00",
       "currentSpeed": 23,
       "freeFlowSpeed": 23,
       "congestion": "low",
