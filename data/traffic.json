@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-03-24T09:55:16.420213+00:00",
+  "timestamp": "2026-03-24T10:00:42.073999+00:00",
   "stationCount": 251,
   "totalStations": 251,
   "batchUpdated": 10,
   "errors": 0,
-  "dailyRequestsUsed": 1415,
-  "schedule": "batch=10 at 15:25 IST",
+  "dailyRequestsUsed": 1425,
+  "schedule": "batch=10 at 15:30 IST",
   "stations": {
     "308467144": {
       "name": "HP",
@@ -738,8 +738,8 @@
       "lat": 12.9949579,
       "lng": 80.1879445,
       "priority": "high",
-      "updatedAt": "2026-03-24T09:55:16.420213+00:00",
-      "currentSpeed": 38,
+      "updatedAt": "2026-03-24T10:00:42.073999+00:00",
+      "currentSpeed": 32,
       "freeFlowSpeed": 38,
       "congestion": "low",
       "confidence": 1
@@ -749,7 +749,7 @@
       "lat": 12.9130277,
       "lng": 80.142989,
       "priority": "high",
-      "updatedAt": "2026-03-24T07:50:20.780278+00:00",
+      "updatedAt": "2026-03-24T10:00:42.073999+00:00",
       "currentSpeed": 31,
       "freeFlowSpeed": 31,
       "congestion": "low",
@@ -760,7 +760,7 @@
       "lat": 12.9223527,
       "lng": 80.1512781,
       "priority": "high",
-      "updatedAt": "2026-03-24T07:50:20.780278+00:00",
+      "updatedAt": "2026-03-24T10:00:42.073999+00:00",
       "currentSpeed": 33,
       "freeFlowSpeed": 33,
       "congestion": "low",
@@ -771,7 +771,7 @@
       "lat": 12.9229082,
       "lng": 80.1508778,
       "priority": "high",
-      "updatedAt": "2026-03-24T07:50:20.780278+00:00",
+      "updatedAt": "2026-03-24T10:00:42.073999+00:00",
       "currentSpeed": 33,
       "freeFlowSpeed": 33,
       "congestion": "low",
@@ -782,8 +782,8 @@
       "lat": 12.9225671,
       "lng": 80.197052,
       "priority": "high",
-      "updatedAt": "2026-03-24T07:50:20.780278+00:00",
-      "currentSpeed": 28,
+      "updatedAt": "2026-03-24T10:00:42.073999+00:00",
+      "currentSpeed": 29,
       "freeFlowSpeed": 33,
       "congestion": "low",
       "confidence": 1
@@ -793,55 +793,55 @@
       "lat": 12.9674951,
       "lng": 80.2485479,
       "priority": "low",
-      "updatedAt": "2026-03-24T07:50:20.780278+00:00",
-      "currentSpeed": 23,
-      "freeFlowSpeed": 23,
+      "updatedAt": "2026-03-24T10:00:42.073999+00:00",
+      "currentSpeed": 19,
+      "freeFlowSpeed": 22,
       "congestion": "low",
-      "confidence": 1
+      "confidence": 0.96
     },
     "3683580478": {
       "name": "Chinthamani Cooperative Petrol Bunk",
       "lat": 13.0409717,
       "lng": 80.2373739,
       "priority": "medium",
-      "updatedAt": "2026-03-24T07:55:14.811674+00:00",
-      "currentSpeed": 18,
+      "updatedAt": "2026-03-24T10:00:42.073999+00:00",
+      "currentSpeed": 17,
       "freeFlowSpeed": 24,
       "congestion": "medium",
-      "confidence": 0.96
+      "confidence": 0.98
     },
     "3685008256": {
       "name": "Fuel Station",
       "lat": 13.0452801,
       "lng": 80.2182725,
       "priority": "low",
-      "updatedAt": "2026-03-24T07:55:14.811674+00:00",
-      "currentSpeed": 17,
-      "freeFlowSpeed": 26,
+      "updatedAt": "2026-03-24T10:00:42.073999+00:00",
+      "currentSpeed": 20,
+      "freeFlowSpeed": 27,
       "congestion": "medium",
-      "confidence": 0.92
+      "confidence": 0.96
     },
     "3685280058": {
       "name": "HP",
       "lat": 13.0401531,
       "lng": 80.2400751,
       "priority": "high",
-      "updatedAt": "2026-03-24T07:55:14.811674+00:00",
-      "currentSpeed": 17,
+      "updatedAt": "2026-03-24T10:00:42.073999+00:00",
+      "currentSpeed": 14,
       "freeFlowSpeed": 26,
       "congestion": "medium",
-      "confidence": 0.83
+      "confidence": 0.81
     },
     "3685381587": {
       "name": "Fuel Station",
       "lat": 13.040274,
       "lng": 80.2423014,
       "priority": "low",
-      "updatedAt": "2026-03-24T07:55:14.811674+00:00",
-      "currentSpeed": 18,
-      "freeFlowSpeed": 24,
+      "updatedAt": "2026-03-24T10:00:42.073999+00:00",
+      "currentSpeed": 16,
+      "freeFlowSpeed": 23,
       "congestion": "medium",
-      "confidence": 0.96
+      "confidence": 0.98
     },
     "3685431628": {
       "name": "Fuel Station",
