@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-03-26T00:30:30.136485+00:00",
-  "stationCount": 9,
+  "timestamp": "2026-03-26T00:45:18.721352+00:00",
+  "stationCount": 14,
   "totalStations": 251,
   "batchUpdated": 5,
   "errors": 0,
-  "dailyRequestsUsed": 10,
-  "schedule": "batch=5 at 06:00 IST",
+  "dailyRequestsUsed": 15,
+  "schedule": "batch=5 at 06:15 IST",
   "stations": {
     "5372705976": {
       "name": "HP Fuel Station",
@@ -103,6 +103,61 @@
       "updatedAt": "2026-03-26T00:30:30.136485+00:00",
       "currentSpeed": 30,
       "freeFlowSpeed": 30,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "7255733766": {
+      "name": "IndianOil",
+      "lat": 13.0558552,
+      "lng": 80.2487664,
+      "priority": "high",
+      "updatedAt": "2026-03-26T00:45:18.721352+00:00",
+      "currentSpeed": 25,
+      "freeFlowSpeed": 25,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "7277050428": {
+      "name": "HP",
+      "lat": 12.9408086,
+      "lng": 80.1317666,
+      "priority": "high",
+      "updatedAt": "2026-03-26T00:45:18.721352+00:00",
+      "currentSpeed": 38,
+      "freeFlowSpeed": 38,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "7652513549": {
+      "name": "Bharat Petroleum Petrol Pump",
+      "lat": 13.0202778,
+      "lng": 80.1300076,
+      "priority": "high",
+      "updatedAt": "2026-03-26T00:45:18.721352+00:00",
+      "currentSpeed": 69,
+      "freeFlowSpeed": 69,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "8096467026": {
+      "name": "Indian Oil",
+      "lat": 13.0472469,
+      "lng": 80.1995671,
+      "priority": "high",
+      "updatedAt": "2026-03-26T00:45:18.721352+00:00",
+      "currentSpeed": 25,
+      "freeFlowSpeed": 25,
+      "congestion": "low",
+      "confidence": 0.95
+    },
+    "8099976740": {
+      "name": "Indian Oil Petrol Bunk",
+      "lat": 13.0370179,
+      "lng": 80.201671,
+      "priority": "high",
+      "updatedAt": "2026-03-26T00:45:18.721352+00:00",
+      "currentSpeed": 34,
+      "freeFlowSpeed": 34,
       "congestion": "low",
       "confidence": 1
     }
