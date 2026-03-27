@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-03-27T04:20:20.712325+00:00",
+  "timestamp": "2026-03-27T04:25:15.872262+00:00",
   "stationCount": 251,
   "totalStations": 251,
   "batchUpdated": 16,
   "errors": 0,
-  "dailyRequestsUsed": 601,
-  "schedule": "batch=16 at 09:50 IST",
+  "dailyRequestsUsed": 617,
+  "schedule": "batch=16 at 09:55 IST",
   "stations": {
     "4161672690": {
       "name": "Petrol Bunk",
@@ -782,7 +782,7 @@
       "lat": 12.9951799,
       "lng": 80.0897634,
       "priority": "medium",
-      "updatedAt": "2026-03-27T04:20:20.712325+00:00",
+      "updatedAt": "2026-03-27T04:25:15.872262+00:00",
       "currentSpeed": 50,
       "freeFlowSpeed": 50,
       "congestion": "low",
@@ -793,8 +793,8 @@
       "lat": 13.0621103,
       "lng": 80.1507493,
       "priority": "medium",
-      "updatedAt": "2026-03-27T03:05:22.897913+00:00",
-      "currentSpeed": 34,
+      "updatedAt": "2026-03-27T04:25:15.872262+00:00",
+      "currentSpeed": 29,
       "freeFlowSpeed": 34,
       "congestion": "low",
       "confidence": 1
@@ -804,30 +804,30 @@
       "lat": 13.0566431,
       "lng": 80.2644059,
       "priority": "high",
-      "updatedAt": "2026-03-27T03:05:22.897913+00:00",
-      "currentSpeed": 19,
+      "updatedAt": "2026-03-27T04:25:15.872262+00:00",
+      "currentSpeed": 17,
       "freeFlowSpeed": 19,
       "congestion": "low",
-      "confidence": 0.84
+      "confidence": 0.87
     },
     "11617869405": {
       "name": "Shell",
       "lat": 13.0312675,
       "lng": 80.1645244,
       "priority": "high",
-      "updatedAt": "2026-03-27T03:05:22.897913+00:00",
-      "currentSpeed": 31,
+      "updatedAt": "2026-03-27T04:25:15.872262+00:00",
+      "currentSpeed": 28,
       "freeFlowSpeed": 31,
       "congestion": "low",
-      "confidence": 1
+      "confidence": 1.0
     },
     "11626062275": {
       "name": "Bharat Petroleum",
       "lat": 12.9746968,
       "lng": 80.1920646,
       "priority": "high",
-      "updatedAt": "2026-03-27T03:05:22.897913+00:00",
-      "currentSpeed": 23,
+      "updatedAt": "2026-03-27T04:25:15.872262+00:00",
+      "currentSpeed": 21,
       "freeFlowSpeed": 23,
       "congestion": "low",
       "confidence": 0.99
@@ -837,7 +837,7 @@
       "lat": 13.0488261,
       "lng": 80.1661892,
       "priority": "high",
-      "updatedAt": "2026-03-27T03:05:22.897913+00:00",
+      "updatedAt": "2026-03-27T04:25:15.872262+00:00",
       "currentSpeed": 25,
       "freeFlowSpeed": 25,
       "congestion": "low",
@@ -848,7 +848,7 @@
       "lat": 13.0474709,
       "lng": 80.0777345,
       "priority": "high",
-      "updatedAt": "2026-03-27T03:10:21.853785+00:00",
+      "updatedAt": "2026-03-27T04:25:15.872262+00:00",
       "currentSpeed": 19,
       "freeFlowSpeed": 19,
       "congestion": "low",
@@ -859,21 +859,21 @@
       "lat": 13.0464785,
       "lng": 80.0783307,
       "priority": "high",
-      "updatedAt": "2026-03-27T03:10:21.853785+00:00",
-      "currentSpeed": 27,
+      "updatedAt": "2026-03-27T04:25:15.872262+00:00",
+      "currentSpeed": 29,
       "freeFlowSpeed": 29,
       "congestion": "low",
-      "confidence": 0.7
+      "confidence": 1
     },
     "11659453638": {
       "name": "Bharat Petroleum",
       "lat": 13.0158497,
       "lng": 80.1031673,
       "priority": "high",
-      "updatedAt": "2026-03-27T03:10:21.853785+00:00",
-      "currentSpeed": 24,
+      "updatedAt": "2026-03-27T04:25:15.872262+00:00",
+      "currentSpeed": 23,
       "freeFlowSpeed": 30,
-      "congestion": "low",
+      "congestion": "medium",
       "confidence": 1
     },
     "11668983770": {
@@ -881,8 +881,8 @@
       "lat": 12.9085119,
       "lng": 80.2501864,
       "priority": "high",
-      "updatedAt": "2026-03-27T03:10:21.853785+00:00",
-      "currentSpeed": 40,
+      "updatedAt": "2026-03-27T04:25:15.872262+00:00",
+      "currentSpeed": 33,
       "freeFlowSpeed": 40,
       "congestion": "low",
       "confidence": 1
@@ -892,8 +892,8 @@
       "lat": 13.1276031,
       "lng": 80.2175373,
       "priority": "high",
-      "updatedAt": "2026-03-27T03:10:21.853785+00:00",
-      "currentSpeed": 25,
+      "updatedAt": "2026-03-27T04:25:15.872262+00:00",
+      "currentSpeed": 21,
       "freeFlowSpeed": 25,
       "congestion": "low",
       "confidence": 1
@@ -903,10 +903,10 @@
       "lat": 13.0540708,
       "lng": 80.2344005,
       "priority": "high",
-      "updatedAt": "2026-03-27T03:10:21.853785+00:00",
-      "currentSpeed": 23,
+      "updatedAt": "2026-03-27T04:25:15.872262+00:00",
+      "currentSpeed": 21,
       "freeFlowSpeed": 28,
-      "congestion": "low",
+      "congestion": "medium",
       "confidence": 1.0
     },
     "11786631296": {
@@ -914,10 +914,10 @@
       "lat": 13.0773865,
       "lng": 80.2107125,
       "priority": "medium",
-      "updatedAt": "2026-03-27T03:10:21.853785+00:00",
-      "currentSpeed": 26,
+      "updatedAt": "2026-03-27T04:25:15.872262+00:00",
+      "currentSpeed": 19,
       "freeFlowSpeed": 31,
-      "congestion": "low",
+      "congestion": "medium",
       "confidence": 1
     },
     "11786642103": {
@@ -925,9 +925,9 @@
       "lat": 13.0773833,
       "lng": 80.208043,
       "priority": "high",
-      "updatedAt": "2026-03-27T03:10:21.853785+00:00",
-      "currentSpeed": 25,
-      "freeFlowSpeed": 32,
+      "updatedAt": "2026-03-27T04:25:15.872262+00:00",
+      "currentSpeed": 19,
+      "freeFlowSpeed": 31,
       "congestion": "medium",
       "confidence": 1
     },
@@ -936,22 +936,22 @@
       "lat": 13.0936528,
       "lng": 80.2412948,
       "priority": "high",
-      "updatedAt": "2026-03-27T03:10:21.853785+00:00",
-      "currentSpeed": 21,
+      "updatedAt": "2026-03-27T04:25:15.872262+00:00",
+      "currentSpeed": 20,
       "freeFlowSpeed": 22,
       "congestion": "low",
-      "confidence": 0.92
+      "confidence": 0.95
     },
     "11801717273": {
       "name": "Indian Oil",
       "lat": 13.0133604,
       "lng": 80.1024695,
       "priority": "high",
-      "updatedAt": "2026-03-27T03:10:21.853785+00:00",
-      "currentSpeed": 25,
+      "updatedAt": "2026-03-27T04:25:15.872262+00:00",
+      "currentSpeed": 30,
       "freeFlowSpeed": 30,
       "congestion": "low",
-      "confidence": 1.0
+      "confidence": 1
     },
     "11817783173": {
       "name": "Bharat Petroleum",
