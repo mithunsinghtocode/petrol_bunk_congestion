@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-03-27T00:30:33.040771+00:00",
-  "stationCount": 9,
+  "timestamp": "2026-03-27T00:45:20.550355+00:00",
+  "stationCount": 14,
   "totalStations": 251,
   "batchUpdated": 5,
   "errors": 0,
-  "dailyRequestsUsed": 10,
-  "schedule": "batch=5 at 06:00 IST",
+  "dailyRequestsUsed": 15,
+  "schedule": "batch=5 at 06:15 IST",
   "stations": {
     "4161672690": {
       "name": "Petrol Bunk",
@@ -103,6 +103,61 @@
       "updatedAt": "2026-03-27T00:30:33.040771+00:00",
       "currentSpeed": 22,
       "freeFlowSpeed": 22,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "4646203389": {
+      "name": "Fuel Station",
+      "lat": 13.1237034,
+      "lng": 80.2215577,
+      "priority": "low",
+      "updatedAt": "2026-03-27T00:45:20.550355+00:00",
+      "currentSpeed": 24,
+      "freeFlowSpeed": 24,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "4733556322": {
+      "name": "Fuel Station",
+      "lat": 13.0680837,
+      "lng": 80.1280612,
+      "priority": "low",
+      "updatedAt": "2026-03-27T00:45:20.550355+00:00",
+      "currentSpeed": 22,
+      "freeFlowSpeed": 22,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "4733590421": {
+      "name": "Fuel Station",
+      "lat": 13.0677903,
+      "lng": 80.1306714,
+      "priority": "low",
+      "updatedAt": "2026-03-27T00:45:20.550355+00:00",
+      "currentSpeed": 22,
+      "freeFlowSpeed": 22,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "4783866221": {
+      "name": "Fuel Station",
+      "lat": 12.9040344,
+      "lng": 80.1425781,
+      "priority": "low",
+      "updatedAt": "2026-03-27T00:45:20.550355+00:00",
+      "currentSpeed": 31,
+      "freeFlowSpeed": 31,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "4864012321": {
+      "name": "Fuel Station",
+      "lat": 13.1725095,
+      "lng": 80.3055945,
+      "priority": "low",
+      "updatedAt": "2026-03-27T00:45:20.550355+00:00",
+      "currentSpeed": 24,
+      "freeFlowSpeed": 24,
       "congestion": "low",
       "confidence": 1
     }
