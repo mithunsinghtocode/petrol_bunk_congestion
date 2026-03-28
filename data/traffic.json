@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-03-28T01:00:40.057124+00:00",
-  "stationCount": 19,
+  "timestamp": "2026-03-28T01:15:20.413236+00:00",
+  "stationCount": 23,
   "totalStations": 251,
   "batchUpdated": 5,
   "errors": 0,
-  "dailyRequestsUsed": 23,
-  "schedule": "batch=5 at 06:30 IST",
+  "dailyRequestsUsed": 28,
+  "schedule": "batch=5 at 06:45 IST",
   "stations": {
     "10742896412": {
       "name": "Fuel Station",
@@ -210,9 +210,53 @@
       "lat": 13.0488261,
       "lng": 80.1661892,
       "priority": "high",
-      "updatedAt": "2026-03-28T01:00:40.057124+00:00",
+      "updatedAt": "2026-03-28T01:15:20.413236+00:00",
       "currentSpeed": 25,
       "freeFlowSpeed": 25,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "11659380992": {
+      "name": "Nayara",
+      "lat": 13.0474709,
+      "lng": 80.0777345,
+      "priority": "high",
+      "updatedAt": "2026-03-28T01:15:20.413236+00:00",
+      "currentSpeed": 19,
+      "freeFlowSpeed": 19,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "11659437794": {
+      "name": "Bharat Petroleum",
+      "lat": 13.0464785,
+      "lng": 80.0783307,
+      "priority": "high",
+      "updatedAt": "2026-03-28T01:15:20.413236+00:00",
+      "currentSpeed": 29,
+      "freeFlowSpeed": 29,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "11659453638": {
+      "name": "Bharat Petroleum",
+      "lat": 13.0158497,
+      "lng": 80.1031673,
+      "priority": "high",
+      "updatedAt": "2026-03-28T01:15:20.413236+00:00",
+      "currentSpeed": 30,
+      "freeFlowSpeed": 30,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "11668983770": {
+      "name": "Shell",
+      "lat": 12.9085119,
+      "lng": 80.2501864,
+      "priority": "high",
+      "updatedAt": "2026-03-28T01:15:20.413236+00:00",
+      "currentSpeed": 40,
+      "freeFlowSpeed": 40,
       "congestion": "low",
       "confidence": 1
     }
