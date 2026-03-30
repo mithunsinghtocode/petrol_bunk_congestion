@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-03-30T01:00:43.091922+00:00",
-  "stationCount": 18,
+  "timestamp": "2026-03-30T01:15:20.752330+00:00",
+  "stationCount": 22,
   "totalStations": 251,
   "batchUpdated": 5,
   "errors": 0,
-  "dailyRequestsUsed": 20,
-  "schedule": "batch=5 at 06:30 IST",
+  "dailyRequestsUsed": 25,
+  "schedule": "batch=5 at 06:45 IST",
   "stations": {
     "559841147": {
       "name": "petrol bunk",
@@ -199,9 +199,53 @@
       "lat": 12.8560784,
       "lng": 80.0700462,
       "priority": "high",
-      "updatedAt": "2026-03-30T01:00:43.091922+00:00",
+      "updatedAt": "2026-03-30T01:15:20.752330+00:00",
       "currentSpeed": 52,
       "freeFlowSpeed": 52,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "1184301895": {
+      "name": "Fuel Station",
+      "lat": 13.0383055,
+      "lng": 80.0525266,
+      "priority": "low",
+      "updatedAt": "2026-03-30T01:15:20.752330+00:00",
+      "currentSpeed": 29,
+      "freeFlowSpeed": 29,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "1185702590": {
+      "name": "Fuel Station",
+      "lat": 13.1151535,
+      "lng": 80.1016715,
+      "priority": "low",
+      "updatedAt": "2026-03-30T01:15:20.752330+00:00",
+      "currentSpeed": 29,
+      "freeFlowSpeed": 29,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "1275649007": {
+      "name": "Fuel Station",
+      "lat": 12.9771589,
+      "lng": 80.2511612,
+      "priority": "low",
+      "updatedAt": "2026-03-30T01:15:20.752330+00:00",
+      "currentSpeed": 19,
+      "freeFlowSpeed": 19,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "1329325020": {
+      "name": "Fuel Station",
+      "lat": 12.9186483,
+      "lng": 80.1958665,
+      "priority": "low",
+      "updatedAt": "2026-03-30T01:15:20.752330+00:00",
+      "currentSpeed": 18,
+      "freeFlowSpeed": 18,
       "congestion": "low",
       "confidence": 1
     }
