@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-04-01T00:15:20.389608+00:00",
-  "stationCount": 5,
+  "timestamp": "2026-04-01T00:30:33.497410+00:00",
+  "stationCount": 10,
   "totalStations": 251,
   "batchUpdated": 5,
   "errors": 0,
-  "dailyRequestsUsed": 5,
-  "schedule": "batch=5 at 05:45 IST",
+  "dailyRequestsUsed": 10,
+  "schedule": "batch=5 at 06:00 IST",
   "stations": {
     "3683580478": {
       "name": "Chinthamani Cooperative Petrol Bunk",
@@ -59,6 +59,61 @@
       "updatedAt": "2026-04-01T00:15:20.389608+00:00",
       "currentSpeed": 22,
       "freeFlowSpeed": 22,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "3685563463": {
+      "name": "Fuel Station",
+      "lat": 13.0338283,
+      "lng": 80.2448209,
+      "priority": "low",
+      "updatedAt": "2026-04-01T00:30:33.497410+00:00",
+      "currentSpeed": 33,
+      "freeFlowSpeed": 33,
+      "congestion": "low",
+      "confidence": 0.97
+    },
+    "3685566217": {
+      "name": "Fuel Station",
+      "lat": 13.0451808,
+      "lng": 80.2400027,
+      "priority": "low",
+      "updatedAt": "2026-04-01T00:30:33.497410+00:00",
+      "currentSpeed": 32,
+      "freeFlowSpeed": 32,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "3685567878": {
+      "name": "Fuel Station",
+      "lat": 13.0453689,
+      "lng": 80.2404265,
+      "priority": "low",
+      "updatedAt": "2026-04-01T00:30:33.497410+00:00",
+      "currentSpeed": 32,
+      "freeFlowSpeed": 32,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "3685652294": {
+      "name": "Fuel Station",
+      "lat": 13.0536069,
+      "lng": 80.2263575,
+      "priority": "low",
+      "updatedAt": "2026-04-01T00:30:33.497410+00:00",
+      "currentSpeed": 24,
+      "freeFlowSpeed": 25,
+      "congestion": "low",
+      "confidence": 0.96
+    },
+    "3685653044": {
+      "name": "Fuel Station",
+      "lat": 13.0539215,
+      "lng": 80.234525,
+      "priority": "low",
+      "updatedAt": "2026-04-01T00:30:33.497410+00:00",
+      "currentSpeed": 28,
+      "freeFlowSpeed": 28,
       "congestion": "low",
       "confidence": 1
     }
