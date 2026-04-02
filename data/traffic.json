@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-04-02T00:30:33.154031+00:00",
-  "stationCount": 14,
+  "timestamp": "2026-04-02T00:45:21.560039+00:00",
+  "stationCount": 18,
   "totalStations": 251,
   "batchUpdated": 5,
   "errors": 0,
-  "dailyRequestsUsed": 15,
-  "schedule": "batch=5 at 06:00 IST",
+  "dailyRequestsUsed": 20,
+  "schedule": "batch=5 at 06:15 IST",
   "stations": {
     "4733556322": {
       "name": "Fuel Station",
@@ -155,9 +155,53 @@
       "lat": 13.0504559,
       "lng": 80.2564197,
       "priority": "high",
-      "updatedAt": "2026-04-02T00:30:33.154031+00:00",
+      "updatedAt": "2026-04-02T00:45:21.560039+00:00",
       "currentSpeed": 25,
       "freeFlowSpeed": 25,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "7227780310": {
+      "name": "Bharat Petroleum",
+      "lat": 13.0885238,
+      "lng": 80.1697204,
+      "priority": "high",
+      "updatedAt": "2026-04-02T00:45:21.560039+00:00",
+      "currentSpeed": 26,
+      "freeFlowSpeed": 26,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "7252470680": {
+      "name": "Fuel Station",
+      "lat": 13.0584278,
+      "lng": 80.2425658,
+      "priority": "low",
+      "updatedAt": "2026-04-02T00:45:21.560039+00:00",
+      "currentSpeed": 30,
+      "freeFlowSpeed": 30,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "7255733766": {
+      "name": "IndianOil",
+      "lat": 13.0558552,
+      "lng": 80.2487664,
+      "priority": "high",
+      "updatedAt": "2026-04-02T00:45:21.560039+00:00",
+      "currentSpeed": 24,
+      "freeFlowSpeed": 25,
+      "congestion": "low",
+      "confidence": 0.84
+    },
+    "7277050428": {
+      "name": "HP",
+      "lat": 12.9408086,
+      "lng": 80.1317666,
+      "priority": "high",
+      "updatedAt": "2026-04-02T00:45:21.560039+00:00",
+      "currentSpeed": 38,
+      "freeFlowSpeed": 38,
       "congestion": "low",
       "confidence": 1
     }
