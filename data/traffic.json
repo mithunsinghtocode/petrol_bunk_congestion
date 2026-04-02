@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-04-02T10:55:17.296362+00:00",
+  "timestamp": "2026-04-02T11:00:49.181358+00:00",
   "stationCount": 251,
   "totalStations": 251,
   "batchUpdated": 10,
   "errors": 0,
-  "dailyRequestsUsed": 1522,
-  "schedule": "batch=10 at 16:25 IST",
+  "dailyRequestsUsed": 1532,
+  "schedule": "batch=10 at 16:30 IST",
   "stations": {
     "4733556322": {
       "name": "Fuel Station",
@@ -1816,21 +1816,21 @@
       "lat": 13.0184727,
       "lng": 80.2614032,
       "priority": "high",
-      "updatedAt": "2026-04-02T10:55:17.296362+00:00",
-      "currentSpeed": 28,
-      "freeFlowSpeed": 33,
+      "updatedAt": "2026-04-02T11:00:49.181358+00:00",
+      "currentSpeed": 26,
+      "freeFlowSpeed": 32,
       "congestion": "low",
-      "confidence": 1.0
+      "confidence": 0.99
     },
     "319038955": {
       "name": "Indian Oil",
       "lat": 13.0421221,
       "lng": 80.2684202,
       "priority": "high",
-      "updatedAt": "2026-04-02T08:55:17.066291+00:00",
-      "currentSpeed": 18,
+      "updatedAt": "2026-04-02T11:00:49.181358+00:00",
+      "currentSpeed": 23,
       "freeFlowSpeed": 23,
-      "congestion": "medium",
+      "congestion": "low",
       "confidence": 1
     },
     "325787817": {
@@ -1838,8 +1838,8 @@
       "lat": 12.9097046,
       "lng": 80.2503011,
       "priority": "high",
-      "updatedAt": "2026-04-02T08:55:17.066291+00:00",
-      "currentSpeed": 40,
+      "updatedAt": "2026-04-02T11:00:49.181358+00:00",
+      "currentSpeed": 34,
       "freeFlowSpeed": 40,
       "congestion": "low",
       "confidence": 1
@@ -1849,10 +1849,10 @@
       "lat": 13.0674553,
       "lng": 80.2524458,
       "priority": "low",
-      "updatedAt": "2026-04-02T08:55:17.066291+00:00",
-      "currentSpeed": 24,
-      "freeFlowSpeed": 29,
-      "congestion": "low",
+      "updatedAt": "2026-04-02T11:00:49.181358+00:00",
+      "currentSpeed": 23,
+      "freeFlowSpeed": 31,
+      "congestion": "medium",
       "confidence": 1
     },
     "364572949": {
@@ -1860,9 +1860,9 @@
       "lat": 13.0247047,
       "lng": 80.2065279,
       "priority": "high",
-      "updatedAt": "2026-04-02T08:55:17.066291+00:00",
-      "currentSpeed": 37,
-      "freeFlowSpeed": 37,
+      "updatedAt": "2026-04-02T11:00:49.181358+00:00",
+      "currentSpeed": 32,
+      "freeFlowSpeed": 38,
       "congestion": "low",
       "confidence": 1
     },
@@ -1871,8 +1871,8 @@
       "lat": 13.0200917,
       "lng": 80.1853891,
       "priority": "high",
-      "updatedAt": "2026-04-02T08:55:17.066291+00:00",
-      "currentSpeed": 31,
+      "updatedAt": "2026-04-02T11:00:49.181358+00:00",
+      "currentSpeed": 27,
       "freeFlowSpeed": 31,
       "congestion": "low",
       "confidence": 1
@@ -1882,29 +1882,29 @@
       "lat": 13.0116259,
       "lng": 80.2185178,
       "priority": "high",
-      "updatedAt": "2026-04-02T08:55:17.066291+00:00",
+      "updatedAt": "2026-04-02T11:00:49.181358+00:00",
       "currentSpeed": 26,
       "freeFlowSpeed": 35,
       "congestion": "medium",
-      "confidence": 0.99
+      "confidence": 1
     },
     "365983863": {
       "name": "Fuel Station",
       "lat": 13.0120221,
       "lng": 80.2197653,
       "priority": "low",
-      "updatedAt": "2026-04-02T08:55:17.066291+00:00",
+      "updatedAt": "2026-04-02T11:00:49.181358+00:00",
       "currentSpeed": 26,
       "freeFlowSpeed": 35,
       "congestion": "medium",
-      "confidence": 0.99
+      "confidence": 1
     },
     "366075202": {
       "name": "Indian Oil",
       "lat": 13.0696245,
       "lng": 80.1996608,
       "priority": "high",
-      "updatedAt": "2026-04-02T08:55:17.066291+00:00",
+      "updatedAt": "2026-04-02T11:00:49.181358+00:00",
       "currentSpeed": 18,
       "freeFlowSpeed": 18,
       "congestion": "low",
@@ -1915,7 +1915,7 @@
       "lat": 13.0158863,
       "lng": 80.2048651,
       "priority": "high",
-      "updatedAt": "2026-04-02T08:55:17.066291+00:00",
+      "updatedAt": "2026-04-02T11:00:49.181358+00:00",
       "currentSpeed": 32,
       "freeFlowSpeed": 38,
       "congestion": "low",
