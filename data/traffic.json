@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-04-03T00:15:33.043729+00:00",
-  "stationCount": 5,
+  "timestamp": "2026-04-03T00:30:32.130850+00:00",
+  "stationCount": 9,
   "totalStations": 251,
   "batchUpdated": 5,
   "errors": 0,
-  "dailyRequestsUsed": 5,
-  "schedule": "batch=5 at 05:45 IST",
+  "dailyRequestsUsed": 10,
+  "schedule": "batch=5 at 06:00 IST",
   "stations": {
     "10137228451": {
       "name": "Indian Oil",
@@ -56,9 +56,53 @@
       "lat": 13.069942,
       "lng": 80.2725116,
       "priority": "high",
-      "updatedAt": "2026-04-03T00:15:33.043729+00:00",
+      "updatedAt": "2026-04-03T00:30:32.130850+00:00",
       "currentSpeed": 36,
       "freeFlowSpeed": 36,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "10567560612": {
+      "name": "Shell",
+      "lat": 13.0893234,
+      "lng": 80.1081502,
+      "priority": "high",
+      "updatedAt": "2026-04-03T00:30:32.130850+00:00",
+      "currentSpeed": 29,
+      "freeFlowSpeed": 29,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "10593328485": {
+      "name": "Kousalya Fuels Velachery",
+      "lat": 12.9971505,
+      "lng": 80.2163258,
+      "priority": "medium",
+      "updatedAt": "2026-04-03T00:30:32.130850+00:00",
+      "currentSpeed": 28,
+      "freeFlowSpeed": 28,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "10596195090": {
+      "name": "Indian Oil",
+      "lat": 13.2124948,
+      "lng": 80.0850088,
+      "priority": "high",
+      "updatedAt": "2026-04-03T00:30:32.130850+00:00",
+      "currentSpeed": 42,
+      "freeFlowSpeed": 42,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "10611618805": {
+      "name": "Shell Retteri RTO",
+      "lat": 13.1349361,
+      "lng": 80.2155593,
+      "priority": "high",
+      "updatedAt": "2026-04-03T00:30:32.130850+00:00",
+      "currentSpeed": 34,
+      "freeFlowSpeed": 34,
       "congestion": "low",
       "confidence": 1
     }
