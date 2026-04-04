@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-04-04T01:00:39.685948+00:00",
-  "stationCount": 17,
+  "timestamp": "2026-04-04T01:02:36.061201+00:00",
+  "stationCount": 22,
   "totalStations": 251,
   "batchUpdated": 5,
   "errors": 0,
-  "dailyRequestsUsed": 20,
-  "schedule": "batch=5 at 06:30 IST",
+  "dailyRequestsUsed": 25,
+  "schedule": "batch=5 at 06:32 IST",
   "stations": {
     "11832552853": {
       "name": "Bharat Petroleum",
@@ -191,6 +191,61 @@
       "updatedAt": "2026-04-04T01:00:39.685948+00:00",
       "currentSpeed": 24,
       "freeFlowSpeed": 24,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "13434024649": {
+      "name": "Bharat Petroleum",
+      "lat": 13.2326035,
+      "lng": 80.1596128,
+      "priority": "high",
+      "updatedAt": "2026-04-04T01:02:36.061201+00:00",
+      "currentSpeed": 52,
+      "freeFlowSpeed": 52,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "13607099593": {
+      "name": "Fuel Station",
+      "lat": 13.072892,
+      "lng": 80.1822637,
+      "priority": "low",
+      "updatedAt": "2026-04-04T01:02:36.061201+00:00",
+      "currentSpeed": 22,
+      "freeFlowSpeed": 22,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "13638977909": {
+      "name": "K. R. Fuels",
+      "lat": 12.9699504,
+      "lng": 80.218018,
+      "priority": "medium",
+      "updatedAt": "2026-04-04T01:02:36.061201+00:00",
+      "currentSpeed": 40,
+      "freeFlowSpeed": 40,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "156240656": {
+      "name": "Fuel Station",
+      "lat": 13.039191,
+      "lng": 80.2573429,
+      "priority": "low",
+      "updatedAt": "2026-04-04T01:02:36.061201+00:00",
+      "currentSpeed": 25,
+      "freeFlowSpeed": 25,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "205878146": {
+      "name": "IOC",
+      "lat": 12.9898779,
+      "lng": 80.2211746,
+      "priority": "high",
+      "updatedAt": "2026-04-04T01:02:36.061201+00:00",
+      "currentSpeed": 33,
+      "freeFlowSpeed": 33,
       "congestion": "low",
       "confidence": 1
     }
