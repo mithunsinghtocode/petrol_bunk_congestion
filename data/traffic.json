@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-04-04T13:59:41.375065+00:00",
+  "timestamp": "2026-04-04T14:00:41.509786+00:00",
   "stationCount": 251,
   "totalStations": 251,
   "batchUpdated": 16,
   "errors": 0,
-  "dailyRequestsUsed": 2174,
-  "schedule": "batch=16 at 19:29 IST",
+  "dailyRequestsUsed": 2190,
+  "schedule": "batch=16 at 19:30 IST",
   "stations": {
     "11832552853": {
       "name": "Bharat Petroleum",
@@ -408,9 +408,9 @@
       "lat": 12.9254957,
       "lng": 80.1028178,
       "priority": "high",
-      "updatedAt": "2026-04-04T13:59:41.375065+00:00",
-      "currentSpeed": 22,
-      "freeFlowSpeed": 28,
+      "updatedAt": "2026-04-04T14:00:41.509786+00:00",
+      "currentSpeed": 23,
+      "freeFlowSpeed": 29,
       "congestion": "medium",
       "confidence": 0.99
     },
@@ -419,8 +419,8 @@
       "lat": 12.9723444,
       "lng": 80.1398299,
       "priority": "high",
-      "updatedAt": "2026-04-04T12:45:19.871799+00:00",
-      "currentSpeed": 15,
+      "updatedAt": "2026-04-04T14:00:41.509786+00:00",
+      "currentSpeed": 14,
       "freeFlowSpeed": 24,
       "congestion": "medium",
       "confidence": 1.0
@@ -430,8 +430,8 @@
       "lat": 12.9549884,
       "lng": 80.1429325,
       "priority": "high",
-      "updatedAt": "2026-04-04T12:45:19.871799+00:00",
-      "currentSpeed": 30,
+      "updatedAt": "2026-04-04T14:00:41.509786+00:00",
+      "currentSpeed": 27,
       "freeFlowSpeed": 38,
       "congestion": "medium",
       "confidence": 1
@@ -441,10 +441,10 @@
       "lat": 13.0839077,
       "lng": 80.2442941,
       "priority": "low",
-      "updatedAt": "2026-04-04T12:45:19.871799+00:00",
-      "currentSpeed": 20,
-      "freeFlowSpeed": 28,
-      "congestion": "medium",
+      "updatedAt": "2026-04-04T14:00:41.509786+00:00",
+      "currentSpeed": 27,
+      "freeFlowSpeed": 27,
+      "congestion": "low",
       "confidence": 1
     },
     "397280116": {
@@ -452,8 +452,8 @@
       "lat": 13.0109649,
       "lng": 80.2589786,
       "priority": "medium",
-      "updatedAt": "2026-04-04T12:45:19.871799+00:00",
-      "currentSpeed": 24,
+      "updatedAt": "2026-04-04T14:00:41.509786+00:00",
+      "currentSpeed": 22,
       "freeFlowSpeed": 33,
       "congestion": "medium",
       "confidence": 1.0
@@ -463,41 +463,41 @@
       "lat": 12.9642639,
       "lng": 80.2115008,
       "priority": "medium",
-      "updatedAt": "2026-04-04T12:45:19.871799+00:00",
+      "updatedAt": "2026-04-04T14:00:41.509786+00:00",
       "currentSpeed": 24,
-      "freeFlowSpeed": 32,
+      "freeFlowSpeed": 33,
       "congestion": "medium",
-      "confidence": 1
+      "confidence": 1.0
     },
     "549105636": {
       "name": "Indian Oil",
       "lat": 12.9248368,
       "lng": 80.1106702,
       "priority": "high",
-      "updatedAt": "2026-04-04T12:50:21.103611+00:00",
-      "currentSpeed": 22,
-      "freeFlowSpeed": 28,
+      "updatedAt": "2026-04-04T14:00:41.509786+00:00",
+      "currentSpeed": 23,
+      "freeFlowSpeed": 29,
       "congestion": "medium",
-      "confidence": 1.0
+      "confidence": 0.99
     },
     "596911777": {
       "name": "Bharat Petroleum",
       "lat": 12.9947388,
       "lng": 80.0708238,
       "priority": "high",
-      "updatedAt": "2026-04-04T12:50:21.103611+00:00",
-      "currentSpeed": 50,
+      "updatedAt": "2026-04-04T14:00:41.509786+00:00",
+      "currentSpeed": 43,
       "freeFlowSpeed": 50,
       "congestion": "low",
-      "confidence": 1
+      "confidence": 0.93
     },
     "835026378": {
       "name": "Shell",
       "lat": 13.1083432,
       "lng": 80.1764081,
       "priority": "high",
-      "updatedAt": "2026-04-04T12:50:21.103611+00:00",
-      "currentSpeed": 20,
+      "updatedAt": "2026-04-04T14:00:41.509786+00:00",
+      "currentSpeed": 19,
       "freeFlowSpeed": 28,
       "congestion": "medium",
       "confidence": 1
@@ -507,7 +507,7 @@
       "lat": 12.9453157,
       "lng": 80.1067659,
       "priority": "high",
-      "updatedAt": "2026-04-04T12:50:21.103611+00:00",
+      "updatedAt": "2026-04-04T14:00:41.509786+00:00",
       "currentSpeed": 68,
       "freeFlowSpeed": 68,
       "congestion": "low",
@@ -518,9 +518,9 @@
       "lat": 13.0889411,
       "lng": 80.1701962,
       "priority": "high",
-      "updatedAt": "2026-04-04T12:50:21.103611+00:00",
-      "currentSpeed": 20,
-      "freeFlowSpeed": 32,
+      "updatedAt": "2026-04-04T14:00:41.509786+00:00",
+      "currentSpeed": 21,
+      "freeFlowSpeed": 31,
       "congestion": "medium",
       "confidence": 1
     },
@@ -529,19 +529,19 @@
       "lat": 13.1174532,
       "lng": 80.1563543,
       "priority": "medium",
-      "updatedAt": "2026-04-04T12:50:21.103611+00:00",
+      "updatedAt": "2026-04-04T14:00:41.509786+00:00",
       "currentSpeed": 22,
       "freeFlowSpeed": 30,
       "congestion": "medium",
-      "confidence": 1
+      "confidence": 1.0
     },
     "922383171": {
       "name": "Shell",
       "lat": 12.9641205,
       "lng": 80.187622,
       "priority": "high",
-      "updatedAt": "2026-04-04T12:50:21.103611+00:00",
-      "currentSpeed": 21,
+      "updatedAt": "2026-04-04T14:00:41.509786+00:00",
+      "currentSpeed": 20,
       "freeFlowSpeed": 23,
       "congestion": "low",
       "confidence": 0.99
@@ -551,8 +551,8 @@
       "lat": 12.9830485,
       "lng": 80.1904569,
       "priority": "high",
-      "updatedAt": "2026-04-04T12:50:21.103611+00:00",
-      "currentSpeed": 21,
+      "updatedAt": "2026-04-04T14:00:41.509786+00:00",
+      "currentSpeed": 20,
       "freeFlowSpeed": 23,
       "congestion": "low",
       "confidence": 0.99
@@ -562,10 +562,10 @@
       "lat": 13.0278518,
       "lng": 80.1708779,
       "priority": "high",
-      "updatedAt": "2026-04-04T12:50:21.103611+00:00",
-      "currentSpeed": 24,
+      "updatedAt": "2026-04-04T14:00:41.509786+00:00",
+      "currentSpeed": 25,
       "freeFlowSpeed": 31,
-      "congestion": "medium",
+      "congestion": "low",
       "confidence": 1
     },
     "1193839071": {
@@ -573,11 +573,11 @@
       "lat": 12.9588294,
       "lng": 80.1289797,
       "priority": "high",
-      "updatedAt": "2026-04-04T12:50:21.103611+00:00",
+      "updatedAt": "2026-04-04T14:00:41.509786+00:00",
       "currentSpeed": 18,
       "freeFlowSpeed": 23,
       "congestion": "medium",
-      "confidence": 0.98
+      "confidence": 0.99
     },
     "1284550496": {
       "name": "Indian Oil",
