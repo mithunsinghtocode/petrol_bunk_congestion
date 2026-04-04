@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-04-04T00:15:20.756982+00:00",
-  "stationCount": 5,
+  "timestamp": "2026-04-04T00:30:34.978365+00:00",
+  "stationCount": 9,
   "totalStations": 251,
   "batchUpdated": 5,
   "errors": 0,
-  "dailyRequestsUsed": 5,
-  "schedule": "batch=5 at 05:45 IST",
+  "dailyRequestsUsed": 10,
+  "schedule": "batch=5 at 06:00 IST",
   "stations": {
     "11832552853": {
       "name": "Bharat Petroleum",
@@ -56,9 +56,53 @@
       "lat": 13.0458131,
       "lng": 80.2398536,
       "priority": "medium",
-      "updatedAt": "2026-04-04T00:15:20.756982+00:00",
+      "updatedAt": "2026-04-04T00:30:34.978365+00:00",
       "currentSpeed": 32,
       "freeFlowSpeed": 32,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "11906447554": {
+      "name": "HP",
+      "lat": 12.9712243,
+      "lng": 80.1430289,
+      "priority": "high",
+      "updatedAt": "2026-04-04T00:30:34.978365+00:00",
+      "currentSpeed": 24,
+      "freeFlowSpeed": 24,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "12309195199": {
+      "name": "Nayara",
+      "lat": 12.917494,
+      "lng": 80.1893385,
+      "priority": "high",
+      "updatedAt": "2026-04-04T00:30:34.978365+00:00",
+      "currentSpeed": 18,
+      "freeFlowSpeed": 18,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "12458738602": {
+      "name": "HP Petrol Pump",
+      "lat": 13.1899982,
+      "lng": 80.313768,
+      "priority": "high",
+      "updatedAt": "2026-04-04T00:30:34.978365+00:00",
+      "currentSpeed": 31,
+      "freeFlowSpeed": 31,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "12460941246": {
+      "name": "Bharat Petroleum",
+      "lat": 13.0805405,
+      "lng": 80.2665835,
+      "priority": "high",
+      "updatedAt": "2026-04-04T00:30:34.978365+00:00",
+      "currentSpeed": 28,
+      "freeFlowSpeed": 28,
       "congestion": "low",
       "confidence": 1
     }
