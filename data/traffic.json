@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-04-06T08:55:16.459538+00:00",
+  "timestamp": "2026-04-06T09:00:43.038414+00:00",
   "stationCount": 251,
   "totalStations": 251,
   "batchUpdated": 10,
   "errors": 0,
-  "dailyRequestsUsed": 1256,
-  "schedule": "batch=10 at 14:25 IST",
+  "dailyRequestsUsed": 1266,
+  "schedule": "batch=10 at 14:30 IST",
   "stations": {
     "4627597189": {
       "name": "Fuel Station",
@@ -1882,10 +1882,10 @@
       "lat": 13.0247047,
       "lng": 80.2065279,
       "priority": "high",
-      "updatedAt": "2026-04-06T08:55:16.459538+00:00",
-      "currentSpeed": 31,
-      "freeFlowSpeed": 37,
-      "congestion": "low",
+      "updatedAt": "2026-04-06T09:00:43.038414+00:00",
+      "currentSpeed": 30,
+      "freeFlowSpeed": 38,
+      "congestion": "medium",
       "confidence": 1
     },
     "364651023": {
@@ -1893,19 +1893,19 @@
       "lat": 13.0200917,
       "lng": 80.1853891,
       "priority": "high",
-      "updatedAt": "2026-04-06T06:55:16.352706+00:00",
-      "currentSpeed": 25,
+      "updatedAt": "2026-04-06T09:00:43.038414+00:00",
+      "currentSpeed": 28,
       "freeFlowSpeed": 31,
       "congestion": "low",
-      "confidence": 1
+      "confidence": 1.0
     },
     "365544723": {
       "name": "BP",
       "lat": 13.0116259,
       "lng": 80.2185178,
       "priority": "high",
-      "updatedAt": "2026-04-06T06:55:16.352706+00:00",
-      "currentSpeed": 22,
+      "updatedAt": "2026-04-06T09:00:43.038414+00:00",
+      "currentSpeed": 24,
       "freeFlowSpeed": 35,
       "congestion": "medium",
       "confidence": 0.99
@@ -1915,8 +1915,8 @@
       "lat": 13.0120221,
       "lng": 80.2197653,
       "priority": "low",
-      "updatedAt": "2026-04-06T06:55:16.352706+00:00",
-      "currentSpeed": 22,
+      "updatedAt": "2026-04-06T09:00:43.038414+00:00",
+      "currentSpeed": 24,
       "freeFlowSpeed": 35,
       "congestion": "medium",
       "confidence": 0.99
@@ -1926,7 +1926,7 @@
       "lat": 13.0696245,
       "lng": 80.1996608,
       "priority": "high",
-      "updatedAt": "2026-04-06T06:55:16.352706+00:00",
+      "updatedAt": "2026-04-06T09:00:43.038414+00:00",
       "currentSpeed": 18,
       "freeFlowSpeed": 18,
       "congestion": "low",
@@ -1937,8 +1937,8 @@
       "lat": 13.0158863,
       "lng": 80.2048651,
       "priority": "high",
-      "updatedAt": "2026-04-06T06:55:16.352706+00:00",
-      "currentSpeed": 25,
+      "updatedAt": "2026-04-06T09:00:43.038414+00:00",
+      "currentSpeed": 30,
       "freeFlowSpeed": 38,
       "congestion": "medium",
       "confidence": 1
@@ -1948,10 +1948,10 @@
       "lat": 13.0347707,
       "lng": 80.2109563,
       "priority": "high",
-      "updatedAt": "2026-04-06T06:55:16.352706+00:00",
-      "currentSpeed": 31,
+      "updatedAt": "2026-04-06T09:00:43.038414+00:00",
+      "currentSpeed": 28,
       "freeFlowSpeed": 38,
-      "congestion": "low",
+      "congestion": "medium",
       "confidence": 1
     },
     "367793382": {
@@ -1959,8 +1959,8 @@
       "lat": 13.0231114,
       "lng": 80.2063585,
       "priority": "high",
-      "updatedAt": "2026-04-06T06:55:16.352706+00:00",
-      "currentSpeed": 25,
+      "updatedAt": "2026-04-06T09:00:43.038414+00:00",
+      "currentSpeed": 30,
       "freeFlowSpeed": 38,
       "congestion": "medium",
       "confidence": 1
@@ -1970,8 +1970,8 @@
       "lat": 13.0127799,
       "lng": 80.2222772,
       "priority": "high",
-      "updatedAt": "2026-04-06T06:55:16.352706+00:00",
-      "currentSpeed": 28,
+      "updatedAt": "2026-04-06T09:00:43.038414+00:00",
+      "currentSpeed": 20,
       "freeFlowSpeed": 38,
       "congestion": "medium",
       "confidence": 1
@@ -1981,10 +1981,10 @@
       "lat": 13.0112743,
       "lng": 80.2229232,
       "priority": "high",
-      "updatedAt": "2026-04-06T06:55:16.352706+00:00",
-      "currentSpeed": 25,
+      "updatedAt": "2026-04-06T09:00:43.038414+00:00",
+      "currentSpeed": 28,
       "freeFlowSpeed": 32,
-      "congestion": "medium",
+      "congestion": "low",
       "confidence": 1
     },
     "370972600": {
