@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-04-06T08:00:42.899687+00:00",
+  "timestamp": "2026-04-06T08:05:18.123369+00:00",
   "stationCount": 251,
   "totalStations": 251,
   "batchUpdated": 10,
   "errors": 0,
-  "dailyRequestsUsed": 1136,
-  "schedule": "batch=10 at 13:30 IST",
+  "dailyRequestsUsed": 1146,
+  "schedule": "batch=10 at 13:35 IST",
   "stations": {
     "4627597189": {
       "name": "Fuel Station",
@@ -683,31 +683,31 @@
       "lat": 12.9950979,
       "lng": 80.0901878,
       "priority": "high",
-      "updatedAt": "2026-04-06T08:00:42.899687+00:00",
-      "currentSpeed": 50,
+      "updatedAt": "2026-04-06T08:05:18.123369+00:00",
+      "currentSpeed": 42,
       "freeFlowSpeed": 50,
       "congestion": "low",
-      "confidence": 1
+      "confidence": 0.98
     },
     "11484509094": {
       "name": "Go Gas",
       "lat": 12.9951799,
       "lng": 80.0897634,
       "priority": "medium",
-      "updatedAt": "2026-04-06T06:05:18.800315+00:00",
-      "currentSpeed": 50,
+      "updatedAt": "2026-04-06T08:05:18.123369+00:00",
+      "currentSpeed": 42,
       "freeFlowSpeed": 50,
       "congestion": "low",
-      "confidence": 1
+      "confidence": 0.98
     },
     "11484539867": {
       "name": "Go Gas",
       "lat": 13.0621103,
       "lng": 80.1507493,
       "priority": "medium",
-      "updatedAt": "2026-04-06T06:05:18.800315+00:00",
+      "updatedAt": "2026-04-06T08:05:18.123369+00:00",
       "currentSpeed": 26,
-      "freeFlowSpeed": 34,
+      "freeFlowSpeed": 35,
       "congestion": "medium",
       "confidence": 1
     },
@@ -716,21 +716,21 @@
       "lat": 13.0566431,
       "lng": 80.2644059,
       "priority": "high",
-      "updatedAt": "2026-04-06T06:05:18.800315+00:00",
-      "currentSpeed": 17,
+      "updatedAt": "2026-04-06T08:05:18.123369+00:00",
+      "currentSpeed": 16,
       "freeFlowSpeed": 20,
       "congestion": "low",
-      "confidence": 0.81
+      "confidence": 0.84
     },
     "11617869405": {
       "name": "Shell",
       "lat": 13.0312675,
       "lng": 80.1645244,
       "priority": "high",
-      "updatedAt": "2026-04-06T06:05:18.800315+00:00",
-      "currentSpeed": 31,
+      "updatedAt": "2026-04-06T08:05:18.123369+00:00",
+      "currentSpeed": 24,
       "freeFlowSpeed": 31,
-      "congestion": "low",
+      "congestion": "medium",
       "confidence": 1
     },
     "11626062275": {
@@ -738,8 +738,8 @@
       "lat": 12.9746968,
       "lng": 80.1920646,
       "priority": "high",
-      "updatedAt": "2026-04-06T06:05:18.800315+00:00",
-      "currentSpeed": 22,
+      "updatedAt": "2026-04-06T08:05:18.123369+00:00",
+      "currentSpeed": 23,
       "freeFlowSpeed": 23,
       "congestion": "low",
       "confidence": 0.99
@@ -749,42 +749,42 @@
       "lat": 13.0488261,
       "lng": 80.1661892,
       "priority": "high",
-      "updatedAt": "2026-04-06T06:05:18.800315+00:00",
-      "currentSpeed": 25,
+      "updatedAt": "2026-04-06T08:05:18.123369+00:00",
+      "currentSpeed": 17,
       "freeFlowSpeed": 25,
-      "congestion": "low",
-      "confidence": 1
+      "congestion": "medium",
+      "confidence": 0.99
     },
     "11659380992": {
       "name": "Nayara",
       "lat": 13.0474709,
       "lng": 80.0777345,
       "priority": "high",
-      "updatedAt": "2026-04-06T06:05:18.800315+00:00",
-      "currentSpeed": 13,
+      "updatedAt": "2026-04-06T08:05:18.123369+00:00",
+      "currentSpeed": 19,
       "freeFlowSpeed": 19,
-      "congestion": "medium",
-      "confidence": 0.89
+      "congestion": "low",
+      "confidence": 1
     },
     "11659437794": {
       "name": "Bharat Petroleum",
       "lat": 13.0464785,
       "lng": 80.0783307,
       "priority": "high",
-      "updatedAt": "2026-04-06T06:05:18.800315+00:00",
-      "currentSpeed": 26,
+      "updatedAt": "2026-04-06T08:05:18.123369+00:00",
+      "currentSpeed": 29,
       "freeFlowSpeed": 29,
       "congestion": "low",
-      "confidence": 0.72
+      "confidence": 1
     },
     "11659453638": {
       "name": "Bharat Petroleum",
       "lat": 13.0158497,
       "lng": 80.1031673,
       "priority": "high",
-      "updatedAt": "2026-04-06T06:05:18.800315+00:00",
-      "currentSpeed": 30,
-      "freeFlowSpeed": 30,
+      "updatedAt": "2026-04-06T08:05:18.123369+00:00",
+      "currentSpeed": 25,
+      "freeFlowSpeed": 31,
       "congestion": "low",
       "confidence": 1
     },
