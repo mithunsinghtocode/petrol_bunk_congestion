@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-04-08T01:00:45.271721+00:00",
-  "stationCount": 17,
+  "timestamp": "2026-04-08T01:15:20.966522+00:00",
+  "stationCount": 21,
   "totalStations": 251,
   "batchUpdated": 5,
   "errors": 0,
-  "dailyRequestsUsed": 20,
-  "schedule": "batch=5 at 06:30 IST",
+  "dailyRequestsUsed": 25,
+  "schedule": "batch=5 at 06:45 IST",
   "stations": {
     "10593328485": {
       "name": "Kousalya Fuels Velachery",
@@ -188,9 +188,53 @@
       "lat": 12.9950979,
       "lng": 80.0901878,
       "priority": "high",
-      "updatedAt": "2026-04-08T01:00:45.271721+00:00",
+      "updatedAt": "2026-04-08T01:15:20.966522+00:00",
       "currentSpeed": 50,
       "freeFlowSpeed": 50,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "11484509094": {
+      "name": "Go Gas",
+      "lat": 12.9951799,
+      "lng": 80.0897634,
+      "priority": "medium",
+      "updatedAt": "2026-04-08T01:15:20.966522+00:00",
+      "currentSpeed": 50,
+      "freeFlowSpeed": 50,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "11484539867": {
+      "name": "Go Gas",
+      "lat": 13.0621103,
+      "lng": 80.1507493,
+      "priority": "medium",
+      "updatedAt": "2026-04-08T01:15:20.966522+00:00",
+      "currentSpeed": 34,
+      "freeFlowSpeed": 34,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "11495909640": {
+      "name": "Indian Oil",
+      "lat": 13.0566431,
+      "lng": 80.2644059,
+      "priority": "high",
+      "updatedAt": "2026-04-08T01:15:20.966522+00:00",
+      "currentSpeed": 19,
+      "freeFlowSpeed": 19,
+      "congestion": "low",
+      "confidence": 0.74
+    },
+    "11617869405": {
+      "name": "Shell",
+      "lat": 13.0312675,
+      "lng": 80.1645244,
+      "priority": "high",
+      "updatedAt": "2026-04-08T01:15:20.966522+00:00",
+      "currentSpeed": 31,
+      "freeFlowSpeed": 31,
       "congestion": "low",
       "confidence": 1
     }
