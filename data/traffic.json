@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-04-08T08:00:44.820467+00:00",
+  "timestamp": "2026-04-08T08:05:17.374587+00:00",
   "stationCount": 251,
   "totalStations": 251,
   "batchUpdated": 10,
   "errors": 0,
-  "dailyRequestsUsed": 1142,
-  "schedule": "batch=10 at 13:30 IST",
+  "dailyRequestsUsed": 1152,
+  "schedule": "batch=10 at 13:35 IST",
   "stations": {
     "10593328485": {
       "name": "Kousalya Fuels Velachery",
@@ -782,7 +782,7 @@
       "lat": 13.0248046,
       "lng": 80.2286028,
       "priority": "high",
-      "updatedAt": "2026-04-08T08:00:44.820467+00:00",
+      "updatedAt": "2026-04-08T08:05:17.374587+00:00",
       "currentSpeed": 20,
       "freeFlowSpeed": 20,
       "congestion": "low",
@@ -793,21 +793,21 @@
       "lat": 13.0320242,
       "lng": 80.2194486,
       "priority": "high",
-      "updatedAt": "2026-04-08T06:10:22.700098+00:00",
-      "currentSpeed": 15,
-      "freeFlowSpeed": 18,
+      "updatedAt": "2026-04-08T08:05:17.374587+00:00",
+      "currentSpeed": 20,
+      "freeFlowSpeed": 20,
       "congestion": "low",
-      "confidence": 0.98
+      "confidence": 1
     },
     "354249550": {
       "name": "Indian Oil",
       "lat": 13.1169795,
       "lng": 80.1981804,
       "priority": "high",
-      "updatedAt": "2026-04-08T06:10:22.700098+00:00",
-      "currentSpeed": 31,
+      "updatedAt": "2026-04-08T08:05:17.374587+00:00",
+      "currentSpeed": 39,
       "freeFlowSpeed": 39,
-      "congestion": "medium",
+      "congestion": "low",
       "confidence": 1
     },
     "354262438": {
@@ -815,40 +815,40 @@
       "lat": 13.102781,
       "lng": 80.1580847,
       "priority": "high",
-      "updatedAt": "2026-04-08T06:10:22.700098+00:00",
-      "currentSpeed": 23,
+      "updatedAt": "2026-04-08T08:05:17.374587+00:00",
+      "currentSpeed": 28,
       "freeFlowSpeed": 28,
       "congestion": "low",
-      "confidence": 1.0
+      "confidence": 1
     },
     "354266030": {
       "name": "HP",
       "lat": 13.0887154,
       "lng": 80.1744305,
       "priority": "high",
-      "updatedAt": "2026-04-08T06:10:22.700098+00:00",
-      "currentSpeed": 16,
-      "freeFlowSpeed": 19,
+      "updatedAt": "2026-04-08T08:05:17.374587+00:00",
+      "currentSpeed": 20,
+      "freeFlowSpeed": 20,
       "congestion": "low",
-      "confidence": 0.99
+      "confidence": 1
     },
     "354302763": {
       "name": "Fuel Station",
       "lat": 13.1027332,
       "lng": 80.208197,
       "priority": "low",
-      "updatedAt": "2026-04-08T06:10:22.700098+00:00",
-      "currentSpeed": 23,
+      "updatedAt": "2026-04-08T08:05:17.374587+00:00",
+      "currentSpeed": 28,
       "freeFlowSpeed": 28,
       "congestion": "low",
-      "confidence": 1.0
+      "confidence": 1
     },
     "354539919": {
       "name": "Essar fuel pump",
       "lat": 12.9793198,
       "lng": 80.2044069,
       "priority": "medium",
-      "updatedAt": "2026-04-08T06:15:25.003410+00:00",
+      "updatedAt": "2026-04-08T08:05:17.374587+00:00",
       "currentSpeed": 33,
       "freeFlowSpeed": 33,
       "congestion": "low",
@@ -859,8 +859,8 @@
       "lat": 12.9756664,
       "lng": 80.1929085,
       "priority": "high",
-      "updatedAt": "2026-04-08T06:15:25.003410+00:00",
-      "currentSpeed": 23,
+      "updatedAt": "2026-04-08T08:05:17.374587+00:00",
+      "currentSpeed": 22,
       "freeFlowSpeed": 23,
       "congestion": "low",
       "confidence": 0.99
@@ -870,20 +870,20 @@
       "lat": 13.1184638,
       "lng": 80.1499177,
       "priority": "high",
-      "updatedAt": "2026-04-08T06:15:25.003410+00:00",
-      "currentSpeed": 26,
+      "updatedAt": "2026-04-08T08:05:17.374587+00:00",
+      "currentSpeed": 30,
       "freeFlowSpeed": 30,
       "congestion": "low",
-      "confidence": 1.0
+      "confidence": 1
     },
     "355003644": {
       "name": "Indian Oil",
       "lat": 12.9783713,
       "lng": 80.1941378,
       "priority": "high",
-      "updatedAt": "2026-04-08T06:15:25.003410+00:00",
+      "updatedAt": "2026-04-08T08:05:17.374587+00:00",
       "currentSpeed": 22,
-      "freeFlowSpeed": 22,
+      "freeFlowSpeed": 23,
       "congestion": "low",
       "confidence": 0.99
     },
