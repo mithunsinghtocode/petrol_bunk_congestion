@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-04-08T08:30:37.213840+00:00",
+  "timestamp": "2026-04-08T08:35:18.720247+00:00",
   "stationCount": 251,
   "totalStations": 251,
   "batchUpdated": 10,
   "errors": 0,
-  "dailyRequestsUsed": 1212,
-  "schedule": "batch=10 at 14:00 IST",
+  "dailyRequestsUsed": 1222,
+  "schedule": "batch=10 at 14:05 IST",
   "stations": {
     "10593328485": {
       "name": "Kousalya Fuels Velachery",
@@ -1486,7 +1486,7 @@
       "lat": 13.0112743,
       "lng": 80.2229232,
       "priority": "high",
-      "updatedAt": "2026-04-08T08:30:37.213840+00:00",
+      "updatedAt": "2026-04-08T08:35:18.720247+00:00",
       "currentSpeed": 32,
       "freeFlowSpeed": 32,
       "congestion": "low",
@@ -1497,8 +1497,8 @@
       "lat": 13.0259345,
       "lng": 80.1753026,
       "priority": "high",
-      "updatedAt": "2026-04-08T06:40:23.234787+00:00",
-      "currentSpeed": 24,
+      "updatedAt": "2026-04-08T08:35:18.720247+00:00",
+      "currentSpeed": 29,
       "freeFlowSpeed": 29,
       "congestion": "low",
       "confidence": 1
@@ -1508,8 +1508,8 @@
       "lat": 13.0310451,
       "lng": 80.1651264,
       "priority": "high",
-      "updatedAt": "2026-04-08T06:40:23.234787+00:00",
-      "currentSpeed": 27,
+      "updatedAt": "2026-04-08T08:35:18.720247+00:00",
+      "currentSpeed": 31,
       "freeFlowSpeed": 31,
       "congestion": "low",
       "confidence": 1
@@ -1519,7 +1519,7 @@
       "lat": 13.0465921,
       "lng": 80.1197732,
       "priority": "high",
-      "updatedAt": "2026-04-08T06:40:23.234787+00:00",
+      "updatedAt": "2026-04-08T08:35:18.720247+00:00",
       "currentSpeed": 33,
       "freeFlowSpeed": 33,
       "congestion": "low",
@@ -1530,8 +1530,8 @@
       "lat": 13.0402991,
       "lng": 80.1304112,
       "priority": "high",
-      "updatedAt": "2026-04-08T06:40:23.234787+00:00",
-      "currentSpeed": 24,
+      "updatedAt": "2026-04-08T08:35:18.720247+00:00",
+      "currentSpeed": 29,
       "freeFlowSpeed": 29,
       "congestion": "low",
       "confidence": 1
@@ -1541,8 +1541,8 @@
       "lat": 13.0386047,
       "lng": 80.1330017,
       "priority": "high",
-      "updatedAt": "2026-04-08T06:40:23.234787+00:00",
-      "currentSpeed": 27,
+      "updatedAt": "2026-04-08T08:35:18.720247+00:00",
+      "currentSpeed": 31,
       "freeFlowSpeed": 31,
       "congestion": "low",
       "confidence": 1
@@ -1552,8 +1552,8 @@
       "lat": 13.0421889,
       "lng": 80.1237763,
       "priority": "high",
-      "updatedAt": "2026-04-08T06:40:23.234787+00:00",
-      "currentSpeed": 27,
+      "updatedAt": "2026-04-08T08:35:18.720247+00:00",
+      "currentSpeed": 31,
       "freeFlowSpeed": 31,
       "congestion": "low",
       "confidence": 1
@@ -1563,19 +1563,19 @@
       "lat": 13.0265542,
       "lng": 80.2324615,
       "priority": "high",
-      "updatedAt": "2026-04-08T06:40:23.234787+00:00",
-      "currentSpeed": 23,
-      "freeFlowSpeed": 36,
+      "updatedAt": "2026-04-08T08:35:18.720247+00:00",
+      "currentSpeed": 26,
+      "freeFlowSpeed": 35,
       "congestion": "medium",
-      "confidence": 1.0
+      "confidence": 0.98
     },
     "378021346": {
       "name": "Indian Oil",
       "lat": 13.044528,
       "lng": 80.2634018,
       "priority": "high",
-      "updatedAt": "2026-04-08T06:40:23.234787+00:00",
-      "currentSpeed": 25,
+      "updatedAt": "2026-04-08T08:35:18.720247+00:00",
+      "currentSpeed": 26,
       "freeFlowSpeed": 31,
       "congestion": "low",
       "confidence": 1
@@ -1585,11 +1585,11 @@
       "lat": 13.0277462,
       "lng": 80.2512876,
       "priority": "high",
-      "updatedAt": "2026-04-08T06:45:22.588686+00:00",
-      "currentSpeed": 28,
+      "updatedAt": "2026-04-08T08:35:18.720247+00:00",
+      "currentSpeed": 33,
       "freeFlowSpeed": 33,
       "congestion": "low",
-      "confidence": 0.99
+      "confidence": 1
     },
     "393768353": {
       "name": "HP",
