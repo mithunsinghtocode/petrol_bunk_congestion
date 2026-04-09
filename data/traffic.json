@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-04-09T11:10:22.746249+00:00",
+  "timestamp": "2026-04-09T11:12:56.881821+00:00",
   "stationCount": 251,
   "totalStations": 251,
   "batchUpdated": 10,
   "errors": 0,
-  "dailyRequestsUsed": 1529,
-  "schedule": "batch=10 at 16:40 IST",
+  "dailyRequestsUsed": 1539,
+  "schedule": "batch=10 at 16:42 IST",
   "stations": {
     "10593328485": {
       "name": "Kousalya Fuels Velachery",
@@ -1893,19 +1893,19 @@
       "lat": 12.9686473,
       "lng": 80.2571319,
       "priority": "high",
-      "updatedAt": "2026-04-09T09:00:42.926737+00:00",
-      "currentSpeed": 23,
+      "updatedAt": "2026-04-09T11:12:56.881821+00:00",
+      "currentSpeed": 20,
       "freeFlowSpeed": 31,
       "congestion": "medium",
-      "confidence": 0.99
+      "confidence": 0.98
     },
     "1451948429": {
       "name": "Bharat Petroleum",
       "lat": 12.9672226,
       "lng": 80.2573585,
       "priority": "high",
-      "updatedAt": "2026-04-09T09:00:42.926737+00:00",
-      "currentSpeed": 40,
+      "updatedAt": "2026-04-09T11:12:56.881821+00:00",
+      "currentSpeed": 32,
       "freeFlowSpeed": 40,
       "congestion": "low",
       "confidence": 1
@@ -1915,8 +1915,8 @@
       "lat": 12.967692,
       "lng": 80.2574844,
       "priority": "high",
-      "updatedAt": "2026-04-09T09:00:42.926737+00:00",
-      "currentSpeed": 40,
+      "updatedAt": "2026-04-09T11:12:56.881821+00:00",
+      "currentSpeed": 32,
       "freeFlowSpeed": 40,
       "congestion": "low",
       "confidence": 1
@@ -1926,18 +1926,18 @@
       "lat": 12.925815,
       "lng": 80.1106934,
       "priority": "medium",
-      "updatedAt": "2026-04-09T09:00:42.926737+00:00",
-      "currentSpeed": 33,
+      "updatedAt": "2026-04-09T11:12:56.881821+00:00",
+      "currentSpeed": 28,
       "freeFlowSpeed": 33,
       "congestion": "low",
-      "confidence": 1
+      "confidence": 1.0
     },
     "1488341120": {
       "name": "BP Petrol Pump",
       "lat": 13.0466076,
       "lng": 80.1910336,
       "priority": "high",
-      "updatedAt": "2026-04-09T09:05:19.152920+00:00",
+      "updatedAt": "2026-04-09T11:12:56.881821+00:00",
       "currentSpeed": 26,
       "freeFlowSpeed": 26,
       "congestion": "low",
@@ -1948,8 +1948,8 @@
       "lat": 12.9211216,
       "lng": 80.1661043,
       "priority": "high",
-      "updatedAt": "2026-04-09T09:05:19.152920+00:00",
-      "currentSpeed": 33,
+      "updatedAt": "2026-04-09T11:12:56.881821+00:00",
+      "currentSpeed": 28,
       "freeFlowSpeed": 33,
       "congestion": "low",
       "confidence": 1
@@ -1959,9 +1959,9 @@
       "lat": 12.9439409,
       "lng": 80.1833049,
       "priority": "low",
-      "updatedAt": "2026-04-09T09:05:19.152920+00:00",
-      "currentSpeed": 23,
-      "freeFlowSpeed": 23,
+      "updatedAt": "2026-04-09T11:12:56.881821+00:00",
+      "currentSpeed": 22,
+      "freeFlowSpeed": 22,
       "congestion": "low",
       "confidence": 0.99
     },
@@ -1970,10 +1970,10 @@
       "lat": 13.0421141,
       "lng": 80.259281,
       "priority": "high",
-      "updatedAt": "2026-04-09T09:05:19.152920+00:00",
-      "currentSpeed": 19,
+      "updatedAt": "2026-04-09T11:12:56.881821+00:00",
+      "currentSpeed": 17,
       "freeFlowSpeed": 23,
-      "congestion": "low",
+      "congestion": "medium",
       "confidence": 0.99
     },
     "2013361108": {
@@ -1981,7 +1981,7 @@
       "lat": 12.9524776,
       "lng": 80.1702264,
       "priority": "high",
-      "updatedAt": "2026-04-09T09:05:19.152920+00:00",
+      "updatedAt": "2026-04-09T11:12:56.881821+00:00",
       "currentSpeed": 42,
       "freeFlowSpeed": 42,
       "congestion": "low",
@@ -1992,11 +1992,11 @@
       "lat": 12.9489222,
       "lng": 80.1835848,
       "priority": "low",
-      "updatedAt": "2026-04-09T09:05:19.152920+00:00",
-      "currentSpeed": 40,
+      "updatedAt": "2026-04-09T11:12:56.881821+00:00",
+      "currentSpeed": 36,
       "freeFlowSpeed": 40,
       "congestion": "low",
-      "confidence": 1
+      "confidence": 1.0
     },
     "2039508061": {
       "name": "Fuel Station",
