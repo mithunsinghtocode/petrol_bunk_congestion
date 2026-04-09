@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-04-09T07:55:16.424804+00:00",
+  "timestamp": "2026-04-09T08:00:49.958974+00:00",
   "stationCount": 251,
   "totalStations": 251,
   "batchUpdated": 10,
   "errors": 0,
-  "dailyRequestsUsed": 1119,
-  "schedule": "batch=10 at 13:25 IST",
+  "dailyRequestsUsed": 1129,
+  "schedule": "batch=10 at 13:30 IST",
   "stations": {
     "10593328485": {
       "name": "Kousalya Fuels Velachery",
@@ -551,8 +551,8 @@
       "lat": 12.9270116,
       "lng": 80.2515525,
       "priority": "high",
-      "updatedAt": "2026-04-09T07:55:16.424804+00:00",
-      "currentSpeed": 33,
+      "updatedAt": "2026-04-09T08:00:49.958974+00:00",
+      "currentSpeed": 34,
       "freeFlowSpeed": 40,
       "congestion": "low",
       "confidence": 1
@@ -562,7 +562,7 @@
       "lat": 13.1891907,
       "lng": 80.1911825,
       "priority": "high",
-      "updatedAt": "2026-04-09T06:05:17.595941+00:00",
+      "updatedAt": "2026-04-09T08:00:49.958974+00:00",
       "currentSpeed": 42,
       "freeFlowSpeed": 42,
       "congestion": "low",
@@ -573,21 +573,21 @@
       "lat": 12.8889527,
       "lng": 80.1987376,
       "priority": "high",
-      "updatedAt": "2026-04-09T06:05:17.595941+00:00",
-      "currentSpeed": 20,
+      "updatedAt": "2026-04-09T08:00:49.958974+00:00",
+      "currentSpeed": 23,
       "freeFlowSpeed": 23,
       "congestion": "low",
-      "confidence": 0.99
+      "confidence": 1
     },
     "11835030329": {
       "name": "Go Gas",
       "lat": 13.0458131,
       "lng": 80.2398536,
       "priority": "medium",
-      "updatedAt": "2026-04-09T06:05:17.595941+00:00",
-      "currentSpeed": 32,
+      "updatedAt": "2026-04-09T08:00:49.958974+00:00",
+      "currentSpeed": 25,
       "freeFlowSpeed": 32,
-      "congestion": "low",
+      "congestion": "medium",
       "confidence": 1
     },
     "11906447554": {
@@ -595,18 +595,18 @@
       "lat": 12.9712243,
       "lng": 80.1430289,
       "priority": "high",
-      "updatedAt": "2026-04-09T06:05:17.595941+00:00",
-      "currentSpeed": 24,
-      "freeFlowSpeed": 24,
+      "updatedAt": "2026-04-09T08:00:49.958974+00:00",
+      "currentSpeed": 19,
+      "freeFlowSpeed": 23,
       "congestion": "low",
-      "confidence": 1
+      "confidence": 0.99
     },
     "12309195199": {
       "name": "Nayara",
       "lat": 12.917494,
       "lng": 80.1893385,
       "priority": "high",
-      "updatedAt": "2026-04-09T06:10:20.807326+00:00",
+      "updatedAt": "2026-04-09T08:00:49.958974+00:00",
       "currentSpeed": 18,
       "freeFlowSpeed": 18,
       "congestion": "low",
@@ -617,19 +617,19 @@
       "lat": 13.1899982,
       "lng": 80.313768,
       "priority": "high",
-      "updatedAt": "2026-04-09T06:10:20.807326+00:00",
-      "currentSpeed": 29,
+      "updatedAt": "2026-04-09T08:00:49.958974+00:00",
+      "currentSpeed": 31,
       "freeFlowSpeed": 31,
       "congestion": "low",
-      "confidence": 0.89
+      "confidence": 1
     },
     "12460941246": {
       "name": "Bharat Petroleum",
       "lat": 13.0805405,
       "lng": 80.2665835,
       "priority": "high",
-      "updatedAt": "2026-04-09T06:10:20.807326+00:00",
-      "currentSpeed": 21,
+      "updatedAt": "2026-04-09T08:00:49.958974+00:00",
+      "currentSpeed": 20,
       "freeFlowSpeed": 28,
       "congestion": "medium",
       "confidence": 1
@@ -639,9 +639,9 @@
       "lat": 12.8670551,
       "lng": 80.2429093,
       "priority": "high",
-      "updatedAt": "2026-04-09T06:10:20.807326+00:00",
-      "currentSpeed": 48,
-      "freeFlowSpeed": 48,
+      "updatedAt": "2026-04-09T08:00:49.958974+00:00",
+      "currentSpeed": 41,
+      "freeFlowSpeed": 49,
       "congestion": "low",
       "confidence": 1
     },
@@ -650,11 +650,11 @@
       "lat": 12.9156141,
       "lng": 80.0731147,
       "priority": "high",
-      "updatedAt": "2026-04-09T06:10:20.807326+00:00",
-      "currentSpeed": 30,
+      "updatedAt": "2026-04-09T08:00:49.958974+00:00",
+      "currentSpeed": 29,
       "freeFlowSpeed": 33,
       "congestion": "low",
-      "confidence": 1
+      "confidence": 1.0
     },
     "12581525290": {
       "name": "Indian Oil",
