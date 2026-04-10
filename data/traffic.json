@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-04-10T08:40:21.854369+00:00",
+  "timestamp": "2026-04-10T08:43:19.637154+00:00",
   "stationCount": 252,
   "totalStations": 252,
   "batchUpdated": 10,
   "errors": 0,
-  "dailyRequestsUsed": 1223,
-  "schedule": "batch=10 at 14:10 IST",
+  "dailyRequestsUsed": 1233,
+  "schedule": "batch=10 at 14:13 IST",
   "stations": {
     "8096467026": {
       "name": "Indian Oil",
@@ -1519,7 +1519,7 @@
       "lat": 12.9796614,
       "lng": 80.218483,
       "priority": "high",
-      "updatedAt": "2026-04-10T08:40:21.854369+00:00",
+      "updatedAt": "2026-04-10T08:43:19.637154+00:00",
       "currentSpeed": 32,
       "freeFlowSpeed": 32,
       "congestion": "low",
@@ -1530,10 +1530,10 @@
       "lat": 13.0311284,
       "lng": 80.2394414,
       "priority": "high",
-      "updatedAt": "2026-04-10T06:40:20.387696+00:00",
-      "currentSpeed": 22,
+      "updatedAt": "2026-04-10T08:43:19.637154+00:00",
+      "currentSpeed": 28,
       "freeFlowSpeed": 35,
-      "congestion": "medium",
+      "congestion": "low",
       "confidence": 0.99
     },
     "308467145": {
@@ -1541,19 +1541,19 @@
       "lat": 13.0337218,
       "lng": 80.2382988,
       "priority": "low",
-      "updatedAt": "2026-04-10T06:40:20.387696+00:00",
-      "currentSpeed": 16,
+      "updatedAt": "2026-04-10T08:43:19.637154+00:00",
+      "currentSpeed": 14,
       "freeFlowSpeed": 19,
-      "congestion": "low",
-      "confidence": 0.65
+      "congestion": "medium",
+      "confidence": 0.75
     },
     "308467150": {
       "name": "Fuel Station",
       "lat": 13.0459529,
       "lng": 80.2562406,
       "priority": "low",
-      "updatedAt": "2026-04-10T06:45:23.186667+00:00",
-      "currentSpeed": 23,
+      "updatedAt": "2026-04-10T08:43:19.637154+00:00",
+      "currentSpeed": 24,
       "freeFlowSpeed": 32,
       "congestion": "medium",
       "confidence": 1
@@ -1563,19 +1563,19 @@
       "lat": 13.0260196,
       "lng": 80.2661174,
       "priority": "high",
-      "updatedAt": "2026-04-10T06:45:23.186667+00:00",
+      "updatedAt": "2026-04-10T08:43:19.637154+00:00",
       "currentSpeed": 19,
       "freeFlowSpeed": 19,
       "congestion": "low",
-      "confidence": 0.94
+      "confidence": 0.93
     },
     "310830860": {
       "name": "Shanthi Petrol Station",
       "lat": 12.9935494,
       "lng": 80.1850866,
       "priority": "high",
-      "updatedAt": "2026-04-10T06:45:23.186667+00:00",
-      "currentSpeed": 32,
+      "updatedAt": "2026-04-10T08:43:19.637154+00:00",
+      "currentSpeed": 38,
       "freeFlowSpeed": 38,
       "congestion": "low",
       "confidence": 1
@@ -1585,7 +1585,7 @@
       "lat": 13.0534169,
       "lng": 80.252032,
       "priority": "high",
-      "updatedAt": "2026-04-10T06:45:23.186667+00:00",
+      "updatedAt": "2026-04-10T08:43:19.637154+00:00",
       "currentSpeed": 32,
       "freeFlowSpeed": 32,
       "congestion": "low",
@@ -1596,10 +1596,10 @@
       "lat": 13.0540764,
       "lng": 80.2530457,
       "priority": "low",
-      "updatedAt": "2026-04-10T06:45:23.186667+00:00",
-      "currentSpeed": 24,
+      "updatedAt": "2026-04-10T08:43:19.637154+00:00",
+      "currentSpeed": 28,
       "freeFlowSpeed": 35,
-      "congestion": "medium",
+      "congestion": "low",
       "confidence": 0.99
     },
     "314688253": {
@@ -1607,8 +1607,8 @@
       "lat": 13.0427775,
       "lng": 80.2677547,
       "priority": "high",
-      "updatedAt": "2026-04-10T06:45:23.186667+00:00",
-      "currentSpeed": 23,
+      "updatedAt": "2026-04-10T08:43:19.637154+00:00",
+      "currentSpeed": 24,
       "freeFlowSpeed": 32,
       "congestion": "medium",
       "confidence": 1
@@ -1618,11 +1618,11 @@
       "lat": 13.0184727,
       "lng": 80.2614032,
       "priority": "high",
-      "updatedAt": "2026-04-10T06:45:23.186667+00:00",
-      "currentSpeed": 33,
+      "updatedAt": "2026-04-10T08:43:19.637154+00:00",
+      "currentSpeed": 28,
       "freeFlowSpeed": 33,
       "congestion": "low",
-      "confidence": 1
+      "confidence": 0.99
     },
     "319038955": {
       "name": "Indian Oil",
