@@ -1,5 +1,5 @@
 {
-  "fetched_ts": 1775178096.4035726,
+  "fetched_ts": 1775783722.3036642,
   "stations": [
     {
       "id": 248343706,
@@ -107,11 +107,11 @@
     },
     {
       "id": 308489028,
-      "name": "Fuel Station",
+      "name": "Hindustan Petroleum",
       "brand": "",
       "lat": 13.0260196,
       "lng": 80.2661174,
-      "priority": "low"
+      "priority": "high"
     },
     {
       "id": 310830860,
@@ -1696,6 +1696,14 @@
       "lat": 12.9699504,
       "lng": 80.218018,
       "priority": "medium"
+    },
+    {
+      "id": 13707153402,
+      "name": "Indian Oil",
+      "brand": "",
+      "lat": 13.0242856,
+      "lng": 80.2643586,
+      "priority": "high"
     },
     {
       "id": 156240656,
