@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-04-10T10:41:18.779916+00:00",
+  "timestamp": "2026-04-10T10:45:23.159577+00:00",
   "stationCount": 252,
   "totalStations": 252,
   "batchUpdated": 10,
   "errors": 0,
-  "dailyRequestsUsed": 1493,
-  "schedule": "batch=10 at 16:11 IST",
+  "dailyRequestsUsed": 1503,
+  "schedule": "batch=10 at 16:15 IST",
   "stations": {
     "8096467026": {
       "name": "Indian Oil",
@@ -1475,7 +1475,7 @@
       "lat": 13.0402403,
       "lng": 80.2468562,
       "priority": "high",
-      "updatedAt": "2026-04-10T10:41:18.779916+00:00",
+      "updatedAt": "2026-04-10T10:45:23.159577+00:00",
       "currentSpeed": 25,
       "freeFlowSpeed": 35,
       "congestion": "medium",
@@ -1486,8 +1486,8 @@
       "lat": 13.0493343,
       "lng": 80.25305,
       "priority": "low",
-      "updatedAt": "2026-04-10T08:40:21.854369+00:00",
-      "currentSpeed": 23,
+      "updatedAt": "2026-04-10T10:45:23.159577+00:00",
+      "currentSpeed": 25,
       "freeFlowSpeed": 32,
       "congestion": "medium",
       "confidence": 1
@@ -1497,8 +1497,8 @@
       "lat": 13.0851617,
       "lng": 80.2835544,
       "priority": "low",
-      "updatedAt": "2026-04-10T08:40:21.854369+00:00",
-      "currentSpeed": 27,
+      "updatedAt": "2026-04-10T10:45:23.159577+00:00",
+      "currentSpeed": 25,
       "freeFlowSpeed": 35,
       "congestion": "medium",
       "confidence": 0.99
@@ -1508,10 +1508,10 @@
       "lat": 13.0862218,
       "lng": 80.2812471,
       "priority": "low",
-      "updatedAt": "2026-04-10T08:40:21.854369+00:00",
-      "currentSpeed": 24,
-      "freeFlowSpeed": 24,
-      "congestion": "low",
+      "updatedAt": "2026-04-10T10:45:23.159577+00:00",
+      "currentSpeed": 15,
+      "freeFlowSpeed": 23,
+      "congestion": "medium",
       "confidence": 1
     },
     "305933220": {
@@ -1519,7 +1519,7 @@
       "lat": 12.9796614,
       "lng": 80.218483,
       "priority": "high",
-      "updatedAt": "2026-04-10T08:43:19.637154+00:00",
+      "updatedAt": "2026-04-10T10:45:23.159577+00:00",
       "currentSpeed": 32,
       "freeFlowSpeed": 32,
       "congestion": "low",
@@ -1530,10 +1530,10 @@
       "lat": 13.0311284,
       "lng": 80.2394414,
       "priority": "high",
-      "updatedAt": "2026-04-10T08:43:19.637154+00:00",
-      "currentSpeed": 28,
+      "updatedAt": "2026-04-10T10:45:23.159577+00:00",
+      "currentSpeed": 25,
       "freeFlowSpeed": 35,
-      "congestion": "low",
+      "congestion": "medium",
       "confidence": 0.99
     },
     "308467145": {
@@ -1541,19 +1541,19 @@
       "lat": 13.0337218,
       "lng": 80.2382988,
       "priority": "low",
-      "updatedAt": "2026-04-10T08:43:19.637154+00:00",
-      "currentSpeed": 14,
+      "updatedAt": "2026-04-10T10:45:23.159577+00:00",
+      "currentSpeed": 15,
       "freeFlowSpeed": 19,
       "congestion": "medium",
-      "confidence": 0.75
+      "confidence": 0.61
     },
     "308467150": {
       "name": "Fuel Station",
       "lat": 13.0459529,
       "lng": 80.2562406,
       "priority": "low",
-      "updatedAt": "2026-04-10T08:43:19.637154+00:00",
-      "currentSpeed": 24,
+      "updatedAt": "2026-04-10T10:45:23.159577+00:00",
+      "currentSpeed": 25,
       "freeFlowSpeed": 32,
       "congestion": "medium",
       "confidence": 1
@@ -1563,21 +1563,21 @@
       "lat": 13.0260196,
       "lng": 80.2661174,
       "priority": "high",
-      "updatedAt": "2026-04-10T08:43:19.637154+00:00",
-      "currentSpeed": 19,
-      "freeFlowSpeed": 19,
+      "updatedAt": "2026-04-10T10:45:23.159577+00:00",
+      "currentSpeed": 18,
+      "freeFlowSpeed": 18,
       "congestion": "low",
-      "confidence": 0.93
+      "confidence": 0.92
     },
     "310830860": {
       "name": "Shanthi Petrol Station",
       "lat": 12.9935494,
       "lng": 80.1850866,
       "priority": "high",
-      "updatedAt": "2026-04-10T08:43:19.637154+00:00",
-      "currentSpeed": 38,
+      "updatedAt": "2026-04-10T10:45:23.159577+00:00",
+      "currentSpeed": 30,
       "freeFlowSpeed": 38,
-      "congestion": "low",
+      "congestion": "medium",
       "confidence": 1
     },
     "313135840": {
