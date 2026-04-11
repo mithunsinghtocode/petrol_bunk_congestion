@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-04-11T10:15:22.013104+00:00",
+  "timestamp": "2026-04-11T10:20:22.383605+00:00",
   "stationCount": 252,
   "totalStations": 252,
   "batchUpdated": 10,
   "errors": 0,
-  "dailyRequestsUsed": 1470,
-  "schedule": "batch=10 at 15:45 IST",
+  "dailyRequestsUsed": 1480,
+  "schedule": "batch=10 at 15:50 IST",
   "stations": {
     "11345759533": {
       "name": "Bharat Petroleum",
@@ -1211,10 +1211,10 @@
       "lat": 12.9935494,
       "lng": 80.1850866,
       "priority": "high",
-      "updatedAt": "2026-04-11T10:15:22.013104+00:00",
-      "currentSpeed": 31,
+      "updatedAt": "2026-04-11T10:20:22.383605+00:00",
+      "currentSpeed": 30,
       "freeFlowSpeed": 38,
-      "congestion": "low",
+      "congestion": "medium",
       "confidence": 1
     },
     "313135840": {
@@ -1222,8 +1222,8 @@
       "lat": 13.0534169,
       "lng": 80.252032,
       "priority": "high",
-      "updatedAt": "2026-04-11T08:15:23.497301+00:00",
-      "currentSpeed": 20,
+      "updatedAt": "2026-04-11T10:20:22.383605+00:00",
+      "currentSpeed": 17,
       "freeFlowSpeed": 32,
       "congestion": "medium",
       "confidence": 1
@@ -1233,21 +1233,21 @@
       "lat": 13.0540764,
       "lng": 80.2530457,
       "priority": "low",
-      "updatedAt": "2026-04-11T08:15:23.497301+00:00",
-      "currentSpeed": 24,
-      "freeFlowSpeed": 35,
+      "updatedAt": "2026-04-11T10:20:22.383605+00:00",
+      "currentSpeed": 25,
+      "freeFlowSpeed": 36,
       "congestion": "medium",
-      "confidence": 0.98
+      "confidence": 1.0
     },
     "314688253": {
       "name": "HP",
       "lat": 13.0427775,
       "lng": 80.2677547,
       "priority": "high",
-      "updatedAt": "2026-04-11T08:15:23.497301+00:00",
-      "currentSpeed": 24,
-      "freeFlowSpeed": 32,
-      "congestion": "medium",
+      "updatedAt": "2026-04-11T10:20:22.383605+00:00",
+      "currentSpeed": 27,
+      "freeFlowSpeed": 31,
+      "congestion": "low",
       "confidence": 1
     },
     "317821274": {
@@ -1255,18 +1255,18 @@
       "lat": 13.0184727,
       "lng": 80.2614032,
       "priority": "high",
-      "updatedAt": "2026-04-11T08:20:20.630452+00:00",
-      "currentSpeed": 33,
-      "freeFlowSpeed": 33,
+      "updatedAt": "2026-04-11T10:20:22.383605+00:00",
+      "currentSpeed": 29,
+      "freeFlowSpeed": 32,
       "congestion": "low",
-      "confidence": 1
+      "confidence": 0.99
     },
     "319038955": {
       "name": "Indian Oil",
       "lat": 13.0421221,
       "lng": 80.2684202,
       "priority": "high",
-      "updatedAt": "2026-04-11T08:20:20.630452+00:00",
+      "updatedAt": "2026-04-11T10:20:22.383605+00:00",
       "currentSpeed": 23,
       "freeFlowSpeed": 23,
       "congestion": "low",
@@ -1277,10 +1277,10 @@
       "lat": 12.9097046,
       "lng": 80.2503011,
       "priority": "high",
-      "updatedAt": "2026-04-11T08:20:20.630452+00:00",
-      "currentSpeed": 31,
+      "updatedAt": "2026-04-11T10:20:22.383605+00:00",
+      "currentSpeed": 34,
       "freeFlowSpeed": 40,
-      "congestion": "medium",
+      "congestion": "low",
       "confidence": 1
     },
     "344405871": {
@@ -1288,10 +1288,10 @@
       "lat": 13.0674553,
       "lng": 80.2524458,
       "priority": "low",
-      "updatedAt": "2026-04-11T08:20:20.630452+00:00",
-      "currentSpeed": 21,
-      "freeFlowSpeed": 31,
-      "congestion": "medium",
+      "updatedAt": "2026-04-11T10:20:22.383605+00:00",
+      "currentSpeed": 24,
+      "freeFlowSpeed": 29,
+      "congestion": "low",
       "confidence": 1
     },
     "364572949": {
@@ -1299,7 +1299,7 @@
       "lat": 13.0247047,
       "lng": 80.2065279,
       "priority": "high",
-      "updatedAt": "2026-04-11T08:20:20.630452+00:00",
+      "updatedAt": "2026-04-11T10:20:22.383605+00:00",
       "currentSpeed": 31,
       "freeFlowSpeed": 37,
       "congestion": "low",
@@ -1310,8 +1310,8 @@
       "lat": 13.0200917,
       "lng": 80.1853891,
       "priority": "high",
-      "updatedAt": "2026-04-11T08:20:20.630452+00:00",
-      "currentSpeed": 28,
+      "updatedAt": "2026-04-11T10:20:22.383605+00:00",
+      "currentSpeed": 31,
       "freeFlowSpeed": 31,
       "congestion": "low",
       "confidence": 1
