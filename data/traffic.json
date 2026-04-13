@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-04-13T02:28:43.888967+00:00",
-  "stationCount": 16,
+  "timestamp": "2026-04-13T05:26:40.151241+00:00",
+  "stationCount": 28,
   "totalStations": 252,
-  "batchUpdated": 16,
+  "batchUpdated": 12,
   "errors": 0,
-  "dailyRequestsUsed": 31,
-  "schedule": "batch=16 at 07:58 IST",
+  "dailyRequestsUsed": 43,
+  "schedule": "batch=12 at 10:56 IST",
   "stations": {
     "1330398917": {
       "name": "Bharat Petroleum",
@@ -182,6 +182,138 @@
       "freeFlowSpeed": 32,
       "congestion": "low",
       "confidence": 1
+    },
+    "308489028": {
+      "name": "Hindustan Petroleum",
+      "lat": 13.0260196,
+      "lng": 80.2661174,
+      "priority": "high",
+      "updatedAt": "2026-04-13T05:26:40.151241+00:00",
+      "currentSpeed": 19,
+      "freeFlowSpeed": 19,
+      "congestion": "low",
+      "confidence": 0.81
+    },
+    "310830860": {
+      "name": "Shanthi Petrol Station",
+      "lat": 12.9935494,
+      "lng": 80.1850866,
+      "priority": "high",
+      "updatedAt": "2026-04-13T05:26:40.151241+00:00",
+      "currentSpeed": 32,
+      "freeFlowSpeed": 38,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "313135840": {
+      "name": "HP",
+      "lat": 13.0534169,
+      "lng": 80.252032,
+      "priority": "high",
+      "updatedAt": "2026-04-13T05:26:40.151241+00:00",
+      "currentSpeed": 32,
+      "freeFlowSpeed": 32,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "313135912": {
+      "name": "Fuel Station",
+      "lat": 13.0540764,
+      "lng": 80.2530457,
+      "priority": "low",
+      "updatedAt": "2026-04-13T05:26:40.151241+00:00",
+      "currentSpeed": 24,
+      "freeFlowSpeed": 35,
+      "congestion": "medium",
+      "confidence": 0.99
+    },
+    "314688253": {
+      "name": "HP",
+      "lat": 13.0427775,
+      "lng": 80.2677547,
+      "priority": "high",
+      "updatedAt": "2026-04-13T05:26:40.151241+00:00",
+      "currentSpeed": 24,
+      "freeFlowSpeed": 31,
+      "congestion": "medium",
+      "confidence": 1
+    },
+    "317821274": {
+      "name": "HP",
+      "lat": 13.0184727,
+      "lng": 80.2614032,
+      "priority": "high",
+      "updatedAt": "2026-04-13T05:26:40.151241+00:00",
+      "currentSpeed": 28,
+      "freeFlowSpeed": 33,
+      "congestion": "low",
+      "confidence": 1.0
+    },
+    "319038955": {
+      "name": "Indian Oil",
+      "lat": 13.0421221,
+      "lng": 80.2684202,
+      "priority": "high",
+      "updatedAt": "2026-04-13T05:26:40.151241+00:00",
+      "currentSpeed": 23,
+      "freeFlowSpeed": 23,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "325787817": {
+      "name": "Indian Oil",
+      "lat": 12.9097046,
+      "lng": 80.2503011,
+      "priority": "high",
+      "updatedAt": "2026-04-13T05:26:40.151241+00:00",
+      "currentSpeed": 40,
+      "freeFlowSpeed": 40,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "344405871": {
+      "name": "Fuel Station",
+      "lat": 13.0674553,
+      "lng": 80.2524458,
+      "priority": "low",
+      "updatedAt": "2026-04-13T05:26:40.151241+00:00",
+      "currentSpeed": 20,
+      "freeFlowSpeed": 31,
+      "congestion": "medium",
+      "confidence": 1
+    },
+    "364572949": {
+      "name": "Shell",
+      "lat": 13.0247047,
+      "lng": 80.2065279,
+      "priority": "high",
+      "updatedAt": "2026-04-13T05:26:40.151241+00:00",
+      "currentSpeed": 29,
+      "freeFlowSpeed": 38,
+      "congestion": "medium",
+      "confidence": 1
+    },
+    "364651023": {
+      "name": "HP",
+      "lat": 13.0200917,
+      "lng": 80.1853891,
+      "priority": "high",
+      "updatedAt": "2026-04-13T05:26:40.151241+00:00",
+      "currentSpeed": 31,
+      "freeFlowSpeed": 31,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "365544723": {
+      "name": "BP",
+      "lat": 13.0116259,
+      "lng": 80.2185178,
+      "priority": "high",
+      "updatedAt": "2026-04-13T05:26:40.151241+00:00",
+      "currentSpeed": 24,
+      "freeFlowSpeed": 35,
+      "congestion": "medium",
+      "confidence": 0.99
     }
   }
 }
