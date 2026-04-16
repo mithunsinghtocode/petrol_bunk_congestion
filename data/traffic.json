@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-04-16T22:02:49.114905+00:00",
-  "stationCount": 14,
+  "timestamp": "2026-04-16T23:31:10.342150+00:00",
+  "stationCount": 18,
   "totalStations": 252,
   "batchUpdated": 5,
   "errors": 0,
-  "dailyRequestsUsed": 15,
-  "schedule": "batch=5 at 03:32 IST",
+  "dailyRequestsUsed": 20,
+  "schedule": "batch=5 at 05:01 IST",
   "stations": {
     "11818459188": {
       "name": "HP",
@@ -155,9 +155,53 @@
       "lat": 12.8889527,
       "lng": 80.1987376,
       "priority": "high",
-      "updatedAt": "2026-04-16T22:02:49.114905+00:00",
+      "updatedAt": "2026-04-16T23:31:10.342150+00:00",
       "currentSpeed": 23,
       "freeFlowSpeed": 23,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "11835030329": {
+      "name": "Go Gas",
+      "lat": 13.0458131,
+      "lng": 80.2398536,
+      "priority": "medium",
+      "updatedAt": "2026-04-16T23:31:10.342150+00:00",
+      "currentSpeed": 32,
+      "freeFlowSpeed": 32,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "11906447554": {
+      "name": "HP",
+      "lat": 12.9712243,
+      "lng": 80.1430289,
+      "priority": "high",
+      "updatedAt": "2026-04-16T23:31:10.342150+00:00",
+      "currentSpeed": 22,
+      "freeFlowSpeed": 22,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "12309195199": {
+      "name": "Nayara",
+      "lat": 12.917494,
+      "lng": 80.1893385,
+      "priority": "high",
+      "updatedAt": "2026-04-16T23:31:10.342150+00:00",
+      "currentSpeed": 18,
+      "freeFlowSpeed": 18,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "12458738602": {
+      "name": "HP Petrol Pump",
+      "lat": 13.1899982,
+      "lng": 80.313768,
+      "priority": "high",
+      "updatedAt": "2026-04-16T23:31:10.342150+00:00",
+      "currentSpeed": 30,
+      "freeFlowSpeed": 30,
       "congestion": "low",
       "confidence": 1
     }
