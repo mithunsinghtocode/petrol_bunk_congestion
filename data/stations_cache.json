@@ -1,5 +1,5 @@
 {
-  "fetched_ts": 1776397165.995076,
+  "fetched_ts": 1777002145.6071029,
   "stations": [
     {
       "id": 248343706,
@@ -658,14 +658,6 @@
       "priority": "low"
     },
     {
-      "id": 3683580478,
-      "name": "Chinthamani Cooperative Petrol Bunk",
-      "brand": "",
-      "lat": 13.0409717,
-      "lng": 80.2373739,
-      "priority": "medium"
-    },
-    {
       "id": 3685008256,
       "name": "Fuel Station",
       "brand": "",
@@ -683,11 +675,11 @@
     },
     {
       "id": 3685381587,
-      "name": "Fuel Station",
+      "name": "IndianOil",
       "brand": "",
       "lat": 13.040274,
       "lng": 80.2423014,
-      "priority": "low"
+      "priority": "high"
     },
     {
       "id": 3685431628,
@@ -2016,6 +2008,14 @@
       "lat": 12.9976086,
       "lng": 80.0870973,
       "priority": "low"
+    },
+    {
+      "id": 1501132753,
+      "name": "Chinthamani Cooperative Petrol Bunk",
+      "brand": "",
+      "lat": 13.0410061,
+      "lng": 80.2373742,
+      "priority": "medium"
     }
   ],
   "area": "chennai_metro",
