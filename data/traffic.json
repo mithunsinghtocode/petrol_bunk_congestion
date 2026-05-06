@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-05-06T15:29:34.197119+00:00",
-  "stationCount": 34,
+  "timestamp": "2026-05-06T17:02:06.990693+00:00",
+  "stationCount": 41,
   "totalStations": 252,
-  "batchUpdated": 16,
+  "batchUpdated": 8,
   "errors": 0,
-  "dailyRequestsUsed": 78,
-  "schedule": "batch=16 at 20:59 IST",
+  "dailyRequestsUsed": 86,
+  "schedule": "batch=8 at 22:32 IST",
   "stations": {
     "694035950": {
       "name": "BP",
@@ -375,10 +375,87 @@
       "lat": 12.9823866,
       "lng": 80.2180571,
       "priority": "high",
-      "updatedAt": "2026-05-06T15:29:34.197119+00:00",
-      "currentSpeed": 25,
+      "updatedAt": "2026-05-06T17:02:06.990693+00:00",
+      "currentSpeed": 33,
       "freeFlowSpeed": 33,
-      "congestion": "medium",
+      "congestion": "low",
+      "confidence": 1
+    },
+    "4161672690": {
+      "name": "Petrol Bunk",
+      "lat": 12.8768826,
+      "lng": 80.0785571,
+      "priority": "medium",
+      "updatedAt": "2026-05-06T17:02:06.990693+00:00",
+      "currentSpeed": 25,
+      "freeFlowSpeed": 25,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "4308320193": {
+      "name": "Bharat Petroleum Bunk",
+      "lat": 13.072324,
+      "lng": 80.2602653,
+      "priority": "high",
+      "updatedAt": "2026-05-06T17:02:06.990693+00:00",
+      "currentSpeed": 28,
+      "freeFlowSpeed": 28,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "4359466591": {
+      "name": "Bharat Petroleum",
+      "lat": 13.0649955,
+      "lng": 80.2432915,
+      "priority": "high",
+      "updatedAt": "2026-05-06T17:02:06.990693+00:00",
+      "currentSpeed": 24,
+      "freeFlowSpeed": 24,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "4410824051": {
+      "name": "Indian Oil Propel",
+      "lat": 13.0263102,
+      "lng": 80.2316753,
+      "priority": "high",
+      "updatedAt": "2026-05-06T17:02:06.990693+00:00",
+      "currentSpeed": 35,
+      "freeFlowSpeed": 35,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "4451597746": {
+      "name": "Essar Gas Station",
+      "lat": 13.0913433,
+      "lng": 80.1083136,
+      "priority": "medium",
+      "updatedAt": "2026-05-06T17:02:06.990693+00:00",
+      "currentSpeed": 29,
+      "freeFlowSpeed": 29,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "4488007996": {
+      "name": "Bharat Petroleum",
+      "lat": 13.0378648,
+      "lng": 80.1918972,
+      "priority": "high",
+      "updatedAt": "2026-05-06T17:02:06.990693+00:00",
+      "currentSpeed": 23,
+      "freeFlowSpeed": 23,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "4488007997": {
+      "name": "Indian Oil",
+      "lat": 13.0378858,
+      "lng": 80.1921778,
+      "priority": "high",
+      "updatedAt": "2026-05-06T17:02:06.990693+00:00",
+      "currentSpeed": 24,
+      "freeFlowSpeed": 24,
+      "congestion": "low",
       "confidence": 1
     }
   }
