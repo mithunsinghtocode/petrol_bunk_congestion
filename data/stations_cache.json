@@ -1,5 +1,5 @@
 {
-  "fetched_ts": 1777608563.5864906,
+  "fetched_ts": 1778219349.5868516,
   "stations": [
     {
       "id": 248343706,
@@ -1695,6 +1695,14 @@
       "brand": "",
       "lat": 13.0242856,
       "lng": 80.2643586,
+      "priority": "high"
+    },
+    {
+      "id": 44074948,
+      "name": "Hindustan Petroleum",
+      "brand": "Hindustan Petroleum",
+      "lat": 12.94348,
+      "lng": 80.1387175,
       "priority": "high"
     },
     {
