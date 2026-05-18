@@ -1,89 +1,12 @@
 {
-  "timestamp": "2026-05-18T20:46:57.865289+00:00",
-  "stationCount": 20,
+  "timestamp": "2026-05-18T23:46:12.293716+00:00",
+  "stationCount": 18,
   "totalStations": 253,
   "batchUpdated": 5,
   "errors": 0,
-  "dailyRequestsUsed": 10,
-  "schedule": "batch=5 at 02:16 IST",
+  "dailyRequestsUsed": 15,
+  "schedule": "batch=5 at 05:16 IST",
   "stations": {
-    "12581554807": {
-      "name": "Bharat Petroleum",
-      "lat": 13.130475,
-      "lng": 80.2389268,
-      "priority": "high",
-      "updatedAt": "2026-05-18T15:52:15.053457+00:00",
-      "currentSpeed": 27,
-      "freeFlowSpeed": 27,
-      "congestion": "low",
-      "confidence": 1
-    },
-    "12582227793": {
-      "name": "Indian Oil",
-      "lat": 13.1430126,
-      "lng": 80.2229114,
-      "priority": "high",
-      "updatedAt": "2026-05-18T15:52:15.053457+00:00",
-      "currentSpeed": 25,
-      "freeFlowSpeed": 32,
-      "congestion": "medium",
-      "confidence": 1
-    },
-    "12958835794": {
-      "name": "Fuel Station",
-      "lat": 13.1461725,
-      "lng": 80.2972888,
-      "priority": "low",
-      "updatedAt": "2026-05-18T15:52:15.053457+00:00",
-      "currentSpeed": 18,
-      "freeFlowSpeed": 23,
-      "congestion": "medium",
-      "confidence": 0.99
-    },
-    "13434024649": {
-      "name": "Bharat Petroleum",
-      "lat": 13.2326035,
-      "lng": 80.1596128,
-      "priority": "high",
-      "updatedAt": "2026-05-18T15:52:15.053457+00:00",
-      "currentSpeed": 35,
-      "freeFlowSpeed": 35,
-      "congestion": "low",
-      "confidence": 1
-    },
-    "13607099593": {
-      "name": "Fuel Station",
-      "lat": 13.072892,
-      "lng": 80.1822637,
-      "priority": "low",
-      "updatedAt": "2026-05-18T15:52:15.053457+00:00",
-      "currentSpeed": 22,
-      "freeFlowSpeed": 22,
-      "congestion": "low",
-      "confidence": 1
-    },
-    "13638977909": {
-      "name": "K. R. Fuels",
-      "lat": 12.9699504,
-      "lng": 80.218018,
-      "priority": "medium",
-      "updatedAt": "2026-05-18T15:52:15.053457+00:00",
-      "currentSpeed": 39,
-      "freeFlowSpeed": 39,
-      "congestion": "low",
-      "confidence": 1
-    },
-    "13707153402": {
-      "name": "Indian Oil",
-      "lat": 13.0242856,
-      "lng": 80.2643586,
-      "priority": "high",
-      "updatedAt": "2026-05-18T15:52:15.053457+00:00",
-      "currentSpeed": 19,
-      "freeFlowSpeed": 21,
-      "congestion": "low",
-      "confidence": 0.94
-    },
     "44074948": {
       "name": "Hindustan Petroleum",
       "lat": 12.94348,
@@ -224,6 +147,61 @@
       "updatedAt": "2026-05-18T20:46:57.865289+00:00",
       "currentSpeed": 28,
       "freeFlowSpeed": 28,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "354539919": {
+      "name": "Essar fuel pump",
+      "lat": 12.9793198,
+      "lng": 80.2044069,
+      "priority": "medium",
+      "updatedAt": "2026-05-18T23:46:12.293716+00:00",
+      "currentSpeed": 33,
+      "freeFlowSpeed": 33,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "354571070": {
+      "name": "Indian Oil",
+      "lat": 12.9756664,
+      "lng": 80.1929085,
+      "priority": "high",
+      "updatedAt": "2026-05-18T23:46:12.293716+00:00",
+      "currentSpeed": 23,
+      "freeFlowSpeed": 23,
+      "congestion": "low",
+      "confidence": 0.94
+    },
+    "354768525": {
+      "name": "HP Fuel Station",
+      "lat": 13.1184638,
+      "lng": 80.1499177,
+      "priority": "high",
+      "updatedAt": "2026-05-18T23:46:12.293716+00:00",
+      "currentSpeed": 30,
+      "freeFlowSpeed": 30,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "355003644": {
+      "name": "Indian Oil",
+      "lat": 12.9783713,
+      "lng": 80.1941378,
+      "priority": "high",
+      "updatedAt": "2026-05-18T23:46:12.293716+00:00",
+      "currentSpeed": 23,
+      "freeFlowSpeed": 23,
+      "congestion": "low",
+      "confidence": 0.94
+    },
+    "355014880": {
+      "name": "Indian Oil",
+      "lat": 12.9254957,
+      "lng": 80.1028178,
+      "priority": "high",
+      "updatedAt": "2026-05-18T23:46:12.293716+00:00",
+      "currentSpeed": 29,
+      "freeFlowSpeed": 29,
       "congestion": "low",
       "confidence": 1
     }
