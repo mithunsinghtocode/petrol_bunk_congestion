@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-05-22T21:19:17.002078+00:00",
-  "stationCount": 9,
+  "timestamp": "2026-05-22T22:17:13.258396+00:00",
+  "stationCount": 13,
   "totalStations": 253,
   "batchUpdated": 5,
   "errors": 0,
-  "dailyRequestsUsed": 10,
-  "schedule": "batch=5 at 02:49 IST",
+  "dailyRequestsUsed": 15,
+  "schedule": "batch=5 at 03:47 IST",
   "stations": {
     "397280116": {
       "name": "PetrolBUnk",
@@ -100,11 +100,55 @@
       "lat": 12.9641205,
       "lng": 80.187622,
       "priority": "high",
-      "updatedAt": "2026-05-22T21:19:17.002078+00:00",
+      "updatedAt": "2026-05-22T22:17:13.258396+00:00",
       "currentSpeed": 24,
       "freeFlowSpeed": 24,
       "congestion": "low",
-      "confidence": 0.87
+      "confidence": 0.78
+    },
+    "937769544": {
+      "name": "Indian Oil",
+      "lat": 12.9830485,
+      "lng": 80.1904569,
+      "priority": "high",
+      "updatedAt": "2026-05-22T22:17:13.258396+00:00",
+      "currentSpeed": 24,
+      "freeFlowSpeed": 24,
+      "congestion": "low",
+      "confidence": 0.78
+    },
+    "1092147746": {
+      "name": "B G Agencies",
+      "lat": 13.0278518,
+      "lng": 80.1708779,
+      "priority": "high",
+      "updatedAt": "2026-05-22T22:17:13.258396+00:00",
+      "currentSpeed": 32,
+      "freeFlowSpeed": 32,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "1193839071": {
+      "name": "Nayara",
+      "lat": 12.9588294,
+      "lng": 80.1289797,
+      "priority": "high",
+      "updatedAt": "2026-05-22T22:17:13.258396+00:00",
+      "currentSpeed": 24,
+      "freeFlowSpeed": 24,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "1284550496": {
+      "name": "Indian Oil",
+      "lat": 13.1587403,
+      "lng": 80.2013013,
+      "priority": "high",
+      "updatedAt": "2026-05-22T22:17:13.258396+00:00",
+      "currentSpeed": 32,
+      "freeFlowSpeed": 32,
+      "congestion": "low",
+      "confidence": 1
     }
   }
 }
