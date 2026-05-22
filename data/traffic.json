@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-05-22T20:02:17.276141+00:00",
-  "stationCount": 5,
+  "timestamp": "2026-05-22T21:19:17.002078+00:00",
+  "stationCount": 9,
   "totalStations": 253,
   "batchUpdated": 5,
   "errors": 0,
-  "dailyRequestsUsed": 5,
-  "schedule": "batch=5 at 01:32 IST",
+  "dailyRequestsUsed": 10,
+  "schedule": "batch=5 at 02:49 IST",
   "stations": {
     "397280116": {
       "name": "PetrolBUnk",
@@ -56,11 +56,55 @@
       "lat": 13.1083432,
       "lng": 80.1764081,
       "priority": "high",
-      "updatedAt": "2026-05-22T20:02:17.276141+00:00",
+      "updatedAt": "2026-05-22T21:19:17.002078+00:00",
       "currentSpeed": 28,
       "freeFlowSpeed": 28,
       "congestion": "low",
       "confidence": 1
+    },
+    "835221421": {
+      "name": "HP Fuel Station",
+      "lat": 12.9453157,
+      "lng": 80.1067659,
+      "priority": "high",
+      "updatedAt": "2026-05-22T21:19:17.002078+00:00",
+      "currentSpeed": 68,
+      "freeFlowSpeed": 68,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "835255890": {
+      "name": "Shell Fuel Station",
+      "lat": 13.0889411,
+      "lng": 80.1701962,
+      "priority": "high",
+      "updatedAt": "2026-05-22T21:19:17.002078+00:00",
+      "currentSpeed": 31,
+      "freeFlowSpeed": 31,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "843855628": {
+      "name": "GoGas LPG",
+      "lat": 13.1174532,
+      "lng": 80.1563543,
+      "priority": "medium",
+      "updatedAt": "2026-05-22T21:19:17.002078+00:00",
+      "currentSpeed": 30,
+      "freeFlowSpeed": 30,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "922383171": {
+      "name": "Shell",
+      "lat": 12.9641205,
+      "lng": 80.187622,
+      "priority": "high",
+      "updatedAt": "2026-05-22T21:19:17.002078+00:00",
+      "currentSpeed": 24,
+      "freeFlowSpeed": 24,
+      "congestion": "low",
+      "confidence": 0.87
     }
   }
 }
