@@ -1,5 +1,5 @@
 {
-  "fetched_ts": 1781904869.283418,
+  "fetched_ts": 1782515972.2166958,
   "stations": [
     {
       "id": 248343706,
@@ -351,14 +351,6 @@
       "brand": "Indian Oil",
       "lat": 12.9441544,
       "lng": 80.1352387,
-      "priority": "high"
-    },
-    {
-      "id": 560212200,
-      "name": "HP petrol bunk",
-      "brand": "Hindustan Petroleum",
-      "lat": 12.9436249,
-      "lng": 80.1389873,
       "priority": "high"
     },
     {
@@ -1698,6 +1690,38 @@
       "priority": "high"
     },
     {
+      "id": 13955229302,
+      "name": "Bharat Petroleum",
+      "brand": "",
+      "lat": 13.0750739,
+      "lng": 80.2308543,
+      "priority": "high"
+    },
+    {
+      "id": 13955229502,
+      "name": "Indian Oil",
+      "brand": "",
+      "lat": 13.0750323,
+      "lng": 80.2307142,
+      "priority": "high"
+    },
+    {
+      "id": 13968689502,
+      "name": "Supergas",
+      "brand": "",
+      "lat": 13.070381,
+      "lng": 80.203997,
+      "priority": "medium"
+    },
+    {
+      "id": 13968707201,
+      "name": "Trugaz Auto LPG",
+      "brand": "",
+      "lat": 13.072536,
+      "lng": 80.2020985,
+      "priority": "medium"
+    },
+    {
       "id": 44074948,
       "name": "Hindustan Petroleum",
       "brand": "Hindustan Petroleum",
@@ -2032,6 +2056,14 @@
       "lat": 13.0410061,
       "lng": 80.2373742,
       "priority": "medium"
+    },
+    {
+      "id": 1531209909,
+      "name": "Shell",
+      "brand": "Shell",
+      "lat": 12.922024,
+      "lng": 80.1653505,
+      "priority": "high"
     }
   ],
   "area": "chennai_metro",
