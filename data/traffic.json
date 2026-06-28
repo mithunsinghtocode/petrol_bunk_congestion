@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-06-28T16:44:21.500588+00:00",
-  "stationCount": 38,
+  "timestamp": "2026-06-28T17:49:26.093949+00:00",
+  "stationCount": 42,
   "totalStations": 258,
-  "batchUpdated": 8,
+  "batchUpdated": 5,
   "errors": 0,
-  "dailyRequestsUsed": 82,
-  "schedule": "batch=8 at 22:14 IST",
+  "dailyRequestsUsed": 87,
+  "schedule": "batch=5 at 23:19 IST",
   "stations": {
     "10593328485": {
       "name": "Kousalya Fuels Velachery",
@@ -419,9 +419,53 @@
       "lat": 12.867248,
       "lng": 80.226778,
       "priority": "high",
-      "updatedAt": "2026-06-28T16:44:21.500588+00:00",
+      "updatedAt": "2026-06-28T17:49:26.093949+00:00",
       "currentSpeed": 19,
       "freeFlowSpeed": 19,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "11824312757": {
+      "name": "Bharat Petroleum",
+      "lat": 12.8873817,
+      "lng": 80.1840488,
+      "priority": "high",
+      "updatedAt": "2026-06-28T17:49:26.093949+00:00",
+      "currentSpeed": 30,
+      "freeFlowSpeed": 30,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "11824517918": {
+      "name": "Indian Oil",
+      "lat": 13.0210393,
+      "lng": 80.2251942,
+      "priority": "high",
+      "updatedAt": "2026-06-28T17:49:26.093949+00:00",
+      "currentSpeed": 34,
+      "freeFlowSpeed": 35,
+      "congestion": "low",
+      "confidence": 0.98
+    },
+    "11824686707": {
+      "name": "Bharat Petroleum",
+      "lat": 12.9090201,
+      "lng": 80.0685128,
+      "priority": "high",
+      "updatedAt": "2026-06-28T17:49:26.093949+00:00",
+      "currentSpeed": 33,
+      "freeFlowSpeed": 33,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "11826790808": {
+      "name": "Indian Oil",
+      "lat": 12.897958,
+      "lng": 80.1629042,
+      "priority": "high",
+      "updatedAt": "2026-06-28T17:49:26.093949+00:00",
+      "currentSpeed": 26,
+      "freeFlowSpeed": 26,
       "congestion": "low",
       "confidence": 1
     }
