@@ -1,111 +1,12 @@
 {
-  "timestamp": "2026-06-30T13:16:05.100327+00:00",
-  "stationCount": 34,
+  "timestamp": "2026-06-30T15:40:58.342996+00:00",
+  "stationCount": 32,
   "totalStations": 258,
-  "batchUpdated": 16,
+  "batchUpdated": 8,
   "errors": 0,
-  "dailyRequestsUsed": 58,
-  "schedule": "batch=16 at 18:46 IST",
+  "dailyRequestsUsed": 66,
+  "schedule": "batch=8 at 21:10 IST",
   "stations": {
-    "303284327": {
-      "name": "Fuel Station",
-      "lat": 13.0862218,
-      "lng": 80.2812471,
-      "priority": "low",
-      "updatedAt": "2026-06-30T08:06:55.790767+00:00",
-      "currentSpeed": 15,
-      "freeFlowSpeed": 24,
-      "congestion": "medium",
-      "confidence": 1.0
-    },
-    "305933220": {
-      "name": "HP",
-      "lat": 12.9796614,
-      "lng": 80.218483,
-      "priority": "high",
-      "updatedAt": "2026-06-30T08:06:55.790767+00:00",
-      "currentSpeed": 32,
-      "freeFlowSpeed": 32,
-      "congestion": "low",
-      "confidence": 1
-    },
-    "308467144": {
-      "name": "HP",
-      "lat": 13.0311284,
-      "lng": 80.2394414,
-      "priority": "high",
-      "updatedAt": "2026-06-30T08:06:55.790767+00:00",
-      "currentSpeed": 24,
-      "freeFlowSpeed": 35,
-      "congestion": "medium",
-      "confidence": 0.98
-    },
-    "308467145": {
-      "name": "Fuel Station",
-      "lat": 13.0337218,
-      "lng": 80.2382988,
-      "priority": "low",
-      "updatedAt": "2026-06-30T08:06:55.790767+00:00",
-      "currentSpeed": 15,
-      "freeFlowSpeed": 19,
-      "congestion": "medium",
-      "confidence": 0.64
-    },
-    "308467150": {
-      "name": "Fuel Station",
-      "lat": 13.0459529,
-      "lng": 80.2562406,
-      "priority": "low",
-      "updatedAt": "2026-06-30T08:06:55.790767+00:00",
-      "currentSpeed": 22,
-      "freeFlowSpeed": 31,
-      "congestion": "medium",
-      "confidence": 1
-    },
-    "308489028": {
-      "name": "Hindustan Petroleum",
-      "lat": 13.0260196,
-      "lng": 80.2661174,
-      "priority": "high",
-      "updatedAt": "2026-06-30T08:06:55.790767+00:00",
-      "currentSpeed": 22,
-      "freeFlowSpeed": 22,
-      "congestion": "low",
-      "confidence": 1
-    },
-    "310830860": {
-      "name": "Shanthi Petrol Station",
-      "lat": 12.9935494,
-      "lng": 80.1850866,
-      "priority": "high",
-      "updatedAt": "2026-06-30T08:06:55.790767+00:00",
-      "currentSpeed": 33,
-      "freeFlowSpeed": 38,
-      "congestion": "low",
-      "confidence": 1
-    },
-    "313135840": {
-      "name": "HP",
-      "lat": 13.0534169,
-      "lng": 80.252032,
-      "priority": "high",
-      "updatedAt": "2026-06-30T08:06:55.790767+00:00",
-      "currentSpeed": 14,
-      "freeFlowSpeed": 33,
-      "congestion": "high",
-      "confidence": 1
-    },
-    "313135912": {
-      "name": "Fuel Station",
-      "lat": 13.0540764,
-      "lng": 80.2530457,
-      "priority": "low",
-      "updatedAt": "2026-06-30T08:06:55.790767+00:00",
-      "currentSpeed": 24,
-      "freeFlowSpeed": 35,
-      "congestion": "medium",
-      "confidence": 0.98
-    },
     "314688253": {
       "name": "HP",
       "lat": 13.0427775,
@@ -375,11 +276,88 @@
       "lat": 13.0949946,
       "lng": 80.2927844,
       "priority": "high",
-      "updatedAt": "2026-06-30T13:16:05.100327+00:00",
-      "currentSpeed": 25,
+      "updatedAt": "2026-06-30T15:40:58.342996+00:00",
+      "currentSpeed": 36,
       "freeFlowSpeed": 36,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "559841147": {
+      "name": "petrol bunk",
+      "lat": 12.9437458,
+      "lng": 80.1347202,
+      "priority": "high",
+      "updatedAt": "2026-06-30T15:40:58.342996+00:00",
+      "currentSpeed": 28,
+      "freeFlowSpeed": 38,
       "congestion": "medium",
-      "confidence": 1.0
+      "confidence": 1
+    },
+    "559841148": {
+      "name": "Indian Oil",
+      "lat": 12.9441544,
+      "lng": 80.1352387,
+      "priority": "high",
+      "updatedAt": "2026-06-30T15:40:58.342996+00:00",
+      "currentSpeed": 36,
+      "freeFlowSpeed": 36,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "595713126": {
+      "name": "Shell",
+      "lat": 13.0484551,
+      "lng": 80.2066281,
+      "priority": "high",
+      "updatedAt": "2026-06-30T15:40:58.342996+00:00",
+      "currentSpeed": 20,
+      "freeFlowSpeed": 25,
+      "congestion": "low",
+      "confidence": 0.96
+    },
+    "610889169": {
+      "name": "Fuel Station",
+      "lat": 13.109739,
+      "lng": 80.2662537,
+      "priority": "low",
+      "updatedAt": "2026-06-30T15:40:58.342996+00:00",
+      "currentSpeed": 27,
+      "freeFlowSpeed": 33,
+      "congestion": "low",
+      "confidence": 0.99
+    },
+    "610963138": {
+      "name": "Fuel Station",
+      "lat": 13.0867504,
+      "lng": 80.2586838,
+      "priority": "low",
+      "updatedAt": "2026-06-30T15:40:58.342996+00:00",
+      "currentSpeed": 17,
+      "freeFlowSpeed": 21,
+      "congestion": "low",
+      "confidence": 0.89
+    },
+    "674685508": {
+      "name": "Fuel Station",
+      "lat": 13.1085927,
+      "lng": 80.2435965,
+      "priority": "low",
+      "updatedAt": "2026-06-30T15:40:58.342996+00:00",
+      "currentSpeed": 21,
+      "freeFlowSpeed": 21,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "687176659": {
+      "name": "HP",
+      "lat": 13.07286,
+      "lng": 80.1888928,
+      "priority": "high",
+      "updatedAt": "2026-06-30T15:40:58.342996+00:00",
+      "currentSpeed": 24,
+      "freeFlowSpeed": 31,
+      "congestion": "medium",
+      "confidence": 1
     }
   }
 }
