@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-07-01T01:56:14.176651+00:00",
-  "stationCount": 16,
+  "timestamp": "2026-07-01T06:16:22.126633+00:00",
+  "stationCount": 27,
   "totalStations": 258,
-  "batchUpdated": 16,
+  "batchUpdated": 12,
   "errors": 0,
-  "dailyRequestsUsed": 21,
-  "schedule": "batch=16 at 07:26 IST",
+  "dailyRequestsUsed": 33,
+  "schedule": "batch=12 at 11:46 IST",
   "stations": {
     "694035950": {
       "name": "BP",
@@ -177,11 +177,132 @@
       "lat": 13.0466076,
       "lng": 80.1910336,
       "priority": "high",
-      "updatedAt": "2026-07-01T01:56:14.176651+00:00",
-      "currentSpeed": 27,
+      "updatedAt": "2026-07-01T06:16:22.126633+00:00",
+      "currentSpeed": 22,
       "freeFlowSpeed": 27,
       "congestion": "low",
+      "confidence": 0.98
+    },
+    "1693534827": {
+      "name": "Bharat Petroleum",
+      "lat": 12.9211216,
+      "lng": 80.1661043,
+      "priority": "high",
+      "updatedAt": "2026-07-01T06:16:22.126633+00:00",
+      "currentSpeed": 33,
+      "freeFlowSpeed": 33,
+      "congestion": "low",
       "confidence": 1
+    },
+    "1710712621": {
+      "name": "Fuel Station",
+      "lat": 12.9439409,
+      "lng": 80.1833049,
+      "priority": "low",
+      "updatedAt": "2026-07-01T06:16:22.126633+00:00",
+      "currentSpeed": 24,
+      "freeFlowSpeed": 24,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "1885029649": {
+      "name": "BP",
+      "lat": 13.0421141,
+      "lng": 80.259281,
+      "priority": "high",
+      "updatedAt": "2026-07-01T06:16:22.126633+00:00",
+      "currentSpeed": 16,
+      "freeFlowSpeed": 23,
+      "congestion": "medium",
+      "confidence": 0.99
+    },
+    "2013361108": {
+      "name": "Shell",
+      "lat": 12.9524776,
+      "lng": 80.1702264,
+      "priority": "high",
+      "updatedAt": "2026-07-01T06:16:22.126633+00:00",
+      "currentSpeed": 33,
+      "freeFlowSpeed": 42,
+      "congestion": "medium",
+      "confidence": 1.0
+    },
+    "2039504293": {
+      "name": "Fuel Station",
+      "lat": 12.9489222,
+      "lng": 80.1835848,
+      "priority": "low",
+      "updatedAt": "2026-07-01T06:16:22.126633+00:00",
+      "currentSpeed": 41,
+      "freeFlowSpeed": 41,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "2039508061": {
+      "name": "Fuel Station",
+      "lat": 12.9509065,
+      "lng": 80.1741602,
+      "priority": "low",
+      "updatedAt": "2026-07-01T06:16:22.126633+00:00",
+      "currentSpeed": 41,
+      "freeFlowSpeed": 41,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "2211543181": {
+      "name": "Indian Oil",
+      "lat": 12.8761596,
+      "lng": 80.2273012,
+      "priority": "high",
+      "updatedAt": "2026-07-01T06:16:22.126633+00:00",
+      "currentSpeed": 19,
+      "freeFlowSpeed": 19,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "2878263802": {
+      "name": "HP",
+      "lat": 12.9949579,
+      "lng": 80.1879445,
+      "priority": "high",
+      "updatedAt": "2026-07-01T06:16:22.126633+00:00",
+      "currentSpeed": 31,
+      "freeFlowSpeed": 38,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "3014098218": {
+      "name": "Bharat Petroleum",
+      "lat": 12.9130277,
+      "lng": 80.142989,
+      "priority": "high",
+      "updatedAt": "2026-07-01T06:16:22.126633+00:00",
+      "currentSpeed": 31,
+      "freeFlowSpeed": 31,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "3014098792": {
+      "name": "Shell",
+      "lat": 12.9223527,
+      "lng": 80.1512781,
+      "priority": "high",
+      "updatedAt": "2026-07-01T06:16:22.126633+00:00",
+      "currentSpeed": 33,
+      "freeFlowSpeed": 33,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "3014098823": {
+      "name": "Indian Oil",
+      "lat": 12.9229082,
+      "lng": 80.1508778,
+      "priority": "high",
+      "updatedAt": "2026-07-01T06:16:22.126633+00:00",
+      "currentSpeed": 27,
+      "freeFlowSpeed": 33,
+      "congestion": "low",
+      "confidence": 1.0
     }
   }
 }
