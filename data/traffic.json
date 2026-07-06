@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-07-06T22:47:48.804508+00:00",
-  "stationCount": 14,
+  "timestamp": "2026-07-06T23:47:14.795236+00:00",
+  "stationCount": 19,
   "totalStations": 258,
   "batchUpdated": 5,
   "errors": 0,
-  "dailyRequestsUsed": 10,
-  "schedule": "batch=5 at 04:17 IST",
+  "dailyRequestsUsed": 15,
+  "schedule": "batch=5 at 05:17 IST",
   "stations": {
     "303284327": {
       "name": "Fuel Station",
@@ -158,6 +158,61 @@
       "updatedAt": "2026-07-06T22:47:48.804508+00:00",
       "currentSpeed": 32,
       "freeFlowSpeed": 32,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "364572949": {
+      "name": "Shell",
+      "lat": 13.0247047,
+      "lng": 80.2065279,
+      "priority": "high",
+      "updatedAt": "2026-07-06T23:47:14.795236+00:00",
+      "currentSpeed": 37,
+      "freeFlowSpeed": 37,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "364651023": {
+      "name": "HP",
+      "lat": 13.0200917,
+      "lng": 80.1853891,
+      "priority": "high",
+      "updatedAt": "2026-07-06T23:47:14.795236+00:00",
+      "currentSpeed": 32,
+      "freeFlowSpeed": 32,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "365544723": {
+      "name": "BP",
+      "lat": 13.0116259,
+      "lng": 80.2185178,
+      "priority": "high",
+      "updatedAt": "2026-07-06T23:47:14.795236+00:00",
+      "currentSpeed": 35,
+      "freeFlowSpeed": 35,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "365983863": {
+      "name": "Fuel Station",
+      "lat": 13.0120221,
+      "lng": 80.2197653,
+      "priority": "low",
+      "updatedAt": "2026-07-06T23:47:14.795236+00:00",
+      "currentSpeed": 35,
+      "freeFlowSpeed": 35,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "366075202": {
+      "name": "Indian Oil",
+      "lat": 13.0696245,
+      "lng": 80.1996608,
+      "priority": "high",
+      "updatedAt": "2026-07-06T23:47:14.795236+00:00",
+      "currentSpeed": 18,
+      "freeFlowSpeed": 18,
       "congestion": "low",
       "confidence": 1
     }
