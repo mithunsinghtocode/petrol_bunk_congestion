@@ -1,5 +1,5 @@
 {
-  "fetched_ts": 1783140278.077354,
+  "fetched_ts": 1783749494.5175695,
   "stations": [
     {
       "id": 248343706,
@@ -1719,6 +1719,30 @@
       "brand": "",
       "lat": 13.072536,
       "lng": 80.2020985,
+      "priority": "medium"
+    },
+    {
+      "id": 13987389710,
+      "name": "Hindustan Petroleum",
+      "brand": "Hindustan Petroleum",
+      "lat": 12.9546102,
+      "lng": 80.1603677,
+      "priority": "high"
+    },
+    {
+      "id": 13987389712,
+      "name": "Bharat Petroleum",
+      "brand": "Bharat Petroleum",
+      "lat": 12.9544908,
+      "lng": 80.1607361,
+      "priority": "high"
+    },
+    {
+      "id": 13990412460,
+      "name": "Go Gas",
+      "brand": "Go Gas",
+      "lat": 12.9546654,
+      "lng": 80.1598292,
       "priority": "medium"
     },
     {
