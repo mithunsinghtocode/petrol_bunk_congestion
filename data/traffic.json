@@ -1,89 +1,12 @@
 {
-  "timestamp": "2026-07-18T22:03:03.090533+00:00",
-  "stationCount": 12,
+  "timestamp": "2026-07-19T01:17:08.501229+00:00",
+  "stationCount": 9,
   "totalStations": 261,
   "batchUpdated": 5,
   "errors": 0,
-  "dailyRequestsUsed": 5,
-  "schedule": "batch=5 at 03:33 IST",
+  "dailyRequestsUsed": 10,
+  "schedule": "batch=5 at 06:47 IST",
   "stations": {
-    "7255733766": {
-      "name": "IndianOil",
-      "lat": 13.0558552,
-      "lng": 80.2487664,
-      "priority": "high",
-      "updatedAt": "2026-07-18T16:30:06.270342+00:00",
-      "currentSpeed": 23,
-      "freeFlowSpeed": 23,
-      "congestion": "low",
-      "confidence": 1
-    },
-    "7277050428": {
-      "name": "HP",
-      "lat": 12.9408086,
-      "lng": 80.1317666,
-      "priority": "high",
-      "updatedAt": "2026-07-18T16:30:06.270342+00:00",
-      "currentSpeed": 30,
-      "freeFlowSpeed": 38,
-      "congestion": "medium",
-      "confidence": 1
-    },
-    "7652513549": {
-      "name": "Bharat Petroleum Petrol Pump",
-      "lat": 13.0202778,
-      "lng": 80.1300076,
-      "priority": "high",
-      "updatedAt": "2026-07-18T16:30:06.270342+00:00",
-      "currentSpeed": 69,
-      "freeFlowSpeed": 69,
-      "congestion": "low",
-      "confidence": 1
-    },
-    "8096467026": {
-      "name": "Indian Oil",
-      "lat": 13.0472469,
-      "lng": 80.1995671,
-      "priority": "high",
-      "updatedAt": "2026-07-18T16:30:06.270342+00:00",
-      "currentSpeed": 21,
-      "freeFlowSpeed": 25,
-      "congestion": "low",
-      "confidence": 0.96
-    },
-    "8099976740": {
-      "name": "Indian Oil Petrol Bunk",
-      "lat": 13.0370179,
-      "lng": 80.201671,
-      "priority": "high",
-      "updatedAt": "2026-07-18T16:30:06.270342+00:00",
-      "currentSpeed": 35,
-      "freeFlowSpeed": 35,
-      "congestion": "low",
-      "confidence": 1
-    },
-    "8246733476": {
-      "name": "Supergas AutoLPG",
-      "lat": 12.9496626,
-      "lng": 80.1855583,
-      "priority": "medium",
-      "updatedAt": "2026-07-18T16:30:06.270342+00:00",
-      "currentSpeed": 24,
-      "freeFlowSpeed": 24,
-      "congestion": "low",
-      "confidence": 1
-    },
-    "8430613714": {
-      "name": "BP petrol",
-      "lat": 13.1268721,
-      "lng": 80.1537864,
-      "priority": "high",
-      "updatedAt": "2026-07-18T16:30:06.270342+00:00",
-      "currentSpeed": 25,
-      "freeFlowSpeed": 31,
-      "congestion": "low",
-      "confidence": 0.99
-    },
     "9249922878": {
       "name": "Bharat Petroleum",
       "lat": 12.8815247,
@@ -133,9 +56,53 @@
       "lat": 13.2055961,
       "lng": 80.2705068,
       "priority": "high",
-      "updatedAt": "2026-07-18T22:03:03.090533+00:00",
+      "updatedAt": "2026-07-19T01:17:08.501229+00:00",
       "currentSpeed": 36,
       "freeFlowSpeed": 36,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "9756943706": {
+      "name": "Indian Oil",
+      "lat": 13.1244214,
+      "lng": 80.2778562,
+      "priority": "high",
+      "updatedAt": "2026-07-19T01:17:08.501229+00:00",
+      "currentSpeed": 24,
+      "freeFlowSpeed": 24,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "9769927847": {
+      "name": "Fuel Station",
+      "lat": 12.9517283,
+      "lng": 80.1697742,
+      "priority": "low",
+      "updatedAt": "2026-07-19T01:17:08.501229+00:00",
+      "currentSpeed": 41,
+      "freeFlowSpeed": 41,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "9859553175": {
+      "name": "Indian Oil",
+      "lat": 12.9408177,
+      "lng": 80.0828988,
+      "priority": "high",
+      "updatedAt": "2026-07-19T01:17:08.501229+00:00",
+      "currentSpeed": 30,
+      "freeFlowSpeed": 30,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "9864725747": {
+      "name": "Bharat Petroleum",
+      "lat": 13.2354927,
+      "lng": 80.2172762,
+      "priority": "high",
+      "updatedAt": "2026-07-19T01:17:08.501229+00:00",
+      "currentSpeed": 31,
+      "freeFlowSpeed": 31,
       "congestion": "low",
       "confidence": 1
     }
