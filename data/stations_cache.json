@@ -1,5 +1,5 @@
 {
-  "fetched_ts": 1784967569.583435,
+  "fetched_ts": 1785575567.9091344,
   "stations": [
     {
       "id": 248343706,
@@ -259,8 +259,8 @@
     },
     {
       "id": 370972600,
-      "name": "Indainoil",
-      "brand": "",
+      "name": "Indian Oil",
+      "brand": "Indian Oil",
       "lat": 13.0259345,
       "lng": 80.1753026,
       "priority": "high"
@@ -615,14 +615,6 @@
       "brand": "Bharat Petroleum",
       "lat": 12.9130277,
       "lng": 80.142989,
-      "priority": "high"
-    },
-    {
-      "id": 3014098792,
-      "name": "Shell",
-      "brand": "Shell",
-      "lat": 12.9223527,
-      "lng": 80.1512781,
       "priority": "high"
     },
     {
@@ -1736,6 +1728,22 @@
       "lat": 12.9546654,
       "lng": 80.1598292,
       "priority": "medium"
+    },
+    {
+      "id": 14059881502,
+      "name": "Nayara Energy",
+      "brand": "",
+      "lat": 13.0928078,
+      "lng": 80.2320844,
+      "priority": "high"
+    },
+    {
+      "id": 14059886601,
+      "name": "Bharat Petroleum Pump Station Ayanavaram",
+      "brand": "",
+      "lat": 13.09795,
+      "lng": 80.2385171,
+      "priority": "high"
     },
     {
       "id": 44074948,
