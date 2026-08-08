@@ -1,5 +1,5 @@
 {
-  "fetched_ts": 1785575567.9091344,
+  "fetched_ts": 1786182552.0597827,
   "stations": [
     {
       "id": 248343706,
@@ -223,14 +223,6 @@
       "brand": "Hindustan Petroleum",
       "lat": 13.0158863,
       "lng": 80.2048651,
-      "priority": "high"
-    },
-    {
-      "id": 367103495,
-      "name": "Indian Oil",
-      "brand": "Indian Oil",
-      "lat": 13.0347707,
-      "lng": 80.2109563,
       "priority": "high"
     },
     {
@@ -1388,7 +1380,7 @@
     {
       "id": 11786631296,
       "name": "Total",
-      "brand": "Total",
+      "brand": "TotalEnergies",
       "lat": 13.0773865,
       "lng": 80.2107125,
       "priority": "medium"
@@ -1765,8 +1757,8 @@
       "id": 205878146,
       "name": "IOC",
       "brand": "IOC",
-      "lat": 12.9898779,
-      "lng": 80.2211746,
+      "lat": 12.9898624,
+      "lng": 80.2212253,
       "priority": "high"
     },
     {
