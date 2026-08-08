@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-08-08T19:19:20.599054+00:00",
-  "stationCount": 87,
+  "timestamp": "2026-08-08T19:46:28.481271+00:00",
+  "stationCount": 91,
   "totalStations": 260,
   "batchUpdated": 5,
   "errors": 0,
-  "dailyRequestsUsed": 5,
-  "schedule": "batch=5 at 00:49 IST",
+  "dailyRequestsUsed": 10,
+  "schedule": "batch=5 at 01:16 IST",
   "stations": {
     "5744866566": {
       "name": "HP",
@@ -958,9 +958,53 @@
       "lat": 13.0805405,
       "lng": 80.2665835,
       "priority": "high",
-      "updatedAt": "2026-08-08T19:19:20.599054+00:00",
+      "updatedAt": "2026-08-08T19:46:28.481271+00:00",
       "currentSpeed": 28,
       "freeFlowSpeed": 28,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "12470987701": {
+      "name": "Hindustan Petroleum",
+      "lat": 12.8670551,
+      "lng": 80.2429093,
+      "priority": "high",
+      "updatedAt": "2026-08-08T19:46:28.481271+00:00",
+      "currentSpeed": 49,
+      "freeFlowSpeed": 49,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "12556161501": {
+      "name": "Indian oil",
+      "lat": 12.9156141,
+      "lng": 80.0731147,
+      "priority": "high",
+      "updatedAt": "2026-08-08T19:46:28.481271+00:00",
+      "currentSpeed": 33,
+      "freeFlowSpeed": 33,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "12581525290": {
+      "name": "Indian Oil",
+      "lat": 13.1250522,
+      "lng": 80.2045223,
+      "priority": "high",
+      "updatedAt": "2026-08-08T19:46:28.481271+00:00",
+      "currentSpeed": 34,
+      "freeFlowSpeed": 34,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "12581525296": {
+      "name": "HP",
+      "lat": 13.138097,
+      "lng": 80.2178187,
+      "priority": "high",
+      "updatedAt": "2026-08-08T19:46:28.481271+00:00",
+      "currentSpeed": 32,
+      "freeFlowSpeed": 32,
       "congestion": "low",
       "confidence": 1
     }
