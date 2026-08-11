@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-08-11T04:08:36.670264+00:00",
-  "stationCount": 36,
+  "timestamp": "2026-08-11T05:18:09.911433+00:00",
+  "stationCount": 47,
   "totalStations": 260,
-  "batchUpdated": 16,
+  "batchUpdated": 12,
   "errors": 0,
-  "dailyRequestsUsed": 47,
-  "schedule": "batch=16 at 09:38 IST",
+  "dailyRequestsUsed": 59,
+  "schedule": "batch=12 at 10:48 IST",
   "stations": {
     "9859553175": {
       "name": "Indian Oil",
@@ -397,11 +397,132 @@
       "lat": 13.0488261,
       "lng": 80.1661892,
       "priority": "high",
-      "updatedAt": "2026-08-11T04:08:36.670264+00:00",
-      "currentSpeed": 19,
-      "freeFlowSpeed": 24,
+      "updatedAt": "2026-08-11T05:18:09.911433+00:00",
+      "currentSpeed": 25,
+      "freeFlowSpeed": 25,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "11659380992": {
+      "name": "Nayara",
+      "lat": 13.0474709,
+      "lng": 80.0777345,
+      "priority": "high",
+      "updatedAt": "2026-08-11T05:18:09.911433+00:00",
+      "currentSpeed": 17,
+      "freeFlowSpeed": 21,
+      "congestion": "low",
+      "confidence": 0.95
+    },
+    "11659437794": {
+      "name": "Bharat Petroleum",
+      "lat": 13.0464785,
+      "lng": 80.0783307,
+      "priority": "high",
+      "updatedAt": "2026-08-11T05:18:09.911433+00:00",
+      "currentSpeed": 28,
+      "freeFlowSpeed": 28,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "11659453638": {
+      "name": "Bharat Petroleum",
+      "lat": 13.0158497,
+      "lng": 80.1031673,
+      "priority": "high",
+      "updatedAt": "2026-08-11T05:18:09.911433+00:00",
+      "currentSpeed": 24,
+      "freeFlowSpeed": 29,
+      "congestion": "low",
+      "confidence": 1.0
+    },
+    "11668983770": {
+      "name": "Shell",
+      "lat": 12.9085119,
+      "lng": 80.2501864,
+      "priority": "high",
+      "updatedAt": "2026-08-11T05:18:09.911433+00:00",
+      "currentSpeed": 35,
+      "freeFlowSpeed": 41,
+      "congestion": "low",
+      "confidence": 1.0
+    },
+    "11782112649": {
+      "name": "HP",
+      "lat": 13.1276031,
+      "lng": 80.2175373,
+      "priority": "high",
+      "updatedAt": "2026-08-11T05:18:09.911433+00:00",
+      "currentSpeed": 20,
+      "freeFlowSpeed": 25,
+      "congestion": "low",
+      "confidence": 0.99
+    },
+    "11782138276": {
+      "name": "HP",
+      "lat": 13.0540708,
+      "lng": 80.2344005,
+      "priority": "high",
+      "updatedAt": "2026-08-11T05:18:09.911433+00:00",
+      "currentSpeed": 18,
+      "freeFlowSpeed": 27,
       "congestion": "medium",
-      "confidence": 0.98
+      "confidence": 1.0
+    },
+    "11786631296": {
+      "name": "Total",
+      "lat": 13.0773865,
+      "lng": 80.2107125,
+      "priority": "medium",
+      "updatedAt": "2026-08-11T05:18:09.911433+00:00",
+      "currentSpeed": 19,
+      "freeFlowSpeed": 32,
+      "congestion": "medium",
+      "confidence": 1
+    },
+    "11786642103": {
+      "name": "Bharat Petroleum",
+      "lat": 13.0773833,
+      "lng": 80.208043,
+      "priority": "high",
+      "updatedAt": "2026-08-11T05:18:09.911433+00:00",
+      "currentSpeed": 19,
+      "freeFlowSpeed": 32,
+      "congestion": "medium",
+      "confidence": 1
+    },
+    "11794966576": {
+      "name": "Bharat Petroleum",
+      "lat": 13.0936528,
+      "lng": 80.2412948,
+      "priority": "high",
+      "updatedAt": "2026-08-11T05:18:09.911433+00:00",
+      "currentSpeed": 20,
+      "freeFlowSpeed": 22,
+      "congestion": "low",
+      "confidence": 0.84
+    },
+    "11801717273": {
+      "name": "Indian Oil",
+      "lat": 13.0133604,
+      "lng": 80.1024695,
+      "priority": "high",
+      "updatedAt": "2026-08-11T05:18:09.911433+00:00",
+      "currentSpeed": 25,
+      "freeFlowSpeed": 30,
+      "congestion": "low",
+      "confidence": 1.0
+    },
+    "11817783173": {
+      "name": "Bharat Petroleum",
+      "lat": 12.8931782,
+      "lng": 80.1095789,
+      "priority": "high",
+      "updatedAt": "2026-08-11T05:18:09.911433+00:00",
+      "currentSpeed": 28,
+      "freeFlowSpeed": 28,
+      "congestion": "low",
+      "confidence": 1
     }
   }
 }
