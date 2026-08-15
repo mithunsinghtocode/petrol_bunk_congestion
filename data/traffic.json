@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-08-15T07:48:23.302497+00:00",
-  "stationCount": 149,
+  "timestamp": "2026-08-15T08:01:23.134971+00:00",
+  "stationCount": 158,
   "totalStations": 260,
   "batchUpdated": 10,
   "errors": 0,
-  "dailyRequestsUsed": 163,
-  "schedule": "batch=10 at 13:18 IST",
+  "dailyRequestsUsed": 173,
+  "schedule": "batch=10 at 13:31 IST",
   "stations": {
     "13955229302": {
       "name": "Bharat Petroleum",
@@ -1640,11 +1640,110 @@
       "lat": 13.0378648,
       "lng": 80.1918972,
       "priority": "high",
-      "updatedAt": "2026-08-15T07:48:23.302497+00:00",
+      "updatedAt": "2026-08-15T08:01:23.134971+00:00",
       "currentSpeed": 23,
       "freeFlowSpeed": 23,
       "congestion": "low",
       "confidence": 1
+    },
+    "4488007997": {
+      "name": "Indian Oil",
+      "lat": 13.0378858,
+      "lng": 80.1921778,
+      "priority": "high",
+      "updatedAt": "2026-08-15T08:01:23.134971+00:00",
+      "currentSpeed": 24,
+      "freeFlowSpeed": 24,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "4627586392": {
+      "name": "Fuel Station",
+      "lat": 13.082421,
+      "lng": 80.2091831,
+      "priority": "low",
+      "updatedAt": "2026-08-15T08:01:23.134971+00:00",
+      "currentSpeed": 24,
+      "freeFlowSpeed": 30,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "4627597189": {
+      "name": "Fuel Station",
+      "lat": 13.0920509,
+      "lng": 80.2512648,
+      "priority": "low",
+      "updatedAt": "2026-08-15T08:01:23.134971+00:00",
+      "currentSpeed": 16,
+      "freeFlowSpeed": 22,
+      "congestion": "medium",
+      "confidence": 0.99
+    },
+    "4646203389": {
+      "name": "Fuel Station",
+      "lat": 13.1237034,
+      "lng": 80.2215577,
+      "priority": "low",
+      "updatedAt": "2026-08-15T08:01:23.134971+00:00",
+      "currentSpeed": 24,
+      "freeFlowSpeed": 24,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "4733556322": {
+      "name": "Fuel Station",
+      "lat": 13.0680837,
+      "lng": 80.1280612,
+      "priority": "low",
+      "updatedAt": "2026-08-15T08:01:23.134971+00:00",
+      "currentSpeed": 22,
+      "freeFlowSpeed": 22,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "4733590421": {
+      "name": "Fuel Station",
+      "lat": 13.0677903,
+      "lng": 80.1306714,
+      "priority": "low",
+      "updatedAt": "2026-08-15T08:01:23.134971+00:00",
+      "currentSpeed": 22,
+      "freeFlowSpeed": 22,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "4783866221": {
+      "name": "Fuel Station",
+      "lat": 12.9040344,
+      "lng": 80.1425781,
+      "priority": "low",
+      "updatedAt": "2026-08-15T08:01:23.134971+00:00",
+      "currentSpeed": 29,
+      "freeFlowSpeed": 32,
+      "congestion": "low",
+      "confidence": 0.88
+    },
+    "4864012321": {
+      "name": "Fuel Station",
+      "lat": 13.1725095,
+      "lng": 80.3055945,
+      "priority": "low",
+      "updatedAt": "2026-08-15T08:01:23.134971+00:00",
+      "currentSpeed": 21,
+      "freeFlowSpeed": 23,
+      "congestion": "low",
+      "confidence": 0.94
+    },
+    "4970195221": {
+      "name": "Fuel Station",
+      "lat": 13.1700151,
+      "lng": 80.3045462,
+      "priority": "low",
+      "updatedAt": "2026-08-15T08:01:23.134971+00:00",
+      "currentSpeed": 21,
+      "freeFlowSpeed": 23,
+      "congestion": "low",
+      "confidence": 0.93
     }
   }
 }
