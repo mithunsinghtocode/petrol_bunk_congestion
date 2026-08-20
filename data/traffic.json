@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-08-20T05:48:31.937522+00:00",
-  "stationCount": 95,
+  "timestamp": "2026-08-20T06:17:10.514209+00:00",
+  "stationCount": 106,
   "totalStations": 260,
   "batchUpdated": 12,
   "errors": 0,
-  "dailyRequestsUsed": 130,
-  "schedule": "batch=12 at 11:18 IST",
+  "dailyRequestsUsed": 142,
+  "schedule": "batch=12 at 11:47 IST",
   "stations": {
     "314688253": {
       "name": "HP",
@@ -1046,11 +1046,132 @@
       "lat": 12.9684621,
       "lng": 80.1499328,
       "priority": "high",
-      "updatedAt": "2026-08-20T05:48:31.937522+00:00",
+      "updatedAt": "2026-08-20T06:17:10.514209+00:00",
       "currentSpeed": 28,
       "freeFlowSpeed": 28,
       "congestion": "low",
       "confidence": 1
+    },
+    "6329440330": {
+      "name": "HP",
+      "lat": 12.965443,
+      "lng": 80.1484205,
+      "priority": "high",
+      "updatedAt": "2026-08-20T06:17:10.514209+00:00",
+      "currentSpeed": 28,
+      "freeFlowSpeed": 28,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "7057699185": {
+      "name": "Indian Oil",
+      "lat": 13.0722894,
+      "lng": 80.2517008,
+      "priority": "high",
+      "updatedAt": "2026-08-20T06:17:10.514209+00:00",
+      "currentSpeed": 29,
+      "freeFlowSpeed": 36,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "7136010485": {
+      "name": "Bharat Petroleum Petrol Station",
+      "lat": 13.0504559,
+      "lng": 80.2564197,
+      "priority": "high",
+      "updatedAt": "2026-08-20T06:17:10.514209+00:00",
+      "currentSpeed": 25,
+      "freeFlowSpeed": 25,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "7227780310": {
+      "name": "Bharat Petroleum",
+      "lat": 13.0885238,
+      "lng": 80.1697204,
+      "priority": "high",
+      "updatedAt": "2026-08-20T06:17:10.514209+00:00",
+      "currentSpeed": 13,
+      "freeFlowSpeed": 25,
+      "congestion": "medium",
+      "confidence": 0.99
+    },
+    "7252470680": {
+      "name": "Fuel Station",
+      "lat": 13.0584278,
+      "lng": 80.2425658,
+      "priority": "low",
+      "updatedAt": "2026-08-20T06:17:10.514209+00:00",
+      "currentSpeed": 31,
+      "freeFlowSpeed": 31,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "7255733766": {
+      "name": "IndianOil",
+      "lat": 13.0558552,
+      "lng": 80.2487664,
+      "priority": "high",
+      "updatedAt": "2026-08-20T06:17:10.514209+00:00",
+      "currentSpeed": 18,
+      "freeFlowSpeed": 22,
+      "congestion": "low",
+      "confidence": 0.86
+    },
+    "7277050428": {
+      "name": "HP",
+      "lat": 12.9408086,
+      "lng": 80.1317666,
+      "priority": "high",
+      "updatedAt": "2026-08-20T06:17:10.514209+00:00",
+      "currentSpeed": 32,
+      "freeFlowSpeed": 38,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "7652513549": {
+      "name": "Bharat Petroleum Petrol Pump",
+      "lat": 13.0202778,
+      "lng": 80.1300076,
+      "priority": "high",
+      "updatedAt": "2026-08-20T06:17:10.514209+00:00",
+      "currentSpeed": 69,
+      "freeFlowSpeed": 69,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "8096467026": {
+      "name": "Indian Oil",
+      "lat": 13.0472469,
+      "lng": 80.1995671,
+      "priority": "high",
+      "updatedAt": "2026-08-20T06:17:10.514209+00:00",
+      "currentSpeed": 21,
+      "freeFlowSpeed": 25,
+      "congestion": "low",
+      "confidence": 0.95
+    },
+    "8099976740": {
+      "name": "Indian Oil Petrol Bunk",
+      "lat": 13.0370179,
+      "lng": 80.201671,
+      "priority": "high",
+      "updatedAt": "2026-08-20T06:17:10.514209+00:00",
+      "currentSpeed": 30,
+      "freeFlowSpeed": 35,
+      "congestion": "low",
+      "confidence": 1.0
+    },
+    "8246733476": {
+      "name": "Supergas AutoLPG",
+      "lat": 12.9496626,
+      "lng": 80.1855583,
+      "priority": "medium",
+      "updatedAt": "2026-08-20T06:17:10.514209+00:00",
+      "currentSpeed": 23,
+      "freeFlowSpeed": 23,
+      "congestion": "low",
+      "confidence": 0.97
     }
   }
 }
