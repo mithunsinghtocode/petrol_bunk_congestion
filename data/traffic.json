@@ -1,56 +1,12 @@
 {
-  "timestamp": "2026-08-21T05:16:44.555234+00:00",
-  "stationCount": 76,
+  "timestamp": "2026-08-21T05:48:34.685048+00:00",
+  "stationCount": 83,
   "totalStations": 260,
   "batchUpdated": 12,
   "errors": 0,
-  "dailyRequestsUsed": 107,
-  "schedule": "batch=12 at 10:46 IST",
+  "dailyRequestsUsed": 119,
+  "schedule": "batch=12 at 11:18 IST",
   "stations": {
-    "3725563305": {
-      "name": "Bharat Petroleum",
-      "lat": 12.9083732,
-      "lng": 80.2287564,
-      "priority": "high",
-      "updatedAt": "2026-08-20T23:33:42.151380+00:00",
-      "currentSpeed": 15,
-      "freeFlowSpeed": 15,
-      "congestion": "low",
-      "confidence": 1
-    },
-    "3829225725": {
-      "name": "Bharat Petroleum",
-      "lat": 12.9247788,
-      "lng": 80.2303371,
-      "priority": "high",
-      "updatedAt": "2026-08-20T23:33:42.151380+00:00",
-      "currentSpeed": 20,
-      "freeFlowSpeed": 20,
-      "congestion": "low",
-      "confidence": 1
-    },
-    "4056703681": {
-      "name": "Bharat Petroleum",
-      "lat": 12.9823866,
-      "lng": 80.2180571,
-      "priority": "high",
-      "updatedAt": "2026-08-20T23:33:42.151380+00:00",
-      "currentSpeed": 33,
-      "freeFlowSpeed": 33,
-      "congestion": "low",
-      "confidence": 1
-    },
-    "4161672690": {
-      "name": "Petrol Bunk",
-      "lat": 12.8768826,
-      "lng": 80.0785571,
-      "priority": "medium",
-      "updatedAt": "2026-08-20T23:33:42.151380+00:00",
-      "currentSpeed": 24,
-      "freeFlowSpeed": 24,
-      "congestion": "low",
-      "confidence": 1
-    },
     "4308320193": {
       "name": "Bharat Petroleum Bunk",
       "lat": 13.072324,
@@ -837,11 +793,132 @@
       "lat": 13.0312675,
       "lng": 80.1645244,
       "priority": "high",
-      "updatedAt": "2026-08-21T05:16:44.555234+00:00",
+      "updatedAt": "2026-08-21T05:48:34.685048+00:00",
       "currentSpeed": 32,
       "freeFlowSpeed": 32,
       "congestion": "low",
       "confidence": 1
+    },
+    "11626062275": {
+      "name": "Bharat Petroleum",
+      "lat": 12.9746968,
+      "lng": 80.1920646,
+      "priority": "high",
+      "updatedAt": "2026-08-21T05:48:34.685048+00:00",
+      "currentSpeed": 23,
+      "freeFlowSpeed": 24,
+      "congestion": "low",
+      "confidence": 0.99
+    },
+    "11629500452": {
+      "name": "HP",
+      "lat": 13.0488261,
+      "lng": 80.1661892,
+      "priority": "high",
+      "updatedAt": "2026-08-21T05:48:34.685048+00:00",
+      "currentSpeed": 25,
+      "freeFlowSpeed": 25,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "11659380992": {
+      "name": "Nayara",
+      "lat": 13.0474709,
+      "lng": 80.0777345,
+      "priority": "high",
+      "updatedAt": "2026-08-21T05:48:34.685048+00:00",
+      "currentSpeed": 21,
+      "freeFlowSpeed": 21,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "11659437794": {
+      "name": "Bharat Petroleum",
+      "lat": 13.0464785,
+      "lng": 80.0783307,
+      "priority": "high",
+      "updatedAt": "2026-08-21T05:48:34.685048+00:00",
+      "currentSpeed": 28,
+      "freeFlowSpeed": 28,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "11659453638": {
+      "name": "Bharat Petroleum",
+      "lat": 13.0158497,
+      "lng": 80.1031673,
+      "priority": "high",
+      "updatedAt": "2026-08-21T05:48:34.685048+00:00",
+      "currentSpeed": 25,
+      "freeFlowSpeed": 30,
+      "congestion": "low",
+      "confidence": 1.0
+    },
+    "11668983770": {
+      "name": "Shell",
+      "lat": 12.9085119,
+      "lng": 80.2501864,
+      "priority": "high",
+      "updatedAt": "2026-08-21T05:48:34.685048+00:00",
+      "currentSpeed": 34,
+      "freeFlowSpeed": 41,
+      "congestion": "low",
+      "confidence": 1.0
+    },
+    "11782112649": {
+      "name": "HP",
+      "lat": 13.1276031,
+      "lng": 80.2175373,
+      "priority": "high",
+      "updatedAt": "2026-08-21T05:48:34.685048+00:00",
+      "currentSpeed": 25,
+      "freeFlowSpeed": 25,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "11782138276": {
+      "name": "HP",
+      "lat": 13.0540708,
+      "lng": 80.2344005,
+      "priority": "high",
+      "updatedAt": "2026-08-21T05:48:34.685048+00:00",
+      "currentSpeed": 18,
+      "freeFlowSpeed": 28,
+      "congestion": "medium",
+      "confidence": 1
+    },
+    "11786631296": {
+      "name": "Total",
+      "lat": 13.0773865,
+      "lng": 80.2107125,
+      "priority": "medium",
+      "updatedAt": "2026-08-21T05:48:34.685048+00:00",
+      "currentSpeed": 22,
+      "freeFlowSpeed": 32,
+      "congestion": "medium",
+      "confidence": 1
+    },
+    "11786642103": {
+      "name": "Bharat Petroleum",
+      "lat": 13.0773833,
+      "lng": 80.208043,
+      "priority": "high",
+      "updatedAt": "2026-08-21T05:48:34.685048+00:00",
+      "currentSpeed": 22,
+      "freeFlowSpeed": 32,
+      "congestion": "medium",
+      "confidence": 1
+    },
+    "11794966576": {
+      "name": "Bharat Petroleum",
+      "lat": 13.0936528,
+      "lng": 80.2412948,
+      "priority": "high",
+      "updatedAt": "2026-08-21T05:48:34.685048+00:00",
+      "currentSpeed": 19,
+      "freeFlowSpeed": 22,
+      "congestion": "low",
+      "confidence": 0.87
     }
   }
 }
