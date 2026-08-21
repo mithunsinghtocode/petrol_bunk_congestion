@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-08-21T10:12:28.202545+00:00",
-  "stationCount": 102,
+  "timestamp": "2026-08-21T10:46:57.923940+00:00",
+  "stationCount": 111,
   "totalStations": 260,
   "batchUpdated": 10,
   "errors": 0,
-  "dailyRequestsUsed": 193,
-  "schedule": "batch=10 at 15:42 IST",
+  "dailyRequestsUsed": 203,
+  "schedule": "batch=10 at 16:16 IST",
   "stations": {
     "10536613506": {
       "name": "Bharat Petroleum",
@@ -1123,11 +1123,110 @@
       "lat": 12.9947388,
       "lng": 80.0708238,
       "priority": "high",
-      "updatedAt": "2026-08-21T10:12:28.202545+00:00",
+      "updatedAt": "2026-08-21T10:46:57.923940+00:00",
       "currentSpeed": 49,
       "freeFlowSpeed": 49,
       "congestion": "low",
       "confidence": 1
+    },
+    "835026378": {
+      "name": "Shell",
+      "lat": 13.1083432,
+      "lng": 80.1764081,
+      "priority": "high",
+      "updatedAt": "2026-08-21T10:46:57.923940+00:00",
+      "currentSpeed": 23,
+      "freeFlowSpeed": 28,
+      "congestion": "low",
+      "confidence": 1.0
+    },
+    "835221421": {
+      "name": "HP Fuel Station",
+      "lat": 12.9453157,
+      "lng": 80.1067659,
+      "priority": "high",
+      "updatedAt": "2026-08-21T10:46:57.923940+00:00",
+      "currentSpeed": 69,
+      "freeFlowSpeed": 69,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "835255890": {
+      "name": "Shell Fuel Station",
+      "lat": 13.0889411,
+      "lng": 80.1701962,
+      "priority": "high",
+      "updatedAt": "2026-08-21T10:46:57.923940+00:00",
+      "currentSpeed": 22,
+      "freeFlowSpeed": 31,
+      "congestion": "medium",
+      "confidence": 0.96
+    },
+    "843855628": {
+      "name": "GoGas LPG",
+      "lat": 13.1174532,
+      "lng": 80.1563543,
+      "priority": "medium",
+      "updatedAt": "2026-08-21T10:46:57.923940+00:00",
+      "currentSpeed": 24,
+      "freeFlowSpeed": 31,
+      "congestion": "medium",
+      "confidence": 1.0
+    },
+    "922383171": {
+      "name": "Shell",
+      "lat": 12.9641205,
+      "lng": 80.187622,
+      "priority": "high",
+      "updatedAt": "2026-08-21T10:46:57.923940+00:00",
+      "currentSpeed": 24,
+      "freeFlowSpeed": 25,
+      "congestion": "low",
+      "confidence": 0.99
+    },
+    "937769544": {
+      "name": "Indian Oil",
+      "lat": 12.9830485,
+      "lng": 80.1904569,
+      "priority": "high",
+      "updatedAt": "2026-08-21T10:46:57.923940+00:00",
+      "currentSpeed": 24,
+      "freeFlowSpeed": 25,
+      "congestion": "low",
+      "confidence": 0.99
+    },
+    "1092147746": {
+      "name": "B G Agencies",
+      "lat": 13.0278518,
+      "lng": 80.1708779,
+      "priority": "high",
+      "updatedAt": "2026-08-21T10:46:57.923940+00:00",
+      "currentSpeed": 23,
+      "freeFlowSpeed": 32,
+      "congestion": "medium",
+      "confidence": 1.0
+    },
+    "1193839071": {
+      "name": "Nayara",
+      "lat": 12.9588294,
+      "lng": 80.1289797,
+      "priority": "high",
+      "updatedAt": "2026-08-21T10:46:57.923940+00:00",
+      "currentSpeed": 17,
+      "freeFlowSpeed": 24,
+      "congestion": "medium",
+      "confidence": 0.91
+    },
+    "1284550496": {
+      "name": "Indian Oil",
+      "lat": 13.1587403,
+      "lng": 80.2013013,
+      "priority": "high",
+      "updatedAt": "2026-08-21T10:46:57.923940+00:00",
+      "currentSpeed": 25,
+      "freeFlowSpeed": 31,
+      "congestion": "low",
+      "confidence": 0.96
     }
   }
 }
