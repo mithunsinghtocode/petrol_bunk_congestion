@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-08-22T10:44:51.926423+00:00",
-  "stationCount": 139,
+  "timestamp": "2026-08-22T10:59:20.493083+00:00",
+  "stationCount": 148,
   "totalStations": 260,
   "batchUpdated": 10,
   "errors": 0,
-  "dailyRequestsUsed": 241,
-  "schedule": "batch=10 at 16:14 IST",
+  "dailyRequestsUsed": 251,
+  "schedule": "batch=10 at 16:29 IST",
   "stations": {
     "14059881502": {
       "name": "Nayara Energy",
@@ -1530,11 +1530,110 @@
       "lat": 13.0649955,
       "lng": 80.2432915,
       "priority": "high",
-      "updatedAt": "2026-08-22T10:44:51.926423+00:00",
-      "currentSpeed": 18,
-      "freeFlowSpeed": 23,
+      "updatedAt": "2026-08-22T10:59:20.493083+00:00",
+      "currentSpeed": 19,
+      "freeFlowSpeed": 24,
       "congestion": "medium",
-      "confidence": 0.88
+      "confidence": 0.87
+    },
+    "4410824051": {
+      "name": "Indian Oil Propel",
+      "lat": 13.0263102,
+      "lng": 80.2316753,
+      "priority": "high",
+      "updatedAt": "2026-08-22T10:59:20.493083+00:00",
+      "currentSpeed": 25,
+      "freeFlowSpeed": 35,
+      "congestion": "medium",
+      "confidence": 0.99
+    },
+    "4451597746": {
+      "name": "Essar Gas Station",
+      "lat": 13.0913433,
+      "lng": 80.1083136,
+      "priority": "medium",
+      "updatedAt": "2026-08-22T10:59:20.493083+00:00",
+      "currentSpeed": 24,
+      "freeFlowSpeed": 30,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "4488007996": {
+      "name": "Bharat Petroleum",
+      "lat": 13.0378648,
+      "lng": 80.1918972,
+      "priority": "high",
+      "updatedAt": "2026-08-22T10:59:20.493083+00:00",
+      "currentSpeed": 24,
+      "freeFlowSpeed": 24,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "4488007997": {
+      "name": "Indian Oil",
+      "lat": 13.0378858,
+      "lng": 80.1921778,
+      "priority": "high",
+      "updatedAt": "2026-08-22T10:59:20.493083+00:00",
+      "currentSpeed": 17,
+      "freeFlowSpeed": 24,
+      "congestion": "medium",
+      "confidence": 0.99
+    },
+    "4627586392": {
+      "name": "Fuel Station",
+      "lat": 13.082421,
+      "lng": 80.2091831,
+      "priority": "low",
+      "updatedAt": "2026-08-22T10:59:20.493083+00:00",
+      "currentSpeed": 20,
+      "freeFlowSpeed": 29,
+      "congestion": "medium",
+      "confidence": 1.0
+    },
+    "4627597189": {
+      "name": "Fuel Station",
+      "lat": 13.0920509,
+      "lng": 80.2512648,
+      "priority": "low",
+      "updatedAt": "2026-08-22T10:59:20.493083+00:00",
+      "currentSpeed": 14,
+      "freeFlowSpeed": 22,
+      "congestion": "medium",
+      "confidence": 0.97
+    },
+    "4646203389": {
+      "name": "Fuel Station",
+      "lat": 13.1237034,
+      "lng": 80.2215577,
+      "priority": "low",
+      "updatedAt": "2026-08-22T10:59:20.493083+00:00",
+      "currentSpeed": 19,
+      "freeFlowSpeed": 23,
+      "congestion": "low",
+      "confidence": 1.0
+    },
+    "4733556322": {
+      "name": "Fuel Station",
+      "lat": 13.0680837,
+      "lng": 80.1280612,
+      "priority": "low",
+      "updatedAt": "2026-08-22T10:59:20.493083+00:00",
+      "currentSpeed": 22,
+      "freeFlowSpeed": 22,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "4733590421": {
+      "name": "Fuel Station",
+      "lat": 13.0677903,
+      "lng": 80.1306714,
+      "priority": "low",
+      "updatedAt": "2026-08-22T10:59:20.493083+00:00",
+      "currentSpeed": 22,
+      "freeFlowSpeed": 22,
+      "congestion": "low",
+      "confidence": 1
     }
   }
 }
