@@ -1,89 +1,12 @@
 {
-  "timestamp": "2026-08-22T22:33:27.146735+00:00",
-  "stationCount": 28,
+  "timestamp": "2026-08-22T23:31:18.692288+00:00",
+  "stationCount": 26,
   "totalStations": 260,
   "batchUpdated": 5,
   "errors": 0,
-  "dailyRequestsUsed": 20,
-  "schedule": "batch=5 at 04:03 IST",
+  "dailyRequestsUsed": 25,
+  "schedule": "batch=5 at 05:01 IST",
   "stations": {
-    "314688253": {
-      "name": "HP",
-      "lat": 13.0427775,
-      "lng": 80.2677547,
-      "priority": "high",
-      "updatedAt": "2026-08-22T16:54:00.477307+00:00",
-      "currentSpeed": 32,
-      "freeFlowSpeed": 32,
-      "congestion": "low",
-      "confidence": 1
-    },
-    "317821274": {
-      "name": "HP",
-      "lat": 13.0184727,
-      "lng": 80.2614032,
-      "priority": "high",
-      "updatedAt": "2026-08-22T16:54:00.477307+00:00",
-      "currentSpeed": 33,
-      "freeFlowSpeed": 33,
-      "congestion": "low",
-      "confidence": 1
-    },
-    "319038955": {
-      "name": "Indian Oil",
-      "lat": 13.0421221,
-      "lng": 80.2684202,
-      "priority": "high",
-      "updatedAt": "2026-08-22T16:54:00.477307+00:00",
-      "currentSpeed": 23,
-      "freeFlowSpeed": 23,
-      "congestion": "low",
-      "confidence": 1
-    },
-    "325787817": {
-      "name": "Indian Oil",
-      "lat": 12.9097046,
-      "lng": 80.2503011,
-      "priority": "high",
-      "updatedAt": "2026-08-22T16:54:00.477307+00:00",
-      "currentSpeed": 30,
-      "freeFlowSpeed": 41,
-      "congestion": "medium",
-      "confidence": 1.0
-    },
-    "344405871": {
-      "name": "Fuel Station",
-      "lat": 13.0674553,
-      "lng": 80.2524458,
-      "priority": "low",
-      "updatedAt": "2026-08-22T16:54:00.477307+00:00",
-      "currentSpeed": 32,
-      "freeFlowSpeed": 32,
-      "congestion": "low",
-      "confidence": 1
-    },
-    "364572949": {
-      "name": "Shell",
-      "lat": 13.0247047,
-      "lng": 80.2065279,
-      "priority": "high",
-      "updatedAt": "2026-08-22T16:54:00.477307+00:00",
-      "currentSpeed": 27,
-      "freeFlowSpeed": 37,
-      "congestion": "medium",
-      "confidence": 1
-    },
-    "364651023": {
-      "name": "HP",
-      "lat": 13.0200917,
-      "lng": 80.1853891,
-      "priority": "high",
-      "updatedAt": "2026-08-22T16:54:00.477307+00:00",
-      "currentSpeed": 25,
-      "freeFlowSpeed": 32,
-      "congestion": "medium",
-      "confidence": 1.0
-    },
     "365544723": {
       "name": "BP",
       "lat": 13.0116259,
@@ -314,6 +237,61 @@
       "freeFlowSpeed": 32,
       "congestion": "low",
       "confidence": 1
+    },
+    "610963138": {
+      "name": "Fuel Station",
+      "lat": 13.0867504,
+      "lng": 80.2586838,
+      "priority": "low",
+      "updatedAt": "2026-08-22T23:31:18.692288+00:00",
+      "currentSpeed": 21,
+      "freeFlowSpeed": 21,
+      "congestion": "low",
+      "confidence": 0.8
+    },
+    "674685508": {
+      "name": "Fuel Station",
+      "lat": 13.1085927,
+      "lng": 80.2435965,
+      "priority": "low",
+      "updatedAt": "2026-08-22T23:31:18.692288+00:00",
+      "currentSpeed": 21,
+      "freeFlowSpeed": 21,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "687176659": {
+      "name": "HP",
+      "lat": 13.07286,
+      "lng": 80.1888928,
+      "priority": "high",
+      "updatedAt": "2026-08-22T23:31:18.692288+00:00",
+      "currentSpeed": 31,
+      "freeFlowSpeed": 31,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "687176660": {
+      "name": "Indian Oil",
+      "lat": 13.0718881,
+      "lng": 80.1879592,
+      "priority": "high",
+      "updatedAt": "2026-08-22T23:31:18.692288+00:00",
+      "currentSpeed": 31,
+      "freeFlowSpeed": 31,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "694035914": {
+      "name": "Essar Petrol station",
+      "lat": 12.9488925,
+      "lng": 80.1854622,
+      "priority": "medium",
+      "updatedAt": "2026-08-22T23:31:18.692288+00:00",
+      "currentSpeed": 25,
+      "freeFlowSpeed": 25,
+      "congestion": "low",
+      "confidence": 0.89
     }
   }
 }
