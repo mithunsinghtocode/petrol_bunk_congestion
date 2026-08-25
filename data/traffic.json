@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-08-25T20:45:34.077276+00:00",
-  "stationCount": 36,
+  "timestamp": "2026-08-25T21:03:29.885979+00:00",
+  "stationCount": 40,
   "totalStations": 260,
   "batchUpdated": 5,
   "errors": 0,
-  "dailyRequestsUsed": 5,
-  "schedule": "batch=5 at 02:15 IST",
+  "dailyRequestsUsed": 10,
+  "schedule": "batch=5 at 02:33 IST",
   "stations": {
     "11818459188": {
       "name": "HP",
@@ -397,9 +397,53 @@
       "lat": 12.9546102,
       "lng": 80.1603677,
       "priority": "high",
-      "updatedAt": "2026-08-25T20:45:34.077276+00:00",
+      "updatedAt": "2026-08-25T21:03:29.885979+00:00",
       "currentSpeed": 42,
       "freeFlowSpeed": 42,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "13987389712": {
+      "name": "Bharat Petroleum",
+      "lat": 12.9544908,
+      "lng": 80.1607361,
+      "priority": "high",
+      "updatedAt": "2026-08-25T21:03:29.885979+00:00",
+      "currentSpeed": 42,
+      "freeFlowSpeed": 42,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "13990412460": {
+      "name": "Go Gas",
+      "lat": 12.9546654,
+      "lng": 80.1598292,
+      "priority": "medium",
+      "updatedAt": "2026-08-25T21:03:29.885979+00:00",
+      "currentSpeed": 42,
+      "freeFlowSpeed": 42,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "14059881502": {
+      "name": "Nayara Energy",
+      "lat": 13.0928078,
+      "lng": 80.2320844,
+      "priority": "high",
+      "updatedAt": "2026-08-25T21:03:29.885979+00:00",
+      "currentSpeed": 22,
+      "freeFlowSpeed": 22,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "14059886601": {
+      "name": "Bharat Petroleum Pump Station Ayanavaram",
+      "lat": 13.09795,
+      "lng": 80.2385171,
+      "priority": "high",
+      "updatedAt": "2026-08-25T21:03:29.885979+00:00",
+      "currentSpeed": 18,
+      "freeFlowSpeed": 18,
       "congestion": "low",
       "confidence": 1
     }
