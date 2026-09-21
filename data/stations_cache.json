@@ -1,5 +1,5 @@
 {
-  "fetched_ts": 1789312181.9306326,
+  "fetched_ts": 1789954501.5734165,
   "stations": [
     {
       "id": 248343706,
@@ -1597,8 +1597,8 @@
       "id": 12581525296,
       "name": "HP",
       "brand": "Hindustan Petroleum",
-      "lat": 13.138097,
-      "lng": 80.2178187,
+      "lat": 13.1380292,
+      "lng": 80.217881,
       "priority": "high"
     },
     {
@@ -1859,10 +1859,10 @@
     },
     {
       "id": 354768525,
-      "name": "HP Fuel Station",
-      "brand": "Hindustan Petroleum",
-      "lat": 13.1184638,
-      "lng": 80.1499177,
+      "name": "Bharat Petroleum",
+      "brand": "Bharat Petroleum",
+      "lat": 13.118484,
+      "lng": 80.14989,
       "priority": "high"
     },
     {
