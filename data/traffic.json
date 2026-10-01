@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-10-01T14:30:35.640070+00:00",
-  "stationCount": 16,
+  "timestamp": "2026-10-01T19:45:26.971854+00:00",
+  "stationCount": 20,
   "totalStations": 260,
-  "batchUpdated": 16,
+  "batchUpdated": 5,
   "errors": 0,
-  "dailyRequestsUsed": 28,
-  "schedule": "batch=16 at 20:00 IST",
+  "dailyRequestsUsed": 5,
+  "schedule": "batch=5 at 01:15 IST",
   "stations": {
     "44074948": {
       "name": "Hindustan Petroleum",
@@ -177,11 +177,55 @@
       "lat": 13.118484,
       "lng": 80.14989,
       "priority": "high",
-      "updatedAt": "2026-10-01T14:30:35.640070+00:00",
-      "currentSpeed": 22,
+      "updatedAt": "2026-10-01T19:45:26.971854+00:00",
+      "currentSpeed": 31,
       "freeFlowSpeed": 31,
-      "congestion": "medium",
-      "confidence": 0.99
+      "congestion": "low",
+      "confidence": 1
+    },
+    "355003644": {
+      "name": "Indian Oil",
+      "lat": 12.9783713,
+      "lng": 80.1941378,
+      "priority": "high",
+      "updatedAt": "2026-10-01T19:45:26.971854+00:00",
+      "currentSpeed": 24,
+      "freeFlowSpeed": 25,
+      "congestion": "low",
+      "confidence": 0.89
+    },
+    "355014880": {
+      "name": "Indian Oil",
+      "lat": 12.9254957,
+      "lng": 80.1028178,
+      "priority": "high",
+      "updatedAt": "2026-10-01T19:45:26.971854+00:00",
+      "currentSpeed": 28,
+      "freeFlowSpeed": 28,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "355889174": {
+      "name": "Bharat Petroleum",
+      "lat": 12.9325525,
+      "lng": 80.1486261,
+      "priority": "high",
+      "updatedAt": "2026-10-01T19:45:26.971854+00:00",
+      "currentSpeed": 22,
+      "freeFlowSpeed": 22,
+      "congestion": "low",
+      "confidence": 1
+    },
+    "355920563": {
+      "name": "Indian Oil",
+      "lat": 12.9723444,
+      "lng": 80.1398299,
+      "priority": "high",
+      "updatedAt": "2026-10-01T19:45:26.971854+00:00",
+      "currentSpeed": 23,
+      "freeFlowSpeed": 23,
+      "congestion": "low",
+      "confidence": 1
     }
   }
 }
